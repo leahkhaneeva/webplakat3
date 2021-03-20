@@ -1218,6 +1218,26 @@ $( function() {
     $( ".dot6" ).draggable({ containment: ".container", scroll: false });
   } );
 
+  $(window).scroll(function() {
+let theta = $(window).scrollTop() / 100 % Math.PI;
+$('.button1').css({ transform: 'rotate(' + theta + 'rad)' });
+$('.button2').css({ transform: 'rotate(' + theta + 'rad)' });
+});
+
+
+
+
+// $(window).scroll(function() {
+// let button1 = document.getElementByClassName(".button1"),
+// button2 = document.getElementByClassName(".button2");
+// $(".button1").style.transform = "rotate("+window.pageYOffset+"deg)"});
+// $(".button2").style.transform = "rotate(-"+window.pageYOffset+"deg)"});
+// });
+
+// window.addEventListener("scroll", function() {
+//     $(".button1").style.transform = "rotate("+window.pageYOffset+"deg)";
+//     $(".button2").style.transform = "rotate(-"+window.pageYOffset+"deg)";
+// });
 //   $(document).ready(function(){
 //   $(".mouth4").click(function(){
 //     $(this).addClass("mouth42").css('visibility', 'visible');
