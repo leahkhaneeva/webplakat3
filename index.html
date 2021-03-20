@@ -7,6 +7,7 @@
     <title></title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     <!-- <script src="js\haircolor.js" charset="utf-8"></script> -->
     <style media="screen">
 
@@ -618,23 +619,49 @@
       left: 0%;
       width: 100%;
     }
+    .container{
+      position: absolute;
+      width: 66%;
+      height: 97%;
+      top:1.4%;
+      left: 17%;
+      background: transparent;
+    }
     .dot1{
       position: absolute;
-      width: 24.7761194%;
-      top: 5%;
-      left: 19%;
+      width: 35%;
+      top: 3%;
+      left: 5%;
     }
     .dot2{
       position: absolute;
-      width: 24.7761194%;
-      top: 27%;
-      left: 56%;
+      width: 35%;
+      top: 23%;
+      left: 58%;
     }
     .dot3{
       position: absolute;
-      width: 24.7761194%;
-      top: 60%;
-      left: 27%;
+      width: 35%;
+      top: 67%;
+      left: 13%;
+    }
+    .dot4{
+      position: absolute;
+      width: 18%;
+      top: 70%;
+      left: 70%;
+    }
+    .dot5{
+      position: absolute;
+      width: 18%;
+      top: 38%;
+      left: 30%;
+    }
+    .dot6{
+      position: absolute;
+      width: 15%;
+      top: 3%;
+      left: 73%;
     }
     .lhand1{
       position: absolute;
@@ -684,53 +711,101 @@
       left: 54%;
       width: 32.2090278%;
     }
-    .nail1{
+    .nail{
      position: absolute;
      top: 86.3%;
      left: 16%;
      width: 4.36388889%;
      height: 0.83998396%;
-     background: white;
     }
-    .nail2{
+    .razz{
+     background: #8000D4;
+    }
+    .dvaa{
+     background: #FF57B3;
+    }
+    .trii{
+     background: #3ED37D;
+    }
+    .naill{
      position: absolute;
      top: 87.8%;
      left: 16%;
      width: 4.36388889%;
      height: 0.83998396%;
-     background: white;
     }
-    .nail3{
+    .un{
+     background: #8000D4;
+    }
+    .deux{
+     background: #FF57B3;
+    }
+    .trois{
+     background: #3ED37D;
+    }
+    .nailll{
      position: absolute;
      top: 89.31%;
      left: 16%;
      width: 4.36388889%;
      height: 0.83998396%;
-     background: white;
     }
-    .nail4{
+    .ra{
+     background: #8000D4;
+    }
+    .dv{
+     background: #FF57B3;
+    }
+    .tr{
+     background: #3ED37D;
+    }
+    .rnail{
      position: absolute;
      top: 86.3%;
      left: 79.5%;
      width: 4.36388889%;
      height: 0.83998396%;
-     background: white;
     }
-    .nail5{
+    .razzz{
+     background: #8000D4;
+    }
+    .dvaaa{
+     background: #FF57B3;
+    }
+    .triii{
+     background: #3ED37D;
+    }
+    .rnaill{
      position: absolute;
      top: 87.8%;
      left: 79.5%;
      width: 4.36388889%;
      height: 0.83998396%;
-     background: white;
     }
-    .nail6{
+    .unn{
+     background: #8000D4;
+    }
+    .deuxx{
+     background: #FF57B3;
+    }
+    .troiss{
+     background: #3ED37D;
+    }
+    .rnailll{
      position: absolute;
      top: 89.31%;
      left: 79.5%;
      width: 4.36388889%;
      height: 0.83998396%;
-     background: white;
+    }
+    .raa{
+     background: #8000D4;
+    }
+    .dvv{
+     background: #FF57B3;
+    }
+    .trr{
+     background: #3ED37D;
     }
     .bubble1{
       position: absolute;
@@ -963,6 +1038,132 @@
       });
     });
 
+    $(document).ready(function(){
+      $(".nail").click(function(){
+        if ($(this).hasClass("trii")){
+          $(this).addClass("razz");
+          setTimeout(function(){
+            $(".nail").removeClass("trii");
+          }, 100);
+        } else if ( $(this).hasClass("dvaa")){
+          $(this).addClass("trii");
+          setTimeout(function(){
+            $(".nail").removeClass("dvaa");
+          }, 100);
+        } else if ( $(this).hasClass("razz")){
+          $(this).addClass("dvaa");
+          setTimeout(function(){
+            $(".nail").removeClass("razz");
+          }, 100);
+        };
+      });
+    });
+
+    $(document).ready(function(){
+      $(".naill").click(function(){
+        if ($(this).hasClass("trois")){
+          $(this).addClass("un");
+          setTimeout(function(){
+            $(".naill").removeClass("trois");
+          }, 100);
+        } else if ( $(this).hasClass("deux")){
+          $(this).addClass("trois");
+          setTimeout(function(){
+            $(".naill").removeClass("deux");
+          }, 100);
+        } else if ( $(this).hasClass("un")){
+          $(this).addClass("deux");
+          setTimeout(function(){
+            $(".naill").removeClass("un");
+          }, 100);
+        };
+      });
+    });
+
+    $(document).ready(function(){
+      $(".nailll").click(function(){
+        if ($(this).hasClass("tr")){
+          $(this).addClass("ra");
+          setTimeout(function(){
+            $(".nailll").removeClass("tr");
+          }, 100);
+        } else if ( $(this).hasClass("dv")){
+          $(this).addClass("tr");
+          setTimeout(function(){
+            $(".nailll").removeClass("dv");
+          }, 100);
+        } else if ( $(this).hasClass("ra")){
+          $(this).addClass("dv");
+          setTimeout(function(){
+            $(".nailll").removeClass("ra");
+          }, 100);
+        };
+      });
+    });
+
+    $(document).ready(function(){
+      $(".rnail").click(function(){
+        if ($(this).hasClass("triii")){
+          $(this).addClass("razzz");
+          setTimeout(function(){
+            $(".rnail").removeClass("triii");
+          }, 100);
+        } else if ( $(this).hasClass("dvaaa")){
+          $(this).addClass("triii");
+          setTimeout(function(){
+            $(".rnail").removeClass("dvaaa");
+          }, 100);
+        } else if ( $(this).hasClass("razzz")){
+          $(this).addClass("dvaaa");
+          setTimeout(function(){
+            $(".rnail").removeClass("razzz");
+          }, 100);
+        };
+      });
+    });
+
+    $(document).ready(function(){
+      $(".rnaill").click(function(){
+        if ($(this).hasClass("troiss")){
+          $(this).addClass("unn");
+          setTimeout(function(){
+            $(".rnaill").removeClass("troiss");
+          }, 100);
+        } else if ( $(this).hasClass("deuxx")){
+          $(this).addClass("troiss");
+          setTimeout(function(){
+            $(".rnaill").removeClass("deuxx");
+          }, 100);
+        } else if ( $(this).hasClass("unn")){
+          $(this).addClass("deuxx");
+          setTimeout(function(){
+            $(".rnaill").removeClass("unn");
+          }, 100);
+        };
+      });
+    });
+
+    $(document).ready(function(){
+      $(".rnailll").click(function(){
+        if ($(this).hasClass("trr")){
+          $(this).addClass("raa");
+          setTimeout(function(){
+            $(".rnailll").removeClass("trr");
+          }, 100);
+        } else if ( $(this).hasClass("dvv")){
+          $(this).addClass("trr");
+          setTimeout(function(){
+            $(".rnailll").removeClass("dvv");
+          }, 100);
+        } else if ( $(this).hasClass("raa")){
+          $(this).addClass("dvv");
+          setTimeout(function(){
+            $(".rnailll").removeClass("raa");
+          }, 100);
+        };
+      });
+    });
+
 
 
     // $(document).ready(function(){
@@ -1007,6 +1208,15 @@
     $(".bubble1").css('display', 'none');
   });
 });
+
+$( function() {
+    $( ".dot1" ).draggable({ containment: ".container", scroll: false });
+    $( ".dot2" ).draggable({ containment: ".container", scroll: false });
+    $( ".dot3" ).draggable({ containment: ".container", scroll: false });
+    $( ".dot4" ).draggable({ containment: ".container", scroll: false });
+    $( ".dot5" ).draggable({ containment: ".container", scroll: false });
+    $( ".dot6" ).draggable({ containment: ".container", scroll: false });
+  } );
 
 //   $(document).ready(function(){
 //   $(".mouth4").click(function(){
@@ -1104,21 +1314,26 @@
 
   <div class="body">
   <img src="images/body1.svg" class="body1" alt="">
+  <div class="container">
   <img src="images/dot1.svg" class="dot1" alt="">
   <img src="images/dot2.svg" class="dot2" alt="">
   <img src="images/dot3.svg" class="dot3" alt="">
+  <img src="images/dot4.svg" class="dot4" alt="">
+  <img src="images/dot5.svg" class="dot5" alt="">
+  <img src="images/dot6.svg" class="dot6" alt="">
+  </div>
   </div>
   <img src="images/neck.svg" class="neck" alt="">
   <img src="images/lhand1.svg" class="lhand1" alt="">
   <img src="images/rhand1.svg" class="rhand1" alt="">
   <img src="images/lleg1.svg" class="lleg1" alt="">
-  <div class="nail1"></div>
-  <div class="nail2"></div>
-  <div class="nail3"></div>
+  <div class="nail razz"></div>
+  <div class="naill un"></div>
+  <div class="nailll ra"></div>
   <img src="images/rleg1.svg" class="rleg1" alt="">
-  <div class="nail4"></div>
-  <div class="nail5"></div>
-  <div class="nail6"></div>
+  <div class="rnail razzz"></div>
+  <div class="rnaill unn"></div>
+  <div class="rnailll raa"></div>
   <img src="images/pants1.svg" class="pants1" alt="">
   <img src="images/button1.svg" class="button1" alt="">
   <img src="images/button1.svg" class="button1" alt="">
