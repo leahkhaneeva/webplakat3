@@ -10,6 +10,8 @@
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     <!-- <script src="js\haircolor.js" charset="utf-8"></script> -->
     <style media="screen">
+  
+
 
     body {
       width: 100%;
@@ -36,7 +38,7 @@
       src:url("font/fonts/Century Gothic.woff") format('woff');
     } */
 
-    
+
     </style>
 
 
@@ -73,26 +75,58 @@
     //   });
     // });
 
+    // $(document).ready(function(){
+    //   $(".hair").click(function(){
+    //     if ($(this).hasClass("three")){
+    //       $(this).addClass("one");
+    //       setTimeout(function(){
+    //         $(".hair").removeClass("three");
+    //       }, 100);
+    //     } else if ( $(this).hasClass("two")){
+    //       $(this).addClass("three");
+    //       setTimeout(function(){
+    //         $(".hair").removeClass("two");
+    //       }, 100);
+    //     } else if ( $(this).hasClass("one")){
+    //       $(this).addClass("two");
+    //       setTimeout(function(){
+    //         $(".hair").removeClass("one");
+    //       }, 100);
+    //     };
+    //   });
+    // });
+
+
+
     $(document).ready(function(){
       $(".hair").click(function(){
-        if ($(this).hasClass("three")){
-          $(this).addClass("one");
+        if ($(".hair").hasClass("three")){
+          $(".hair").addClass("one");
+          $(".hairv").addClass("pur");
           setTimeout(function(){
             $(".hair").removeClass("three");
-          }, 100);
-        } else if ( $(this).hasClass("two")){
-          $(this).addClass("three");
+          $(".hairv").removeClass("green");
+        }, 100);
+        } else if ( $(".hair").hasClass("two")){
+          $(".hair").addClass("three");
+          $(".hairv").addClass("green");
           setTimeout(function(){
             $(".hair").removeClass("two");
-          }, 100);
-        } else if ( $(this).hasClass("one")){
-          $(this).addClass("two");
+            $(".hairv").removeClass("pink");
+        }, 100);
+        } else if ( $(".hair").hasClass("one")){
+          $(".hair").addClass("two");
+          $(".hairv").addClass("pink");
           setTimeout(function(){
             $(".hair").removeClass("one");
-          }, 100);
+          $(".hairv").removeClass("pur");
+        }, 100);
         };
       });
     });
+
+
+
 
 
     $(document).ready(function(){
@@ -479,7 +513,10 @@ $(document).ready(function(){
 $(".fin, .pfin").click(function(){
   $(".screen1").css('display', 'none');
   $(".screen2").css('display', 'block');
-  $(body).css({height: '100vh; overflow: hidden;'});
+  $("body").css({
+    height: '100vh',
+    overflow: 'hidden'
+  });
 
 
 });

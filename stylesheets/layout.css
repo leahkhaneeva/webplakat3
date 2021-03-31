@@ -2,7 +2,7 @@
 @font-face {
 font-family: "Century Gothic";
 font-weight: bold;
-src: url(fonts/Century GothicB.ttf) format('truetype');
+src: url('../fonts/Century GothicB.ttf') format('truetype');
 }
 .wrapper{
   background: transparent;
@@ -1093,8 +1093,8 @@ src: url(fonts/Century GothicB.ttf) format('truetype');
   font-family: "Century Gothic";
   font-weight: bold;
   font-size: 14px;
-  top: 21%;
-  left: 3.3%;
+  top: 20.98%;
+  left: 3.55%;
   line-height: 120%;
 }
 .tip2{
@@ -1256,21 +1256,27 @@ src: url(fonts/Century GothicB.ttf) format('truetype');
   top: 0%;
   height: 100%;
   width: 100%;
-  background: white;
+  /* background: white; */
   overflow: hidden;
-  /* background-image: url('images/screen2.jpg'); */
-  /* background-size: cover;
+  /* background-image: url('../images/screen2.jpg');
+  background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: 100% auto; */
-  /* opacity: .5; */
+  background-size: 100% auto;
+  opacity: .5; */
+}
+.chelovek{
+  position: absolute;
+  width: 0.73611111%;
+
 }
 .hairv{
   position: absolute;
-  top: 19%;
+  top: -29%;
+  bottom: 20%;
   left: 19.64%;
   width: 18.9583333%;
-  height: 22.71536%;
+  padding-bottom: 65.5677656%;
 }
 
 .pur{
@@ -1311,10 +1317,11 @@ src: url(fonts/Century GothicB.ttf) format('truetype');
   position: absolute;
 }
 .kvadrat{
-  top: 24%;
+
+  bottom: 20%;
   left: 21.56%;
   width: 14.9416667%;
-  height: 25.3692893%;
+  padding-bottom: 92.4893103%;
   background-image: url('../images/facekvadrat.svg');
   background-size: cover;
   background-position: center;
