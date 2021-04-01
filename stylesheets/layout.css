@@ -136,6 +136,14 @@ src: url('../fonts/Century GothicB.ttf') format('truetype');
   vertical-align: top;
   /* opacity: .1; */
 }
+/* .grrreen {
+  position: relative;
+  width: 44.4010417%;
+  height: 12.4837027%;
+  background: #3ED37D;
+  vertical-align: top;
+  display: none;
+} */
 .eye3{
   position: absolute;
   left: 3.4%;
@@ -171,6 +179,17 @@ src: url('../fonts/Century GothicB.ttf') format('truetype');
   left: 42%;
   top: 37%;
   width: 14.2168675%;
+}
+.nosik{
+  position: absolute;
+  opacity: .0;
+  left: 44%;
+  top: 37%;
+  background-image: url('../images/nosik.svg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
 }
 .mouth2{
   position: absolute;
@@ -256,6 +275,7 @@ src: url('../fonts/Century GothicB.ttf') format('truetype');
   50% {left: 35%;}
   100% {left: 50%;}
 }
+
 .white{
   position: relative;
   width: 15.625%;
@@ -1232,11 +1252,20 @@ src: url('../fonts/Century GothicB.ttf') format('truetype');
   right: 3.6%;
   line-height: 120%;
 }
+/* .fin{
+  position: absolute;
+  top: 93.5%;
+  left: 39.5%;
+  width: 21.25%;
+  cursor: url("../images/cursor4.svg"), auto;
+} */
 .fin{
   position: absolute;
   top: 93.5%;
   left: 39.5%;
   width: 21.25%;
+  background: white;
+  border: 1px solid black;
   cursor: url("../images/cursor4.svg"), auto;
 }
 .pfin{
@@ -1250,6 +1279,134 @@ src: url('../fonts/Century GothicB.ttf') format('truetype');
   cursor: url("../images/cursor4.svg"), auto;
 }
 
+.tip11{
+  position: absolute;
+  background: white;
+  border: 2px solid black;
+  display: none;
+}
+.ptip11{
+  position: absolute;
+  font-family: "Century Gothic";
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 120%;
+  display: none;
+}
+.tip12{
+  position: absolute;
+  background: white;
+  border: 2px solid black;
+  display: none;
+}
+.ptip12{
+  position: absolute;
+  font-family: "Century Gothic";
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 120%;
+  display: none;
+}
+.tip13{
+  position: absolute;
+  background: white;
+  border: 2px solid black;
+  display: none;
+}
+.ptip13{
+  position: absolute;
+  font-family: "Century Gothic";
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 120%;
+  display: none;
+}
+.tip14{
+  position: absolute;
+  background: white;
+  border: 2px solid black;
+  display: none;
+}
+.ptip14{
+  position: absolute;
+  font-family: "Century Gothic";
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 120%;
+  display: none;
+}
+.tip15{
+  position: absolute;
+  background: white;
+  border: 2px solid black;
+  display: none;
+}
+.ptip15{
+  position: absolute;
+  font-family: "Century Gothic";
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 120%;
+  display: none;
+}
+.tip16{
+  position: absolute;
+  background: white;
+  border: 2px solid black;
+  display: none;
+}
+.ptip16{
+  position: absolute;
+  font-family: "Century Gothic";
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 120%;
+  display: none;
+}
+.tip17{
+  position: absolute;
+  background: white;
+  border: 2px solid black;
+  display: none;
+}
+.ptip17{
+  position: absolute;
+  font-family: "Century Gothic";
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 120%;
+  display: none;
+}
+.tip18{
+  position: absolute;
+  background: white;
+  border: 2px solid black;
+  display: none;
+}
+.ptip18{
+  position: absolute;
+  font-family: "Century Gothic";
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 120%;
+  display: none;
+}
+/* .tip19{
+  position: absolute;
+  background: white;
+  border: 2px solid black;
+  display: none;
+}
+.ptip19{
+  position: absolute;
+  font-family: "Century Gothic";
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 120%;
+  display: none;
+} */
+
+
 .screen2{
   position: fixed;
   display: none;
@@ -1258,24 +1415,28 @@ src: url('../fonts/Century GothicB.ttf') format('truetype');
   width: 100%;
   /* background: white; */
   overflow: hidden;
-  /* background-image: url('../images/screen2.jpg');
+  background-image: url('../images/screeen2.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   background-size: 100% auto;
-  opacity: .5; */
+  opacity: .5;
 }
 .chelovek{
   position: absolute;
-  width: 0.73611111%;
+  width: 73.611111%;
+  padding-bottom: 30%;
+  top:23%;
+  left: 13%;
+  background: red;
+  opacity: .8;
 
 }
 .hairv{
   position: absolute;
-  top: -29%;
-  bottom: 20%;
-  left: 19.64%;
-  width: 18.9583333%;
+  top:-59.8%;
+  left: 9%;
+  width: 25.7179245%;
   padding-bottom: 65.5677656%;
 }
 
@@ -1302,10 +1463,10 @@ src: url('../fonts/Century GothicB.ttf') format('truetype');
 }
 .stripesval{
   position: absolute;
-  height: 9.650914%;
-  width: 12.9055556%;
-  top: 30%;
-  left: 22.6%;
+  width: 17.5320755%;
+  padding-bottom: 19.8773138%;
+  top: -14%;
+  left: 13.1%;
   background-image: url('../images/stripesval.svg');
   background-size: cover;
   background-position: center;
@@ -1317,10 +1478,9 @@ src: url('../fonts/Century GothicB.ttf') format('truetype');
   position: absolute;
 }
 .kvadrat{
-
-  bottom: 20%;
-  left: 21.56%;
-  width: 14.9416667%;
+  top: -80%;
+  left: 11.7%;
+  width: 20.2981132%;
   padding-bottom: 92.4893103%;
   background-image: url('../images/facekvadrat.svg');
   background-size: cover;
@@ -1330,10 +1490,10 @@ src: url('../fonts/Century GothicB.ttf') format('truetype');
 }
 
 .kruzhok{
-  top: 21%;
-  left: 21.42%;
-  width: 15.4166667%;
-  height: 29.1878173%;
+  top: -86.7%;
+  left: 11.1%;
+  width: 21.509434%;
+  padding-bottom: 98%;
   background-image: url('../images/facekruzhok.svg');
   background-size: cover;
   background-position: center;
@@ -1342,10 +1502,10 @@ src: url('../fonts/Century GothicB.ttf') format('truetype');
 }
 
 .krkvadrat{
-  top: 23%;
-  left: 21.215%;
-  width: 15.8333333%;
-  height: 26.7766497%;
+  top: -81%;
+  left: 11.1%;
+  width: 21.509434%;
+  padding-bottom: 92.5438596%;
   background-image: url('../images/facekrkvadrat.svg');
   background-size: cover;
   background-position: center;
@@ -1354,15 +1514,30 @@ src: url('../fonts/Century GothicB.ttf') format('truetype');
 }
 .valbrow{
   position: absolute;
-  top: 27.5%;
-  left: 20.56%;
-  width: 4.11180556%;
-  height: 1.7106599%;
+  top: -10.5%;
+  left: 10%;
+  width: 5.58584906%;
+  padding-bottom: 22.7664246%;
   background-image: url('../images/valbrow.svg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   background-size: 100% auto;
+}
+.valleye{
+  position: absolute;
+}
+.perv{
+  top: -18%;
+  left: 9.55%;
+  width: 8.68867925%;
+  padding-bottom: 35.1682953%;
+  background-image: url('../images/valeye1.svg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+
 }
 
 
@@ -1373,4 +1548,23 @@ src: url('../fonts/Century GothicB.ttf') format('truetype');
   width: 100%;
   height: 5.7106599%;
   background: #8000D4;
+}
+
+.okoshko{
+  position: fixed;
+  width: 80%;
+  padding-bottom: 60%;
+  left: 8%;
+  top:16%;
+  background: red;
+  border:5px;
+  border-width: black;
+}
+.golova{
+  position: absolute;
+  width: 10%;
+  height: 13%;
+  left: 5%;
+  top: 5%;
+  background: white;
 }

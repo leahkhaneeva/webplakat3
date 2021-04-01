@@ -10,7 +10,7 @@
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     <!-- <script src="js\haircolor.js" charset="utf-8"></script> -->
     <style media="screen">
-  
+
 
 
     body {
@@ -492,6 +492,7 @@ $( function() {
     $( ".dot1, .dot2, .dot3, .dot4, .dot5, .dot6" ).draggable({ containment: ".body", scroll: false });
   } );
 
+
   $(".dot1, .dot2, .dot3, .dot4, .dot5, .dot6").draggable({
     containment: ".body",
     stop: function () {
@@ -501,6 +502,19 @@ $( function() {
         $(this).css("top", t);
     }
 });
+let xPrev = 0;
+    jQuery(document).ready(function(){
+
+       $(document).draggable(function(e){
+           xPrev<e.pageX ? $(".dot1, .dot2, .dot3, .dot4, .dot5, .dot6").html("right") : $(".dot1, .dot2, .dot3, .dot4, .dot5, .dot6").html("left");
+           xPrev=e.pageX;
+          $('#status').html(e.pageX +', '+ e.pageY);
+
+       });
+    })
+
+
+
 
   $(window).scroll(function() {
 let krug = $(window).scrollTop() / 1.6;
@@ -556,6 +570,8 @@ $(".fin, .pfin").click(function(){
            <img src="images/eye4.svg" class="eye4" alt="">
            <img src="images/zrachok3.svg" class="zrachok3" alt="">
            <img src="images/nose2.svg" class="nose2" alt="">
+           <div class="nosik">
+           </div>
            <img src="images/mouth2.svg" class="mouth2" alt="">
            <!-- <img src="images/tooth1.svg" class="tooth1" alt="">
            <img src="images/tooth1.svg" class="tooth1" alt="">
@@ -610,7 +626,7 @@ $(".fin, .pfin").click(function(){
   </div>
   <div class="reye aa">
   </div>
-  <img src="images/mouth42.svg" class="mouth42" alt="">
+  <!-- <img src="images/mouth42.svg" class="mouth42" alt=""> -->
   <img src="images/mouth4.svg" class="mouth4" alt="">
 
   <!-- <div class="bodybox"> -->
@@ -670,25 +686,65 @@ $(".fin, .pfin").click(function(){
   <p class="ptip9">Осталось лишь выбрать ноги</p>
   <img src="images/tip10.svg" class="tip10" alt="">
   <p class="ptip10">И не забудь про мой педикюр!</p>
-  <img src="images/fin.svg" class="fin" alt="">
+  <!-- <img src="images/fin.svg" class="fin" alt=""> -->
+  <div class="fin">
   <p class="pfin">Готово!</p>
+    </div>
+  <div class="tip11">
+    <p class="ptip11">Привет! Нажми <br> на мои волосы!</p>
+  </div>
+  <div class="tip12">
+    <p class="ptip12">Меняй мое лицо, нажимая на глаза, нос и рот</p>
+  </div>
+  <div class="tip13">
+    <p class="ptip13">Кликай по футболке!</p>
+  </div>
+  <div class="tip14">
+    <p class="ptip14">Двигай круги</p>
+  </div>
+  <div class="tip15">
+    <p class="ptip15">Не забудь нажать на руки!</p>
+  </div>
+  <div class="tip16">
+    <p class="ptip16">И на шорты тоже!</p>
+  </div>
+  <div class="tip17">
+    <p class="ptip17">Кликай на ноги</p>
+  </div>
+  <div class="tip18">
+    <p class="ptip18">А как же педикюр?</p>
+  </div>
+  <!-- <div class="okoshko">
+    <div class="golova">
 
+    </div>
+
+  </div> -->
+<!-- <div id="status">0,0</div>
+<div id="lr"></div> -->
 
   </div>
   <div class="screen2">
+    <div class="chelovek">
+
+
     <div class="hairv pur">
     </div>
     <div class="stripesval">
     </div>
-    <div class="faceval kvadrat">
+    <div class="faceval krkvadrat">
     </div>
     <div class="valbrow">
+    </div>
+    <div class="valleye perv">
 
+    </div>
     </div>
 
     <div class="footer">
 
     </div>
+
 
   </div>
 
