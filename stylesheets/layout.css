@@ -1273,9 +1273,9 @@ src: url('../fonts/Century GothicB.ttf') format('truetype');
   position: absolute;
   font-family: "Century Gothic";
   font-weight: bold;
-  font-size: 32px;
-  top: 30%;
-  left: 30%;
+  font-size: 38px;
+  top: 26%;
+  left: 27%;
   line-height: 120%;
   cursor: url("../images/cursor4.svg"), auto;
 }

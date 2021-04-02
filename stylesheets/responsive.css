@@ -10,7 +10,7 @@ div .ptip7 {font-size: 16px;top: 61.78%;left: 3.4%;}
 div .ptip8 {font-size: 16px;top: 69.47%;right: 3.8%;}
 div .ptip9 {font-size: 16px;top: 74.48%;left: 3.3%;}
 div .ptip10 {font-size: 16px;top: 83.45%;right: 3.705%;}
-div .pfin {font-size: 38px;top: 94.05%;left: 45.7%;}
+div .pfin {font-size: 38px;}
 div.orange {height:9.01%;}
 }
 
@@ -26,7 +26,7 @@ div .ptip7 {font-size: 15px;top: 61.78%;left: 3.4%;}
 div .ptip8 {font-size: 15px;top: 69.47%;right: 3.8%;}
 div .ptip9 {font-size: 15px;top: 74.48%;left: 3.3%;}
 div .ptip10 {font-size: 15px;top: 83.45%;right: 3.705%;}
-div .pfin {font-size: 38px;top: 94.05%;left: 45.7%;}
+div .pfin {font-size: 38px; left: 28%;top: 27%;}
 div.orange {height:9.02%;}
 div.body {top:41.17%;}
 div.pink {height:5.73%;}
@@ -43,7 +43,7 @@ div .ptip7 {font-size: 15px;top: 61.73%;left: 3%;}
 div .ptip8 {font-size: 15px;top: 69.47%;right: 3.4%;}
 div .ptip9 {font-size: 15px;top: 74.45%;left: 3%;}
 div .ptip10 {font-size: 15px;top: 83.45%;right: 3.3%;}
-div .pfin {font-size: 38px;top: 93.95%;left: 45.5%;}
+div .pfin {left: 28%;top: 27%;}
 div.orange {height:9.03%;}
 div.body {top:41.17%;}
 div.pink {height:5.74%;}
@@ -52,11 +52,13 @@ div.pink {height:5.74%;}
 div.orange {height:9.03%;}
 div.body {top:41.17%;}
 div.pink {height:5.74%;}
+div .pfin {left: 28%;top: 27%;}
 }
 @media all and (min-width: 1398px) and (max-width: 1433px){
 div.orange {height:9.04%;}
 div.body {top:41.18%;}
 div.pink {height:5.74%;}
+div .pfin {left: 28%;top: 27%;}
 }
 @media all and (min-width: 1367px) and (max-width: 1397px){
 div .ptip1 {font-size: 14px; top: 20.965%;left: 3.4%;}
@@ -72,6 +74,7 @@ div .ptip10 {font-size: 14px;top: 83.45%;right: 3.35%;}
 div.orange {height:9.04%;}
 div.body {top:41.18%;}
 div.pink {height:5.75%;}
+div .pfin {left: 28%;top: 25%; font-size: 36px;}
 }
 @media all and (min-width: 1356px) and (max-width: 1366px){
 div .p1 {font-size: 38px;}
@@ -99,6 +102,7 @@ div .ptip10 {font-size: 14px;top: 83.46%;right: 3.55%;}
 div.orange {height:9.04%;}
 div.body {top:41.18%;}
 div.pink {height:5.75%;}
+div .pfin {left: 28%;top: 25%; font-size: 36px;}
 }
 @media all and (min-width: 1306px) and (max-width: 1355px){
   div .p1 {font-size: 38px;}
@@ -126,6 +130,7 @@ div.pink {height:5.75%;}
   div.orange {height:9.04%;}
   div.body {top:41.18%;}
   div.pink {height:5.75%;}
+  div .pfin {left: 27%;top: 25%; font-size: 36px;}
 }
 @media all and (min-width: 1283px) and (max-width: 1305px){
 div .p1 {font-size: 38px;}
@@ -142,7 +147,7 @@ div .ptip10 {font-size: 13px;top: 83.46%;right: 3.4%;}
 div.orange {height:9.05%;}
 div.body {top:41.18%;}
 div.pink {height:5.75%;}
-div .pfin {font-size: 30px;top: 93.99%;left: 45.5%;}
+div .pfin {left: 27%;top: 26%; font-size: 34px;}
 }
 @media all and (min-width: 1281px) and (max-width: 1282px){
 div .p1 {font-size: 38px;}
@@ -159,7 +164,7 @@ div .ptip10 {font-size: 13px;top: 83.46%;right: 3.4%;}
 div.orange {height:9.05%;}
 div.body {top:41.18%;}
 div.pink {height:5.76%;}
-div .pfin {font-size: 30px;top: 93.99%;left: 45.5%;}
+div .pfin {left: 27%;top: 26%; font-size: 34px;}
 }
 @media all and (min-width: 1221px) and (max-width: 1280px){
 div .p1 {font-size: 38px;}
@@ -189,7 +194,7 @@ div .ptip10 {font-size: 13px;top: 83.46%;right: 3.7%;}
 div.orange {height:9.05%;}
 div.body {top:41.18%;}
 div.pink {height:5.76%;}
-div .pfin {font-size: 28px;top: 94.05%;left: 45.9%;}
+div .pfin {left: 27%;top: 26%; font-size: 34px;}
 div .chelovek {top:20%}
 }
 @media all and (min-width: 1191px) and (max-width: 1220px){
@@ -207,7 +212,7 @@ div .ptip10 {font-size: 12px;top: 83.46%;right: 3.5%;}
 div.orange {height:9.05%;}
 div.body {top:41.18%;}
 div.pink {height:5.76%;}
-div .pfin {font-size: 26px;top: 94.05%;left: 46%;}
+div .pfin {left: 26%;top: 25%; font-size: 34px;}
 }
 @media all and (min-width: 1171px) and (max-width: 1190px){
 div .p1 {font-size: 34px;}
@@ -224,7 +229,7 @@ div .ptip10 {font-size: 12px;top: 83.46%;right: 3.2%;}
 div.orange {height:9.05%;}
 div.body {top:41.18%;}
 div.pink {height:5.76%;}
-div .pfin {font-size: 24px;top: 94.05%;left: 46%;}
+div .pfin {left: 26%;top: 25%; font-size: 34px;}
 }
 @media all and (min-width: 1151px) and (max-width: 1170px){
 div .p1 {font-size: 34px;}
@@ -252,10 +257,10 @@ div .ptip10 {font-size: 12px;top: 83.46%;right: 3.5%;}
 div.orange {height:9.05%;}
 div.body {top:41.18%;}
 div.pink {height:5.76%;}
-div .pfin {font-size: 24px;top: 94.05%;left: 46%;}
+div .pfin {left: 27%;top: 26%; font-size: 32px;}
 }
 
-@media all and (min-width: 1116px) and (max-width: 1150px){
+/* @media all and (min-width: 1116px) and (max-width: 1150px){
 div .p1 {font-size: 34px;}
 div .tip1{width: 17%;}
 div .tip2{width: 19.05%;}
@@ -281,8 +286,8 @@ div .ptip10 {font-size: 12px;top: 83.47%;right: 3.4%;}
 div.orange {height:9.06%;}
 div.body {top:41.19%;}
 div.pink {height:5.77%;}
-div .pfin {font-size: 24px;top: 94.05%;left: 46.05%;}
-}
+div .pfin {left: 27%;top: 26%; font-size: 32px;}
+} */
 @media all and (min-width: 1116px) and (max-width: 1150px){
 div .p1 {font-size: 34px;}
 div .tip1{width: 17%;}
@@ -309,7 +314,7 @@ div .ptip10 {font-size: 12px;top: 83.47%;right: 3.4%;}
 div.orange {height:9.06%;}
 div.body {top:41.192%;}
 div.pink {height:5.77%;}
-div .pfin {font-size: 24px;top: 94.05%;left: 46.05%;}
+div .pfin {left: 27%;top: 26%; font-size: 32px;}
 }
 
 @media all and (min-width: 1101px) and (max-width: 1115px){
@@ -338,7 +343,7 @@ div .ptip10 {font-size: 12px;top: 83.47%;right: 3.4%;}
 div.orange {height:9.06%;}
 div.body {top:41.192%;}
 div.pink {height:5.77%;}
-div .pfin {font-size: 24px;top: 94.05%;left: 46.05%;}
+div .pfin {left: 25%;top: 23%; font-size: 32px;}
 }
 
 @media all and (min-width: 1081px) and (max-width: 1100px){
@@ -367,7 +372,7 @@ div .ptip10 {font-size: 12px;top: 83.49%;right: 3.45%;}
 div.orange {height:9.06%;}
 div.body {top:41.192%;}
 div.pink {height:5.77%;}
-div .pfin {font-size: 24px;top: 94.05%;left: 46.05%;}
+div .pfin {left: 25%;top: 23%; font-size: 30px;}
 }
 @media all and (min-width: 1060px) and (max-width: 1080px){
   div .p1 {font-size: 34px;}
@@ -395,7 +400,7 @@ div .pfin {font-size: 24px;top: 94.05%;left: 46.05%;}
   div.orange {height:9.06%;}
   div.body {top:41.192%;}
   div.pink {height:5.77%;}
-  div .pfin {font-size: 24px;top: 94.05%;left: 46.05%;}
+  div .pfin {left: 26%;top: 23%; font-size: 30px;}
 }
 @media all and (min-width: 1040px) and (max-width: 1059px){
   .screen1 .p1 {font-size: 34px;}
@@ -423,7 +428,7 @@ div .pfin {font-size: 24px;top: 94.05%;left: 46.05%;}
   .screen1.orange {height:9.06%;}
   .screen1.body {top:41.192%;}
   .screen1.pink {height:5.77%;}
-  .screen1 .pfin {font-size: 24px;top: 94.05%;left: 45.9%;}
+  .screen1 .pfin {left: 25%;top: 23%; font-size: 30px;}
 }
 @media all and (min-width: 1025px) and (max-width: 1039px){
   .screen1 .p1 {font-size: 30px;}
@@ -451,7 +456,7 @@ div .pfin {font-size: 24px;top: 94.05%;left: 46.05%;}
   .screen1.orange {height:9.06%;}
   .screen1.body {top:41.193%;}
   .screen1.pink {height:5.77%;}
-  .screen1 .pfin {font-size: 24px;top: 94%;left: 45.8%;}
+  .screen1 .pfin {left: 26%;top: 23%; font-size: 28px;}
 }
 @media all and (min-width: 1000px) and (max-width: 1024px){
 .screen1 .ratio {padding-bottom: 317.1875%;}
@@ -564,7 +569,7 @@ div .pfin {font-size: 24px;top: 94.05%;left: 46.05%;}
 .screen1 .tip10 {top: 84.4%;width: 20.7%;}
 .screen1 .ptip10 {font-size: 12px;top: 84.9%;right: 3.4%;}
 .screen1 .fin {top: 95.5%;width: 20.7%;}
-.screen1 .pfin {top: 95.9%;width: 20.7%;left: 44.649%;font-size: 28px;}
+.screen1 .pfin {left: 25%;top: 23%; font-size: 28px;}
 }
 
 @media all and (min-width: 986px) and (max-width: 999px){
@@ -678,7 +683,7 @@ div .pfin {font-size: 24px;top: 94.05%;left: 46.05%;}
 .screen1 .tip10 {top: 84.4%;width: 20.95%;}
 .screen1 .ptip10 {font-size: 12px;top: 84.9%;right: 3.4%;}
 .screen1 .fin {top: 95.5%;width: 20.7%;}
-.screen1 .pfin {top: 95.9%;width: 20.7%;left: 44.649%;font-size: 28px;}
+.screen1 .pfin {left: 25%;top: 23%; font-size: 28px;}
 }
 
 @media all and (min-width: 966px) and (max-width: 985px){
@@ -792,7 +797,7 @@ div .pfin {font-size: 24px;top: 94.05%;left: 46.05%;}
 .screen1 .tip10 {top: 84.4%;width: 21.3%;}
 .screen1 .ptip10 {font-size: 12px;top: 84.9%;right: 3.4%;}
 .screen1 .fin {top: 95.5%;width: 20.7%;}
-.screen1 .pfin {top: 95.9%;width: 20.7%;left: 44.649%;font-size: 28px;}
+.screen1 .pfin {left: 25%;top: 23%; font-size: 28px;}
 }
 
 @media all and (min-width: 945px) and (max-width: 965px){
@@ -906,7 +911,7 @@ div .pfin {font-size: 24px;top: 94.05%;left: 46.05%;}
 .screen1 .tip10 {top: 84.4%;width: 21.5%;}
 .screen1 .ptip10 {font-size: 12px;top: 84.95%;right: 3.4%;}
 .screen1 .fin {top: 95.5%;width: 20.7%;}
-.screen1 .pfin {top: 95.9%;width: 20.7%;left: 44.75%;font-size: 26px;}
+.screen1 .pfin {left: 25%;top: 23%; font-size: 28px;}
 }
 
 @media all and (min-width: 921px) and (max-width: 944px){
@@ -1020,7 +1025,7 @@ div .pfin {font-size: 24px;top: 94.05%;left: 46.05%;}
 .screen1 .tip10 {top: 84.4%;width: 22%;}
 .screen1 .ptip10 {font-size: 12px;top: 84.95%;right: 3.4%;}
 .screen1 .fin {top: 95.5%;width: 20.7%;}
-.screen1 .pfin {top: 95.9%;width: 20.7%;left: 44.75%;font-size: 26px;}
+.screen1 .pfin {left: 25%;top: 23%; font-size: 26px;}
 }
 @media all and (min-width: 900px) and (max-width: 920px){
 .screen1 .ratio {padding-bottom: 317.1875%;}
@@ -1133,7 +1138,7 @@ div .pfin {font-size: 24px;top: 94.05%;left: 46.05%;}
 .screen1 .tip10 {top: 84.4%;width: 23%;}
 .screen1 .ptip10 {font-size: 12px;top: 84.95%;right: 3.45%;}
 .screen1 .fin {top: 95.5%;width: 20.7%;}
-.screen1 .pfin {top: 95.95%;width: 20.7%;left: 44.8%;font-size: 24px;}
+.screen1 .pfin {left: 25%;top: 23%; font-size: 26px;}
 }
 
 @media all and (min-width: 880px) and (max-width: 899px){
@@ -1247,7 +1252,7 @@ div .pfin {font-size: 24px;top: 94.05%;left: 46.05%;}
 .screen1 .tip10 {top: 84.4%;width: 23.5%;}
 .screen1 .ptip10 {font-size: 12px;top: 84.97%;right: 3.6%;}
 .screen1 .fin {top: 95.5%;width: 20.7%;}
-.screen1 .pfin {top: 95.955%;width: 20.7%;left: 45.4%;font-size: 22px;}
+.screen1 .pfin {left: 25%;top: 23%; font-size: 26px;}
 }
 
 @media all and (min-width: 865px) and (max-width: 879px){
@@ -1361,7 +1366,7 @@ div .pfin {font-size: 24px;top: 94.05%;left: 46.05%;}
 .screen1 .tip10 {top: 84.4%;width: 23.5%;}
 .screen1 .ptip10 {font-size: 12px;top: 84.97%;right: 3.6%;}
 .screen1 .fin {top: 95.5%;width: 20.7%;}
-.screen1 .pfin {top: 95.955%;width: 20.7%;left: 45.4%;font-size: 22px;}
+.screen1 .pfin {left: 25%;top: 23%; font-size: 26px;}
 }
 
 @media all and (min-width: 850px) and (max-width: 864px){
@@ -1475,7 +1480,7 @@ div .pfin {font-size: 24px;top: 94.05%;left: 46.05%;}
 .screen1 .tip10 {top: 84.4%;width: 24%;}
 .screen1 .ptip10 {font-size: 12px;top: 84.97%;right: 3.6%;}
 .screen1 .fin {top: 95.5%;width: 20.7%;}
-.screen1 .pfin {top: 95.955%;width: 20.7%;left: 45.33%;font-size: 22px;}
+.screen1 .pfin {left: 25%;top: 23%; font-size: 25px;}
 }
 
 @media all and (min-width: 835px) and (max-width: 849px){
@@ -1589,7 +1594,7 @@ div .pfin {font-size: 24px;top: 94.05%;left: 46.05%;}
 .screen1 .tip10 {top: 84.4%;width: 24.5%;}
 .screen1 .ptip10 {font-size: 12px;top: 84.98%;right: 3.6%;}
 .screen1 .fin {top: 95.5%;width: 20.7%;}
-.screen1 .pfin {top: 95.955%;width: 20.7%;left: 45.33%;font-size: 20px;}
+.screen1 .pfin {left: 25%;top: 23%; font-size: 25px;}
 }
 @media all and (min-width: 820px) and (max-width: 849px){
 .screen1 .ratio {padding-bottom: 317.1875%;}
@@ -1701,8 +1706,8 @@ div .pfin {font-size: 24px;top: 94.05%;left: 46.05%;}
 .screen1 .ptip9 {font-size: 12px;top: 79.58%;left: 3.1%;}
 .screen1 .tip10 {top: 84.4%;width: 24.9%;}
 .screen1 .ptip10 {font-size: 12px;top: 84.99%;right: 3.6%;}
-.screen1 .fin {top: 95.5%;width: 20.7%;}
-.screen1 .pfin {top: 95.955%;width: 20.7%;left: 45.33%;font-size: 20px;}
+.screen1 .fin {top: 95.5%;width: 20.7%; border: solid black 3px;}
+.screen1 .pfin {left: 25%;top: 23%; font-size: 25px;}
 }
 @media all and (min-width: 790px) and (max-width: 819px){
 .screen1 .ratio {padding-bottom: 317.1875%;}
@@ -1814,8 +1819,8 @@ div .pfin {font-size: 24px;top: 94.05%;left: 46.05%;}
 .screen1 .ptip9 {font-size: 12px;top: 79.7%;left: 3.1%;}
 .screen1 .tip10 {top: 84.4%;width: 25.8%;}
 .screen1 .ptip10 {font-size: 12px;top: 84.99%;right: 3.6%;}
-.screen1 .fin {top: 95.5%;width: 20.7%;}
-.screen1 .pfin {top: 95.955%;width: 20.7%;left: 45.33%;font-size: 20px;}
+.screen1 .fin {top: 95.5%;width: 20.7%; border: solid black 3px;}
+.screen1 .pfin {left: 25%;top: 23%; font-size: 23px;}
 }
 @media all and (min-width: 769px) and (max-width: 789px){
 .screen1 .ratio {padding-bottom: 317.1875%;}
@@ -1927,8 +1932,8 @@ div .pfin {font-size: 24px;top: 94.05%;left: 46.05%;}
 .screen1 .ptip9 {font-size: 12px;top: 79.7%;left: 3.1%;}
 .screen1 .tip10 {top: 84.4%;width: 26.2%;}
 .screen1 .ptip10 {font-size: 12px;top: 85%;right: 3.35%;}
-.screen1 .fin {top: 95.5%;width: 20.7%;}
-.screen1 .pfin {top: 95.955%;width: 20.7%;left: 45.3%;font-size: 19px;}
+.screen1 .fin {top: 95.5%;width: 20.7%; border: solid black 3px;}
+.screen1 .pfin {left: 25%;top: 23%; font-size: 23px;}
 }
 @media all and (min-width: 755px) and (max-width: 768px){
 .screen1 .ratio {padding-bottom: 399.479167%;}
@@ -2044,8 +2049,8 @@ div .pfin {font-size: 24px;top: 94.05%;left: 46.05%;}
 .screen1 .ptip9 {font-size: 12px;top: 84.32%;left: 3.1%;}
 .screen1 .tip10 {top: 88%;width: 26.2%;}
 .screen1 .ptip10 {font-size: 12px;top: 88.63%;right: 3.35%;}
-.screen1 .fin {top: 97.7%;width: 20.7%;}
-.screen1 .pfin {top: 98.18%;width: 20.7%;left: 45.2%;font-size: 19px;}
+.screen1 .fin {top: 97.5%;width: 20.7%; border: solid black 3px;}
+.screen1 .pfin {left: 24%;top: 23%; font-size: 22px;}
 }
 @media all and (min-width: 730px) and (max-width: 754px){
 .screen1 .ratio {padding-bottom: 399.479167%;}
@@ -2161,8 +2166,8 @@ div .pfin {font-size: 24px;top: 94.05%;left: 46.05%;}
 .screen1 .ptip9 {font-size: 11.5px;top: 84.32%;left: 3.1%;}
 .screen1 .tip10 {top: 88%;width: 26.2%;}
 .screen1 .ptip10 {font-size: 11.5px;top: 88.63%;right: 3.35%;}
-.screen1 .fin {top: 97.7%;width: 20.7%;}
-.screen1 .pfin {top: 98.18%;width: 20.7%;left: 45.2%;font-size: 19px;}
+.screen1 .fin {top: 97.5%;width: 20.7%; border: solid black 3px;}
+.screen1 .pfin {left: 24%;top: 23%; font-size: 22px;}
 }
 
 @media all and (min-width: 716px) and (max-width: 754px){
@@ -2295,8 +2300,8 @@ div .pfin {font-size: 24px;top: 94.05%;left: 46.05%;}
 .screen1 .ptip17 {display: block; left: 10%; top: 27%;}
 .screen1 .tip18 {display: block; width: 19%; height: 1.3%; top: 88.5%;left: 3.3%;}
 .screen1 .ptip18 {display: block; left: 6%; top: 27%;}
-.screen1 .fin {top: 97.7%;width: 20.7%;}
-.screen1 .pfin {top: 98.175%;width: 20.7%;left: 45.1%;font-size: 18px;}
+.screen1 .fin {top: 97.5%;width: 20.7%; border: solid black 3px;}
+.screen1 .pfin {left: 24%;top: 23%; font-size: 21px;}
 }
 @media all and (min-width: 700px) and (max-width: 715px){
 .screen1 .ratio {padding-bottom: 399.479167%;}
@@ -2428,9 +2433,8 @@ div .pfin {font-size: 24px;top: 94.05%;left: 46.05%;}
 .screen1 .ptip17 {display: block; left: 10%; top: 27%;}
 .screen1 .tip18 {display: block; width: 19%; height: 1.3%; top: 88.5%;left: 3.3%;}
 .screen1 .ptip18 {display: block; left: 6%; top: 27%;}
-
-.screen1 .fin {top: 97.7%;width: 20.7%;}
-.screen1 .pfin {top: 98.175%;width: 20.7%;left: 45.1%;font-size: 18px;}
+.screen1 .fin {top: 97.5%;width: 20.7%; border: solid black 3px;}
+.screen1 .pfin {left: 24.5%;top: 23%; font-size: 20px;}
 }
 @media all and (min-width: 685px) and (max-width: 699px){
 .screen1 .ratio {padding-bottom: 399.479167%;}
@@ -2562,8 +2566,8 @@ div .pfin {font-size: 24px;top: 94.05%;left: 46.05%;}
 .screen1 .ptip17 {display: block; left: 10%; top: 27%;}
 .screen1 .tip18 {display: block; width: 19%; height: 1.3%; top: 88.5%;left: 3.3%;}
 .screen1 .ptip18 {display: block; left: 6%; top: 27%;}
-.screen1 .fin {top: 97.7%;width: 20.7%;}
-.screen1 .pfin {top: 98.175%;width: 20.7%;left: 45.1%;font-size: 18px;}
+.screen1 .fin {top: 97.5%;width: 20.7%; border: solid black 3px;}
+.screen1 .pfin {left: 24.5%;top: 23%; font-size: 20px;}
 }
 @media all and (min-width: 671px) and (max-width: 684px){
 .screen1 .ratio {padding-bottom: 399.479167%;}
@@ -2695,8 +2699,8 @@ div .pfin {font-size: 24px;top: 94.05%;left: 46.05%;}
 .screen1 .ptip17 {display: block; left: 10%; top: 27%;}
 .screen1 .tip18 {display: block; width: 19%; height: 1.3%; top: 88.5%;left: 3.3%;}
 .screen1 .ptip18 {display: block; left: 6%; top: 27%;}
-.screen1 .fin {top: 97.7%;width: 20.7%;}
-.screen1 .pfin {top: 98.175%;width: 20.7%;left: 45.1%;font-size: 16px;}
+.screen1 .fin {top: 97.5%;width: 20.7%; border: solid black 3px;}
+.screen1 .pfin {left: 24.5%;top: 23.5%; font-size: 19px;}
 }
 @media all and (min-width: 650px) and (max-width: 670px){
 .screen1 .ratio {padding-bottom: 399.479167%;}
@@ -2828,8 +2832,8 @@ div .pfin {font-size: 24px;top: 94.05%;left: 46.05%;}
 .screen1 .ptip17 {display: block; left: 10%; top: 27%;}
 .screen1 .tip18 {display: block; width: 20%; height: 1.3%; top: 88.5%;left: 3.3%;}
 .screen1 .ptip18 {display: block; left: 6%; top: 27%;}
-.screen1 .fin {top: 97.7%;width: 20.7%;}
-.screen1 .pfin {top: 98.175%;width: 20.7%;left: 45.1%;font-size: 16px;}
+.screen1 .fin {top: 97.5%;width: 20.7%; border: solid black 3px;}
+.screen1 .pfin {left: 24.5%;top: 23.5%; font-size: 19px;}
 }
 @media all and (min-width: 610px) and (max-width: 649px){
 .screen1 .ratio {padding-bottom: 399.479167%;}
@@ -2961,8 +2965,8 @@ div .pfin {font-size: 24px;top: 94.05%;left: 46.05%;}
 .screen1 .ptip17 {display: block; left: 10%; top: 27%;}
 .screen1 .tip18 {display: block; width: 21%; height: 1.3%; top: 88.5%;left: 3.3%;}
 .screen1 .ptip18 {display: block; left: 6%; top: 27%;}
-.screen1 .fin {top: 97.7%;width: 20.7%;}
-.screen1 .pfin {top: 98.175%;width: 20.7%;left: 45.1%;font-size: 16px;}
+.screen1 .fin {top: 97.5%;width: 20.7%; border: solid black 3px;}
+.screen1 .pfin {left: 24.5%;top: 23.5%; font-size: 18px;}
 }
 @media all and (min-width: 581px) and (max-width: 609px){
 .screen1 .ratio {padding-bottom: 399.479167%;}
@@ -3094,8 +3098,8 @@ div .pfin {font-size: 24px;top: 94.05%;left: 46.05%;}
 .screen1 .ptip17 {display: block; left: 10.5%; top: 27%;}
 .screen1 .tip18 {display: block; width: 23%; height: 1.3%; top: 88.5%;left: 3.3%;}
 .screen1 .ptip18 {display: block; left: 6%; top: 27%;}
-.screen1 .fin {top: 97.7%;width: 20.7%;}
-.screen1 .pfin {top: 98.175%;width: 20.7%;left: 45.1%;font-size: 16px;}
+.screen1 .fin {top: 97.5%;width: 20.7%; border: solid black 3px;}
+.screen1 .pfin {left: 24.5%;top: 23.5%; font-size: 18px;}
 }
 @media all and (min-width: 550px) and (max-width: 580px){
 .screen1 .ratio {padding-bottom: 399.479167%;}
@@ -3227,8 +3231,8 @@ div .pfin {font-size: 24px;top: 94.05%;left: 46.05%;}
 .screen1 .ptip17 {display: block; left: 13%; top: 20%;font-size: 11px;}
 .screen1 .tip18 {display: block; width: 23%; height: 1.3%; top: 88.5%;left: 3.3%;}
 .screen1 .ptip18 {display: block; left: 9%; top: 22%;font-size: 11px;}
-.screen1 .fin {top: 97.7%;width: 19%; left: 40%;}
-.screen1 .pfin {top: 98.15%;width: 20.7%;left: 45.1%;font-size: 14px;}
+.screen1 .fin {top: 97.5%;width: 20.7%; border: solid black 3px;}
+.screen1 .pfin {left: 24.5%;top: 23.5%; font-size: 16px;}
 }
 @media all and (min-width: 525px) and (max-width: 549px){
 .screen1 .ratio {padding-bottom: 399.479167%;}
@@ -3360,8 +3364,8 @@ div .pfin {font-size: 24px;top: 94.05%;left: 46.05%;}
 .screen1 .ptip17 {display: block; left: 12%; top: 20%;font-size: 11px;}
 .screen1 .tip18 {display: block; width: 23.5%; height: 1.3%; top: 88.5%;left: 3.3%;}
 .screen1 .ptip18 {display: block; left: 8%; top: 20%;font-size: 11px;}
-.screen1 .fin {top: 97.7%;width: 19%; left: 40%;}
-.screen1 .pfin {top: 98.15%;width: 20.7%;left: 45.1%;font-size: 14px;}
+.screen1 .fin {top: 97.5%;width: 20.7%; border: solid black 3px;}
+.screen1 .pfin {left: 24.5%;top: 23.5%; font-size: 16px;}
 }
 @media all and (min-width: 525px) and (max-width: 549px){
 .screen1 .ratio {padding-bottom: 399.479167%;}
@@ -3493,10 +3497,10 @@ div .pfin {font-size: 24px;top: 94.05%;left: 46.05%;}
 .screen1 .ptip17 {display: block; left: 12%; top: 20%;font-size: 10.5px;}
 .screen1 .tip18 {display: block; width: 23.5%; height: 1.3%; top: 88.5%;left: 3.3%;}
 .screen1 .ptip18 {display: block; left: 8%; top: 20%;font-size: 10.5px;}
-.screen1 .fin {top: 97.7%;width: 19%; left: 40%;}
-.screen1 .pfin {top: 98.15%;width: 20.7%;left: 45.1%;font-size: 14px;}
+.screen1 .fin {top: 97.5%;width: 20.7%; border: solid black 2.8px;}
+.screen1 .pfin {left: 24.5%;top: 23.5%; font-size: 15px;}
 }
-@media all and (min-width: 500px) and (max-width: 524px){
+@media all and (min-width: 501px) and (max-width: 524px){
 .screen1 .ratio {padding-bottom: 399.479167%;}
 .screen1 .green1 {width: 40.234375%; height: 9.7131682%;}
 .screen1 .purple {width: 59.765625%; height: 9.7131682%;}
@@ -3626,6 +3630,1417 @@ div .pfin {font-size: 24px;top: 94.05%;left: 46.05%;}
 .screen1 .ptip17 {display: block; left: 12%; top: 20%;font-size: 10.5px;}
 .screen1 .tip18 {display: block; width: 23.5%; height: 1.3%; top: 88.5%;left: 3.3%;}
 .screen1 .ptip18 {display: block; left: 8%; top: 20%;font-size: 10.5px;}
-.screen1 .fin {top: 97.7%;width: 19%; left: 40%;}
-.screen1 .pfin {top: 98.15%;width: 20.7%;left: 45.1%;font-size: 14px;}
+.screen1 .fin {top: 97.5%;width: 20.7%; border: solid black 2.8px;}
+.screen1 .pfin {left: 24.5%;top: 23.5%; font-size: 14px;}
+}
+
+@media all and (min-width: 480px) and (max-width: 500px){
+div .ratio {padding-bottom: 575.106383%;}
+.screen1 .green1 {width: 40%; height: 9.6559378%;}
+.screen1 .purple {width: 60%; height: 9.6559378%;}
+.screen1 .green2 {width: 44.0425532%; height: 9.9149094%; background: #FF57B3}
+
+.screen1 .orange {width:55.9574468%; height: 9.9149094%;margin-top: 0%;}
+.screen1 .white {width: 55.9574468%; height: 9.3599704%;margin-top: 0%;}
+.screen1 .pink {width: 44.0425532%; height: 9.3599704%;margin-top: 0%;}
+.screen1 .panel {height:1.96078431% }
+.screen1 .eye1 {display: none;}
+.screen1 .eye2 {width: 60%; left: 19%;}
+.screen1 .zrachok1 {top: 21.5%; width: 8%; left: 40%; animation: zr1 3s linear infinite}
+@keyframes zr1 {
+  0% {left:40%;}
+  50% {left: 50%;}
+  100% {left:40%;}
+}
+.screen1 .nose1 {top: 46%;left: 40%;width: 20%;}
+.screen1 .mouth1 {top: 70%;left: 17%;width: 64%;}
+.screen1 .hands1 {top: -25%;left: 8.2%;width: 24.4167963%; animation: hh1 3s linear infinite}
+@keyframes hh1 {
+  0% {top: -25%;}
+  50% {top: -10%;}
+  100% {top: -25%;}
+}
+.screen1 .hands2 {top: 66%; animation: hh2 3s linear infinite}
+@keyframes hh2 {
+  0% {top: 66%;}
+  50% {top: 50%;}
+  100% {top: 66%;}
+}
+.screen1 .hands3 {top: -30%;left: 67.8%;width: 24.4167963%; animation: hh3 3s linear infinite}
+@keyframes hh3 {
+  0% {top: -30%;}
+  50% {top: -10%;}
+  100% {top: -30%;}
+}
+.screen1 .arrow {top: -2%;width: 13%;}
+.screen1 .zrachok2 {top: 19.3%;}
+.screen1 .mouth2 {width: 60%;left: 20%; top: 60%;}
+.screen1 .tooth1 {margin-top: 78.5%;width: 7%;}
+.screen1 .tooth2 {margin-top: 9%;width: 7%;}
+.screen1 .nosik {opacity: 100;width: 14%;height: 16.5%; top: 32%}
+.screen1 .eye5{top: 32%;width: 33%;left: 1.5%;}
+.screen1 .eye6{left: 62%;top: 14%;width: 35%;}
+.screen1 .nose3{left: 36%;}
+.screen1 .mouth3{width: 43%;top: 61%;}
+.screen1 .p1 {font-size: 24px;top: 68%;}
+.screen1 .wcircle1 {top: 7%;}
+.screen1 .gcircle1 {top: 7%;}
+.screen1 .wcircle2 {top: 7%;}
+.screen1 .gcircle2 {top: 7%;}
+.screen1 .wcircle3 {top: 7%;}
+.screen1 .gcircle3 {top: 35%;}
+.screen1 .wcircle4 {top: 35%;}
+.screen1 .gcircle4 {top: 35%;}
+.screen1 .wcircle5 {top: 35%;}
+.screen1 .gcircle5 {top: 35%;}
+.screen1 .hair {top: 33%; width: 84.0425532%; height: 12.615612%; left: 8%;}
+.screen1 .odin {top: 36%;width: 66.3829787%; height: 10.9877913%;left: 16.7%;}
+.screen1 .dva {top: 34.5%; width: 74%;height: 13%;left: 13%;}
+.screen1 .tri {top: 35.1%; width: 70%;height: 12%;left: 15%;}
+.screen1 .bubble1 {display: none;}
+.screen1 .cross {display:none;}
+.screen1 .brow {top: 37.2%;left: 13%;height: 0.8%; width: 18%;}
+.screen1 .uno {top: 38.5%; width: 27%; left: 12.5%;}
+.screen1 .dos {top: 37.6%;width: 23%; left: 13%;}
+.screen1 .tres {top: 38%;width: 27%;left: 11%;}
+.screen1 .a {top: 39.4%;}
+.screen1 .b {top: 39.4%;}
+.screen1 .c {top: 39.4%;}
+.screen1 .aa {top: 36.1%; width: 28%; left: 60%;}
+.screen1 .bb {top: 37%; width: 25%;}
+.screen1 .cc {top: 36.1%; width: 24%;left: 62%;}
+.screen1 .mouth4 {top: 43.5%; left: 48.5%;}
+.screen1 .neck {top: 46.9%;}
+.screen1 .body {top: 45.2%; width: 100%;height: 17.3880873%;left: 0%;top: 48.76%;}
+.screen1 .d {background-image: url('../images/bodyiph.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;}
+.screen1 .e {background-image: url('../images/bodyiph2.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;}
+.screen1 .f {background-image: url('../images/bodyiph3.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;}
+.screen1 .g {top: 54.9%;}
+.screen1 .h {top: 54.57%;}
+.screen1 .i {top: 55.1%;}
+.screen1 .j {top:54.9%;}
+.screen1 .k {top:54.57%;}
+.screen1 .l {top: 55.1%;}
+.screen1 .z {background-image: url('../images/pantsiph1.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto; width: 74.0425532%;height: 12.0606733%;top: 66.09%;left: 13.25937%;}
+.screen1 .r {background-image: url('../images/pantsiph2.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto; width: 74.0425532%;height: 12.0606733%;top: 66.09%;left: 13.25937%;}
+.screen1 .v {background-image: url('../images/pantsiph3.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto; width: 74.0425532%;height: 12.0606733%;top: 66.09%;left: 13.25937%;}
+.screen1 .button1 {top: 37%; width: 15%;margin-left: 20%;margin-right: -12.8%; top: 36.5%;}
+.screen1 .button2 {top: 40%;width: 15%;margin-left: 29%;margin-right: -18%;}
+.screen1 .sq {top: 76%;background-image: url('../images/legiph1.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;left: 9%;}
+.screen1 .circ {top: 74.35%;;background-image: url('../images/legiph2.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;left: 9%;}
+.screen1 .kv {top: 76%;background-image: url('../images/legiph3.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto; left: 59%;}
+.screen1 .kr {top: 74.35%;;background-image: url('../images/legiph4.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;left: 59%;}
+.screen1 .nail {height: 0.7%;width: 6%;top: 90.5%;left: 14%;}
+.screen1 .naill {height: 0.7%;width: 6%;top: 92%;left: 14%;}
+.screen1 .nailll {display: none;}
+.screen1 .rnail {height: 0.7%;width: 6%;top: 90.5%;left: 80.2%;}
+.screen1 .rnaill {height: 0.7%;width: 6%;top: 92%;left: 80.2%;}
+.screen1 .rnailll {display: none;}
+.screen1 .tip1 {display: none;}
+.screen1 .ptip1 {display: none;}
+.screen1 .tip2 {display: none;}
+.screen1 .ptip2 {display: none;}
+.screen1 .tip3 {display: none;}
+.screen1 .ptip3 {display: none;}
+.screen1 .tip4 {display: none;}
+.screen1 .ptip4 {display: none;}
+.screen1 .tip5 {display: none;}
+.screen1 .ptip5 {display: none;}
+.screen1 .tip6 {display: none;}
+.screen1 .ptip6 {display: none;}
+.screen1 .tip7 {display: none;}
+.screen1 .ptip7 {display: none;}
+.screen1 .tip8 {display: none;}
+.screen1 .ptip8 {display: none;}
+.screen1 .tip9 {display: none;}
+.screen1 .ptip9 {display: none;}
+.screen1 .tip10 {display: none;}
+.screen1 .ptip10 {display: none;}
+.screen1 .tip11 {display: block; width: 19.5%; height: 1.3%; top: 33.8%;left: 0%;}
+.screen1 .ptip11 {display: block; left: 9.9%; top: 15%; font-size: 10px;}
+.screen1 .tip12 {display: block; width: 22%; height: 1.7%; top: 43%;left: 0%;}
+.screen1 .ptip12 {display: block; left: 9%; top: 13.5%;font-size: 10px;}
+.screen1 .tip13 {display: block; width: 25%; height: 0.8%; top: 49.5%;right: 0%;}
+.screen1 .ptip13 {display: block; left: 7%; top: 20%;font-size: 10px;}
+.screen1 .tip14 {display: block; width: 18%; height: 0.8%; top: 53%;left: 0%;}
+.screen1 .ptip14 {display: block; left: 11%; top: 20%;font-size: 10px;}
+.screen1 .tip15 {display: block; width: 31%; height: 0.8%; top: 59%;right: 0%;}
+.screen1 .ptip15 {display: block; left: 7%; top: 23%;font-size: 10px;}
+.screen1 .tip16 {display: block; width: 21.8%; height: 0.8%; top: 70.5%;left: 0%;}
+.screen1 .ptip16 {display: block; left: 8%; top: 22.5%;font-size: 10px;}
+.screen1 .tip17 {display: block; width: 20%; height: 0.8%; top: 79%;right: 0%;}
+.screen1 .ptip17 {display: block; left: 12%; top: 20%;font-size: 10px;}
+.screen1 .tip18 {display: block; width: 23%; height: 0.8%; top: 88.5%;left: 0%;}
+.screen1 .ptip18 {display: block; left: 8%; top: 20%;font-size: 10px;}
+.screen1 .fin {top: 95.7%;width: 20.7%; border: solid black 2.8px; height: 01.5%}
+.screen1 .pfin {left: 24%;top: 23.5%; font-size: 15px;}
+}
+@media all and (min-width: 450px) and (max-width: 479px){
+div .ratio {padding-bottom: 575.106383%;}
+.screen1 .green1 {width: 40%; height: 9.6559378%;}
+.screen1 .purple {width: 60%; height: 9.6559378%;}
+.screen1 .green2 {width: 44.0425532%; height: 9.9149094%; background: #FF57B3}
+
+.screen1 .orange {width:55.9574468%; height: 9.9149094%;margin-top: 0%;}
+.screen1 .white {width: 55.9574468%; height: 9.3599704%;margin-top: 0%;}
+.screen1 .pink {width: 44.0425532%; height: 9.3599704%;margin-top: 0%;}
+.screen1 .panel {height:1.96078431% }
+.screen1 .eye1 {display: none;}
+.screen1 .eye2 {width: 60%; left: 19%;}
+.screen1 .zrachok1 {top: 21.5%; width: 8%; left: 40%; animation: zr1 3s linear infinite}
+@keyframes zr1 {
+  0% {left:40%;}
+  50% {left: 50%;}
+  100% {left:40%;}
+}
+.screen1 .nose1 {top: 46%;left: 40%;width: 20%;}
+.screen1 .mouth1 {top: 70%;left: 17%;width: 64%;}
+.screen1 .hands1 {top: -25%;left: 8.2%;width: 24.4167963%; animation: hh1 3s linear infinite}
+@keyframes hh1 {
+  0% {top: -25%;}
+  50% {top: -10%;}
+  100% {top: -25%;}
+}
+.screen1 .hands2 {top: 66%; animation: hh2 3s linear infinite}
+@keyframes hh2 {
+  0% {top: 66%;}
+  50% {top: 50%;}
+  100% {top: 66%;}
+}
+.screen1 .hands3 {top: -30%;left: 67.8%;width: 24.4167963%; animation: hh3 3s linear infinite}
+@keyframes hh3 {
+  0% {top: -30%;}
+  50% {top: -10%;}
+  100% {top: -30%;}
+}
+.screen1 .arrow {top: -2%;width: 13%;}
+.screen1 .zrachok2 {top: 19.3%;}
+.screen1 .mouth2 {width: 60%;left: 20%; top: 60%;}
+.screen1 .tooth1 {margin-top: 78.5%;width: 7%;}
+.screen1 .tooth2 {margin-top: 9%;width: 7%;}
+.screen1 .nosik {opacity: 100;width: 14%;height: 16.5%; top: 32%}
+.screen1 .eye5{top: 32%;width: 33%;left: 1.5%;}
+.screen1 .eye6{left: 62%;top: 14%;width: 35%;}
+.screen1 .nose3{left: 36%;}
+.screen1 .mouth3{width: 43%;top: 61%;}
+.screen1 .p1 {font-size: 24px;top: 68%;}
+.screen1 .wcircle1 {top: 7%;}
+.screen1 .gcircle1 {top: 7%;}
+.screen1 .wcircle2 {top: 7%;}
+.screen1 .gcircle2 {top: 7%;}
+.screen1 .wcircle3 {top: 7%;}
+.screen1 .gcircle3 {top: 35%;}
+.screen1 .wcircle4 {top: 35%;}
+.screen1 .gcircle4 {top: 35%;}
+.screen1 .wcircle5 {top: 35%;}
+.screen1 .gcircle5 {top: 35%;}
+.screen1 .hair {top: 33%; width: 84.0425532%; height: 12.615612%; left: 8%;}
+.screen1 .odin {top: 36%;width: 66.3829787%; height: 10.9877913%;left: 16.7%;}
+.screen1 .dva {top: 34.5%; width: 74%;height: 13%;left: 13%;}
+.screen1 .tri {top: 35.1%; width: 70%;height: 12%;left: 15%;}
+.screen1 .bubble1 {display: none;}
+.screen1 .cross {display:none;}
+.screen1 .brow {top: 37.2%;left: 13%;height: 0.8%; width: 18%;}
+.screen1 .uno {top: 38.5%; width: 27%; left: 12.5%;}
+.screen1 .dos {top: 37.6%;width: 23%; left: 13%;}
+.screen1 .tres {top: 38%;width: 27%;left: 11%;}
+.screen1 .a {top: 39.4%;}
+.screen1 .b {top: 39.4%;}
+.screen1 .c {top: 39.4%;}
+.screen1 .aa {top: 36.1%; width: 28%; left: 60%;}
+.screen1 .bb {top: 37%; width: 25%;}
+.screen1 .cc {top: 36.1%; width: 24%;left: 62%;}
+.screen1 .mouth4 {top: 43.5%; left: 48.5%;}
+.screen1 .neck {top: 46.9%;}
+.screen1 .body {top: 45.2%; width: 100%;height: 17.3880873%;left: 0%;top: 48.76%;}
+.screen1 .d {background-image: url('../images/bodyiph.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;}
+.screen1 .e {background-image: url('../images/bodyiph2.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;}
+.screen1 .f {background-image: url('../images/bodyiph3.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;}
+.screen1 .g {top: 54.9%;}
+.screen1 .h {top: 54.57%;}
+.screen1 .i {top: 55.1%;}
+.screen1 .j {top:54.9%;}
+.screen1 .k {top:54.57%;}
+.screen1 .l {top: 55.1%;}
+.screen1 .z {background-image: url('../images/pantsiph1.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto; width: 74.0425532%;height: 12.0606733%;top: 66.09%;left: 13.25937%;}
+.screen1 .r {background-image: url('../images/pantsiph2.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto; width: 74.0425532%;height: 12.0606733%;top: 66.09%;left: 13.25937%;}
+.screen1 .v {background-image: url('../images/pantsiph3.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto; width: 74.0425532%;height: 12.0606733%;top: 66.09%;left: 13.25937%;}
+.screen1 .button1 {top: 37%; width: 15%;margin-left: 20%;margin-right: -12.8%; top: 36.5%;}
+.screen1 .button2 {top: 40%;width: 15%;margin-left: 29%;margin-right: -18%;}
+.screen1 .sq {top: 76%;background-image: url('../images/legiph1.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;left: 9%;}
+.screen1 .circ {top: 74.35%;;background-image: url('../images/legiph2.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;left: 9%;}
+.screen1 .kv {top: 76%;background-image: url('../images/legiph3.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto; left: 59%;}
+.screen1 .kr {top: 74.35%;;background-image: url('../images/legiph4.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;left: 59%;}
+.screen1 .nail {height: 0.7%;width: 6%;top: 90.5%;left: 14%;}
+.screen1 .naill {height: 0.7%;width: 6%;top: 92%;left: 14%;}
+.screen1 .nailll {display: none;}
+.screen1 .rnail {height: 0.7%;width: 6%;top: 90.5%;left: 80.2%;}
+.screen1 .rnaill {height: 0.7%;width: 6%;top: 92%;left: 80.2%;}
+.screen1 .rnailll {display: none;}
+.screen1 .tip1 {display: none;}
+.screen1 .ptip1 {display: none;}
+.screen1 .tip2 {display: none;}
+.screen1 .ptip2 {display: none;}
+.screen1 .tip3 {display: none;}
+.screen1 .ptip3 {display: none;}
+.screen1 .tip4 {display: none;}
+.screen1 .ptip4 {display: none;}
+.screen1 .tip5 {display: none;}
+.screen1 .ptip5 {display: none;}
+.screen1 .tip6 {display: none;}
+.screen1 .ptip6 {display: none;}
+.screen1 .tip7 {display: none;}
+.screen1 .ptip7 {display: none;}
+.screen1 .tip8 {display: none;}
+.screen1 .ptip8 {display: none;}
+.screen1 .tip9 {display: none;}
+.screen1 .ptip9 {display: none;}
+.screen1 .tip10 {display: none;}
+.screen1 .ptip10 {display: none;}
+.screen1 .tip11 {display: block; width: 20.5%; height: 1.3%; top: 33.8%;left: 0%;}
+.screen1 .ptip11 {display: block; left: 9.9%; top: 15%; font-size: 10px;}
+.screen1 .tip12 {display: block; width: 23.2%; height: 1.8%; top: 43%;left: 0%;}
+.screen1 .ptip12 {display: block; left: 9%; top: 13.5%;font-size: 10px;}
+.screen1 .tip13 {display: block; width: 27%; height: 0.8%; top: 49.5%;right: 0%;}
+.screen1 .ptip13 {display: block; left: 7%; top: 20%;font-size: 10px;}
+.screen1 .tip14 {display: block; width: 19%; height: 0.8%; top: 53%;left: 0%;}
+.screen1 .ptip14 {display: block; left: 11%; top: 20%;font-size: 10px;}
+.screen1 .tip15 {display: block; width: 33%; height: 0.8%; top: 59%;right: 0%;}
+.screen1 .ptip15 {display: block; left: 7%; top: 23%;font-size: 10px;}
+.screen1 .tip16 {display: block; width: 23%; height: 0.8%; top: 70.5%;left: 0%;}
+.screen1 .ptip16 {display: block; left: 8%; top: 22.5%;font-size: 10px;}
+.screen1 .tip17 {display: block; width: 21%; height: 0.8%; top: 79%;right: 0%;}
+.screen1 .ptip17 {display: block; left: 12%; top: 20%;font-size: 10px;}
+.screen1 .tip18 {display: block; width: 24%; height: 0.8%; top: 88.5%;left: 0%;}
+.screen1 .ptip18 {display: block; left: 8%; top: 20%;font-size: 10px;}
+.screen1 .fin {top: 95.7%;width: 20.7%; border: solid black 2.8px; height: 01.5%}
+.screen1 .pfin {left: 24%;top: 23.5%; font-size: 15px;}
+}
+@media all and (min-width: 430px) and (max-width: 449px){
+div .ratio {padding-bottom: 575.106383%;}
+.screen1 .green1 {width: 40%; height: 9.6559378%;}
+.screen1 .purple {width: 60%; height: 9.6559378%;}
+.screen1 .green2 {width: 44.0425532%; height: 9.9149094%; background: #FF57B3}
+
+.screen1 .orange {width:55.9574468%; height: 9.9149094%;margin-top: 0%;}
+.screen1 .white {width: 55.9574468%; height: 9.3599704%;margin-top: 0%;}
+.screen1 .pink {width: 44.0425532%; height: 9.3599704%;margin-top: 0%;}
+.screen1 .panel {height:1.96078431% }
+.screen1 .eye1 {display: none;}
+.screen1 .eye2 {width: 60%; left: 19%;}
+.screen1 .zrachok1 {top: 21.5%; width: 8%; left: 40%; animation: zr1 3s linear infinite}
+@keyframes zr1 {
+  0% {left:40%;}
+  50% {left: 50%;}
+  100% {left:40%;}
+}
+.screen1 .nose1 {top: 46%;left: 40%;width: 20%;}
+.screen1 .mouth1 {top: 70%;left: 17%;width: 64%;}
+.screen1 .hands1 {top: -25%;left: 8.2%;width: 24.4167963%; animation: hh1 3s linear infinite}
+@keyframes hh1 {
+  0% {top: -25%;}
+  50% {top: -10%;}
+  100% {top: -25%;}
+}
+.screen1 .hands2 {top: 66%; animation: hh2 3s linear infinite}
+@keyframes hh2 {
+  0% {top: 66%;}
+  50% {top: 50%;}
+  100% {top: 66%;}
+}
+.screen1 .hands3 {top: -30%;left: 67.8%;width: 24.4167963%; animation: hh3 3s linear infinite}
+@keyframes hh3 {
+  0% {top: -30%;}
+  50% {top: -10%;}
+  100% {top: -30%;}
+}
+.screen1 .arrow {top: -2%;width: 13%;}
+.screen1 .zrachok2 {top: 19.3%;}
+.screen1 .mouth2 {width: 60%;left: 20%; top: 60%;}
+.screen1 .tooth1 {margin-top: 78.5%;width: 7%;}
+.screen1 .tooth2 {margin-top: 9%;width: 7%;}
+.screen1 .nosik {opacity: 100;width: 14%;height: 16.5%; top: 32%}
+.screen1 .eye5{top: 32%;width: 33%;left: 1.5%;}
+.screen1 .eye6{left: 62%;top: 14%;width: 35%;}
+.screen1 .nose3{left: 36%;}
+.screen1 .mouth3{width: 43%;top: 61%;}
+.screen1 .p1 {font-size: 24px;top: 68%;}
+.screen1 .wcircle1 {top: 7%;}
+.screen1 .gcircle1 {top: 7%;}
+.screen1 .wcircle2 {top: 7%;}
+.screen1 .gcircle2 {top: 7%;}
+.screen1 .wcircle3 {top: 7%;}
+.screen1 .gcircle3 {top: 35%;}
+.screen1 .wcircle4 {top: 35%;}
+.screen1 .gcircle4 {top: 35%;}
+.screen1 .wcircle5 {top: 35%;}
+.screen1 .gcircle5 {top: 35%;}
+.screen1 .hair {top: 33%; width: 84.0425532%; height: 12.615612%; left: 8%;}
+.screen1 .odin {top: 36%;width: 66.3829787%; height: 10.9877913%;left: 16.7%;}
+.screen1 .dva {top: 34.5%; width: 74%;height: 13%;left: 13%;}
+.screen1 .tri {top: 35.1%; width: 70%;height: 12%;left: 15%;}
+.screen1 .bubble1 {display: none;}
+.screen1 .cross {display:none;}
+.screen1 .brow {top: 37.2%;left: 13%;height: 0.8%; width: 18%;}
+.screen1 .uno {top: 38.5%; width: 27%; left: 12.5%;}
+.screen1 .dos {top: 37.6%;width: 23%; left: 13%;}
+.screen1 .tres {top: 38%;width: 27%;left: 11%;}
+.screen1 .a {top: 39.4%;}
+.screen1 .b {top: 39.4%;}
+.screen1 .c {top: 39.4%;}
+.screen1 .aa {top: 36.1%; width: 28%; left: 60%;}
+.screen1 .bb {top: 37%; width: 25%;}
+.screen1 .cc {top: 36.1%; width: 24%;left: 62%;}
+.screen1 .mouth4 {top: 43.5%; left: 48.5%;}
+.screen1 .neck {top: 46.9%;}
+.screen1 .body {top: 45.2%; width: 100%;height: 17.3880873%;left: 0%;top: 48.76%;}
+.screen1 .d {background-image: url('../images/bodyiph.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;}
+.screen1 .e {background-image: url('../images/bodyiph2.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;}
+.screen1 .f {background-image: url('../images/bodyiph3.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;}
+.screen1 .g {top: 54.9%;}
+.screen1 .h {top: 54.57%;}
+.screen1 .i {top: 55.1%;}
+.screen1 .j {top:54.9%;}
+.screen1 .k {top:54.57%;}
+.screen1 .l {top: 55.1%;}
+.screen1 .z {background-image: url('../images/pantsiph1.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto; width: 74.0425532%;height: 12.0606733%;top: 66.09%;left: 13.25937%;}
+.screen1 .r {background-image: url('../images/pantsiph2.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto; width: 74.0425532%;height: 12.0606733%;top: 66.09%;left: 13.25937%;}
+.screen1 .v {background-image: url('../images/pantsiph3.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto; width: 74.0425532%;height: 12.0606733%;top: 66.09%;left: 13.25937%;}
+.screen1 .button1 {top: 37%; width: 15%;margin-left: 20%;margin-right: -12.8%; top: 36.5%;}
+.screen1 .button2 {top: 40%;width: 15%;margin-left: 29%;margin-right: -18%;}
+.screen1 .sq {top: 76%;background-image: url('../images/legiph1.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;left: 9%;}
+.screen1 .circ {top: 74.35%;;background-image: url('../images/legiph2.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;left: 9%;}
+.screen1 .kv {top: 76%;background-image: url('../images/legiph3.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto; left: 59%;}
+.screen1 .kr {top: 74.35%;;background-image: url('../images/legiph4.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;left: 59%;}
+.screen1 .nail {height: 0.7%;width: 6%;top: 90.5%;left: 14%;}
+.screen1 .naill {height: 0.7%;width: 6%;top: 92%;left: 14%;}
+.screen1 .nailll {display: none;}
+.screen1 .rnail {height: 0.7%;width: 6%;top: 90.5%;left: 80.2%;}
+.screen1 .rnaill {height: 0.7%;width: 6%;top: 92%;left: 80.2%;}
+.screen1 .rnailll {display: none;}
+.screen1 .tip1 {display: none;}
+.screen1 .ptip1 {display: none;}
+.screen1 .tip2 {display: none;}
+.screen1 .ptip2 {display: none;}
+.screen1 .tip3 {display: none;}
+.screen1 .ptip3 {display: none;}
+.screen1 .tip4 {display: none;}
+.screen1 .ptip4 {display: none;}
+.screen1 .tip5 {display: none;}
+.screen1 .ptip5 {display: none;}
+.screen1 .tip6 {display: none;}
+.screen1 .ptip6 {display: none;}
+.screen1 .tip7 {display: none;}
+.screen1 .ptip7 {display: none;}
+.screen1 .tip8 {display: none;}
+.screen1 .ptip8 {display: none;}
+.screen1 .tip9 {display: none;}
+.screen1 .ptip9 {display: none;}
+.screen1 .tip10 {display: none;}
+.screen1 .ptip10 {display: none;}
+.screen1 .tip11 {display: block; width: 22%; height: 1.5%; top: 33.8%;left: 0%;}
+.screen1 .ptip11 {display: block; left: 9.9%; top: 15%; font-size: 10px;}
+.screen1 .tip12 {display: block; width: 25%; height: 2%; top: 43%;left: 0%;}
+.screen1 .ptip12 {display: block; left: 9%; top: 13.5%;font-size: 10px;}
+.screen1 .tip13 {display: block; width: 28%; height: 0.9%; top: 49.5%;right: 0%;}
+.screen1 .ptip13 {display: block; left: 7%; top: 20%;font-size: 10px;}
+.screen1 .tip14 {display: block; width: 20%; height: 0.9%; top: 53%;left: 0%;}
+.screen1 .ptip14 {display: block; left: 11%; top: 20%;font-size: 10px;}
+.screen1 .tip15 {display: block; width: 35%; height: 0.9%; top: 59%;right: 0%;}
+.screen1 .ptip15 {display: block; left: 7%; top: 23%;font-size: 10px;}
+.screen1 .tip16 {display: block; width: 25%; height: 0.9%; top: 70.5%;left: 0%;}
+.screen1 .ptip16 {display: block; left: 8%; top: 22.5%;font-size: 10px;}
+.screen1 .tip17 {display: block; width: 22%; height: 0.9%; top: 79%;right: 0%;}
+.screen1 .ptip17 {display: block; left: 12%; top: 20%;font-size: 10px;}
+.screen1 .tip18 {display: block; width: 25%; height: 0.9%; top: 88.5%;left: 0%;}
+.screen1 .ptip18 {display: block; left: 8%; top: 20%;font-size: 10px;}
+.screen1 .fin {top: 96%;width: 24%; border: solid black 2.8px; height: 01.4%;left:36%;}
+.screen1 .pfin {left: 26.3%;top: 23.7%; font-size: 14px;}
+}
+@media all and (min-width: 430px) and (max-width: 449px){
+div .ratio {padding-bottom: 575.106383%;}
+.screen1 .green1 {width: 40%; height: 9.6559378%;}
+.screen1 .purple {width: 60%; height: 9.6559378%;}
+.screen1 .green2 {width: 44.0425532%; height: 9.9149094%; background: #FF57B3}
+
+.screen1 .orange {width:55.9574468%; height: 9.9149094%;margin-top: 0%;}
+.screen1 .white {width: 55.9574468%; height: 9.3599704%;margin-top: 0%;}
+.screen1 .pink {width: 44.0425532%; height: 9.3599704%;margin-top: 0%;}
+.screen1 .panel {height:1.96078431% }
+.screen1 .eye1 {display: none;}
+.screen1 .eye2 {width: 60%; left: 19%;}
+.screen1 .zrachok1 {top: 21.5%; width: 8%; left: 40%; animation: zr1 3s linear infinite}
+@keyframes zr1 {
+  0% {left:40%;}
+  50% {left: 50%;}
+  100% {left:40%;}
+}
+.screen1 .nose1 {top: 46%;left: 40%;width: 20%;}
+.screen1 .mouth1 {top: 70%;left: 17%;width: 64%;}
+.screen1 .hands1 {top: -25%;left: 8.2%;width: 24.4167963%; animation: hh1 3s linear infinite}
+@keyframes hh1 {
+  0% {top: -25%;}
+  50% {top: -10%;}
+  100% {top: -25%;}
+}
+.screen1 .hands2 {top: 66%; animation: hh2 3s linear infinite}
+@keyframes hh2 {
+  0% {top: 66%;}
+  50% {top: 50%;}
+  100% {top: 66%;}
+}
+.screen1 .hands3 {top: -30%;left: 67.8%;width: 24.4167963%; animation: hh3 3s linear infinite}
+@keyframes hh3 {
+  0% {top: -30%;}
+  50% {top: -10%;}
+  100% {top: -30%;}
+}
+.screen1 .arrow {top: -2%;width: 13%;}
+.screen1 .zrachok2 {top: 19.3%;}
+.screen1 .mouth2 {width: 60%;left: 20%; top: 60%;}
+.screen1 .tooth1 {margin-top: 78.5%;width: 7%;}
+.screen1 .tooth2 {margin-top: 9%;width: 7%;}
+.screen1 .nosik {opacity: 100;width: 14%;height: 16.5%; top: 32%}
+.screen1 .eye5{top: 32%;width: 33%;left: 1.5%;}
+.screen1 .eye6{left: 62%;top: 14%;width: 35%;}
+.screen1 .nose3{left: 36%;}
+.screen1 .mouth3{width: 43%;top: 61%;}
+.screen1 .p1 {font-size: 21px;top: 68%;}
+.screen1 .wcircle1 {top: 7%;}
+.screen1 .gcircle1 {top: 7%;}
+.screen1 .wcircle2 {top: 7%;}
+.screen1 .gcircle2 {top: 7%;}
+.screen1 .wcircle3 {top: 7%;}
+.screen1 .gcircle3 {top: 35%;}
+.screen1 .wcircle4 {top: 35%;}
+.screen1 .gcircle4 {top: 35%;}
+.screen1 .wcircle5 {top: 35%;}
+.screen1 .gcircle5 {top: 35%;}
+.screen1 .hair {top: 33%; width: 84.0425532%; height: 12.615612%; left: 8%;}
+.screen1 .odin {top: 36%;width: 66.3829787%; height: 10.9877913%;left: 16.7%;}
+.screen1 .dva {top: 34.5%; width: 74%;height: 13%;left: 13%;}
+.screen1 .tri {top: 35.1%; width: 70%;height: 12%;left: 15%;}
+.screen1 .bubble1 {display: none;}
+.screen1 .cross {display:none;}
+.screen1 .brow {top: 37.2%;left: 13%;height: 0.8%; width: 18%;}
+.screen1 .uno {top: 38.5%; width: 27%; left: 12.5%;}
+.screen1 .dos {top: 37.6%;width: 23%; left: 13%;}
+.screen1 .tres {top: 38%;width: 27%;left: 11%;}
+.screen1 .a {top: 39.4%;}
+.screen1 .b {top: 39.4%;}
+.screen1 .c {top: 39.4%;}
+.screen1 .aa {top: 36.1%; width: 28%; left: 60%;}
+.screen1 .bb {top: 37%; width: 25%;}
+.screen1 .cc {top: 36.1%; width: 24%;left: 62%;}
+.screen1 .mouth4 {top: 43.5%; left: 48.5%;}
+.screen1 .neck {top: 46.9%;}
+.screen1 .body {top: 45.2%; width: 100%;height: 17.3880873%;left: 0%;top: 48.76%;}
+.screen1 .d {background-image: url('../images/bodyiph.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;}
+.screen1 .e {background-image: url('../images/bodyiph2.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;}
+.screen1 .f {background-image: url('../images/bodyiph3.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;}
+.screen1 .g {top: 54.9%;}
+.screen1 .h {top: 54.57%;}
+.screen1 .i {top: 55.1%;}
+.screen1 .j {top:54.9%;}
+.screen1 .k {top:54.57%;}
+.screen1 .l {top: 55.1%;}
+.screen1 .z {background-image: url('../images/pantsiph1.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto; width: 74.0425532%;height: 12.0606733%;top: 66.09%;left: 13.25937%;}
+.screen1 .r {background-image: url('../images/pantsiph2.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto; width: 74.0425532%;height: 12.0606733%;top: 66.09%;left: 13.25937%;}
+.screen1 .v {background-image: url('../images/pantsiph3.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto; width: 74.0425532%;height: 12.0606733%;top: 66.09%;left: 13.25937%;}
+.screen1 .button1 {top: 37%; width: 15%;margin-left: 20%;margin-right: -12.8%; top: 36.5%;}
+.screen1 .button2 {top: 40%;width: 15%;margin-left: 29%;margin-right: -18%;}
+.screen1 .sq {top: 76%;background-image: url('../images/legiph1.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;left: 9%;}
+.screen1 .circ {top: 74.35%;;background-image: url('../images/legiph2.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;left: 9%;}
+.screen1 .kv {top: 76%;background-image: url('../images/legiph3.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto; left: 59%;}
+.screen1 .kr {top: 74.35%;;background-image: url('../images/legiph4.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;left: 59%;}
+.screen1 .nail {height: 0.7%;width: 6%;top: 90.5%;left: 14%;}
+.screen1 .naill {height: 0.7%;width: 6%;top: 92%;left: 14%;}
+.screen1 .nailll {display: none;}
+.screen1 .rnail {height: 0.7%;width: 6%;top: 90.5%;left: 80.2%;}
+.screen1 .rnaill {height: 0.7%;width: 6%;top: 92%;left: 80.2%;}
+.screen1 .rnailll {display: none;}
+.screen1 .tip1 {display: none;}
+.screen1 .ptip1 {display: none;}
+.screen1 .tip2 {display: none;}
+.screen1 .ptip2 {display: none;}
+.screen1 .tip3 {display: none;}
+.screen1 .ptip3 {display: none;}
+.screen1 .tip4 {display: none;}
+.screen1 .ptip4 {display: none;}
+.screen1 .tip5 {display: none;}
+.screen1 .ptip5 {display: none;}
+.screen1 .tip6 {display: none;}
+.screen1 .ptip6 {display: none;}
+.screen1 .tip7 {display: none;}
+.screen1 .ptip7 {display: none;}
+.screen1 .tip8 {display: none;}
+.screen1 .ptip8 {display: none;}
+.screen1 .tip9 {display: none;}
+.screen1 .ptip9 {display: none;}
+.screen1 .tip10 {display: none;}
+.screen1 .ptip10 {display: none;}
+.screen1 .tip11 {display: block; width: 23%; height: 1.5%; top: 33.8%;left: 0%;}
+.screen1 .ptip11 {display: block; left: 9.9%; top: 15%; font-size: 10px;}
+.screen1 .tip12 {display: block; width: 27%; height: 2%; top: 43%;left: 0%;}
+.screen1 .ptip12 {display: block; left: 9%; top: 13.5%;font-size: 10px;}
+.screen1 .tip13 {display: block; width: 30%; height: 0.9%; top: 49.5%;right: 0%;}
+.screen1 .ptip13 {display: block; left: 7%; top: 20%;font-size: 10px;}
+.screen1 .tip14 {display: block; width: 22%; height: 0.9%; top: 53%;left: 0%;}
+.screen1 .ptip14 {display: block; left: 11%; top: 20%;font-size: 10px;}
+.screen1 .tip15 {display: block; width: 37%; height: 0.9%; top: 59%;right: 0%;}
+.screen1 .ptip15 {display: block; left: 7%; top: 23%;font-size: 10px;}
+.screen1 .tip16 {display: block; width: 27%; height: 0.9%; top: 70.5%;left: 0%;}
+.screen1 .ptip16 {display: block; left: 8%; top: 22.5%;font-size: 10px;}
+.screen1 .tip17 {display: block; width: 24%; height: 0.9%; top: 79%;right: 0%;}
+.screen1 .ptip17 {display: block; left: 12%; top: 20%;font-size: 10px;}
+.screen1 .tip18 {display: block; width: 27%; height: 0.9%; top: 88.5%;left: 0%;}
+.screen1 .ptip18 {display: block; left: 8%; top: 20%;font-size: 10px;}
+.screen1 .fin {top: 96%;width: 24%; border: solid black 2.8px; height: 01.4%;left:36%;}
+.screen1 .pfin {left: 26.3%;top: 23.7%; font-size: 14px;}
+}
+@media all and (min-width: 400px) and (max-width: 429px){
+div .ratio {padding-bottom: 575.106383%;}
+.screen1 .green1 {width: 40%; height: 9.6559378%;}
+.screen1 .purple {width: 60%; height: 9.6559378%;}
+.screen1 .green2 {width: 44.0425532%; height: 9.9149094%; background: #FF57B3}
+
+.screen1 .orange {width:55.9574468%; height: 9.9149094%;margin-top: 0%;}
+.screen1 .white {width: 55.9574468%; height: 9.3599704%;margin-top: 0%;}
+.screen1 .pink {width: 44.0425532%; height: 9.3599704%;margin-top: 0%;}
+.screen1 .panel {height:1.96078431% }
+.screen1 .eye1 {display: none;}
+.screen1 .eye2 {width: 60%; left: 19%;}
+.screen1 .zrachok1 {top: 21.5%; width: 8%; left: 40%; animation: zr1 3s linear infinite}
+@keyframes zr1 {
+  0% {left:40%;}
+  50% {left: 50%;}
+  100% {left:40%;}
+}
+.screen1 .nose1 {top: 46%;left: 40%;width: 20%;}
+.screen1 .mouth1 {top: 70%;left: 17%;width: 64%;}
+.screen1 .hands1 {top: -25%;left: 8.2%;width: 24.4167963%; animation: hh1 3s linear infinite}
+@keyframes hh1 {
+  0% {top: -25%;}
+  50% {top: -10%;}
+  100% {top: -25%;}
+}
+.screen1 .hands2 {top: 66%; animation: hh2 3s linear infinite}
+@keyframes hh2 {
+  0% {top: 66%;}
+  50% {top: 50%;}
+  100% {top: 66%;}
+}
+.screen1 .hands3 {top: -30%;left: 67.8%;width: 24.4167963%; animation: hh3 3s linear infinite}
+@keyframes hh3 {
+  0% {top: -30%;}
+  50% {top: -10%;}
+  100% {top: -30%;}
+}
+.screen1 .arrow {top: -2%;width: 13%;}
+.screen1 .zrachok2 {top: 19.3%;}
+.screen1 .mouth2 {width: 60%;left: 20%; top: 60%;}
+.screen1 .tooth1 {margin-top: 78.5%;width: 7%;}
+.screen1 .tooth2 {margin-top: 9%;width: 7%;}
+.screen1 .nosik {opacity: 100;width: 14%;height: 16.5%; top: 32%}
+.screen1 .eye5{top: 32%;width: 33%;left: 1.5%;}
+.screen1 .eye6{left: 62%;top: 14%;width: 35%;}
+.screen1 .nose3{left: 36%;}
+.screen1 .mouth3{width: 43%;top: 61%;}
+.screen1 .p1 {font-size: 21px;top: 68%;}
+.screen1 .wcircle1 {top: 7%;}
+.screen1 .gcircle1 {top: 7%;}
+.screen1 .wcircle2 {top: 7%;}
+.screen1 .gcircle2 {top: 7%;}
+.screen1 .wcircle3 {top: 7%;}
+.screen1 .gcircle3 {top: 35%;}
+.screen1 .wcircle4 {top: 35%;}
+.screen1 .gcircle4 {top: 35%;}
+.screen1 .wcircle5 {top: 35%;}
+.screen1 .gcircle5 {top: 35%;}
+.screen1 .hair {top: 33%; width: 84.0425532%; height: 12.615612%; left: 8%;}
+.screen1 .odin {top: 36%;width: 66.3829787%; height: 10.9877913%;left: 16.7%;}
+.screen1 .dva {top: 34.5%; width: 74%;height: 13%;left: 13%;}
+.screen1 .tri {top: 35.1%; width: 70%;height: 12%;left: 15%;}
+.screen1 .bubble1 {display: none;}
+.screen1 .cross {display:none;}
+.screen1 .brow {top: 37.2%;left: 13%;height: 0.8%; width: 18%;}
+.screen1 .uno {top: 38.5%; width: 27%; left: 12.5%;}
+.screen1 .dos {top: 37.6%;width: 23%; left: 13%;}
+.screen1 .tres {top: 38%;width: 27%;left: 11%;}
+.screen1 .a {top: 39.4%;}
+.screen1 .b {top: 39.4%;}
+.screen1 .c {top: 39.4%;}
+.screen1 .aa {top: 36.1%; width: 28%; left: 60%;}
+.screen1 .bb {top: 37%; width: 25%;}
+.screen1 .cc {top: 36.1%; width: 24%;left: 62%;}
+.screen1 .mouth4 {top: 43.5%; left: 48.5%;}
+.screen1 .neck {top: 46.9%;}
+.screen1 .body {top: 45.2%; width: 100%;height: 17.3880873%;left: 0%;top: 48.76%;}
+.screen1 .d {background-image: url('../images/bodyiph.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;}
+.screen1 .e {background-image: url('../images/bodyiph2.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;}
+.screen1 .f {background-image: url('../images/bodyiph3.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;}
+.screen1 .g {top: 54.9%;}
+.screen1 .h {top: 54.57%;}
+.screen1 .i {top: 55.1%;}
+.screen1 .j {top:54.9%;}
+.screen1 .k {top:54.57%;}
+.screen1 .l {top: 55.1%;}
+.screen1 .z {background-image: url('../images/pantsiph1.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto; width: 74.0425532%;height: 12.0606733%;top: 66.09%;left: 13.25937%;}
+.screen1 .r {background-image: url('../images/pantsiph2.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto; width: 74.0425532%;height: 12.0606733%;top: 66.09%;left: 13.25937%;}
+.screen1 .v {background-image: url('../images/pantsiph3.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto; width: 74.0425532%;height: 12.0606733%;top: 66.09%;left: 13.25937%;}
+.screen1 .button1 {top: 37%; width: 15%;margin-left: 20%;margin-right: -12.8%; top: 36.5%;}
+.screen1 .button2 {top: 40%;width: 15%;margin-left: 29%;margin-right: -18%;}
+.screen1 .sq {top: 76%;background-image: url('../images/legiph1.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;left: 9%;}
+.screen1 .circ {top: 74.35%;;background-image: url('../images/legiph2.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;left: 9%;}
+.screen1 .kv {top: 76%;background-image: url('../images/legiph3.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto; left: 59%;}
+.screen1 .kr {top: 74.35%;;background-image: url('../images/legiph4.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;left: 59%;}
+.screen1 .nail {height: 0.7%;width: 6%;top: 90.5%;left: 14%;}
+.screen1 .naill {height: 0.7%;width: 6%;top: 92%;left: 14%;}
+.screen1 .nailll {display: none;}
+.screen1 .rnail {height: 0.7%;width: 6%;top: 90.5%;left: 80.2%;}
+.screen1 .rnaill {height: 0.7%;width: 6%;top: 92%;left: 80.2%;}
+.screen1 .rnailll {display: none;}
+.screen1 .tip1 {display: none;}
+.screen1 .ptip1 {display: none;}
+.screen1 .tip2 {display: none;}
+.screen1 .ptip2 {display: none;}
+.screen1 .tip3 {display: none;}
+.screen1 .ptip3 {display: none;}
+.screen1 .tip4 {display: none;}
+.screen1 .ptip4 {display: none;}
+.screen1 .tip5 {display: none;}
+.screen1 .ptip5 {display: none;}
+.screen1 .tip6 {display: none;}
+.screen1 .ptip6 {display: none;}
+.screen1 .tip7 {display: none;}
+.screen1 .ptip7 {display: none;}
+.screen1 .tip8 {display: none;}
+.screen1 .ptip8 {display: none;}
+.screen1 .tip9 {display: none;}
+.screen1 .ptip9 {display: none;}
+.screen1 .tip10 {display: none;}
+.screen1 .ptip10 {display: none;}
+.screen1 .tip11 {display: block; width: 23%; height: 1.5%; top: 33.8%;left: 0%;}
+.screen1 .ptip11 {display: block; left: 9.9%; top: 15%; font-size: 10px;}
+.screen1 .tip12 {display: block; width: 27%; height: 2%; top: 43%;left: 0%;}
+.screen1 .ptip12 {display: block; left: 9%; top: 13.5%;font-size: 10px;}
+.screen1 .tip13 {display: block; width: 30%; height: 0.9%; top: 49.5%;right: 0%;}
+.screen1 .ptip13 {display: block; left: 7%; top: 20%;font-size: 10px;}
+.screen1 .tip14 {display: block; width: 22%; height: 0.9%; top: 53%;left: 0%;}
+.screen1 .ptip14 {display: block; left: 11%; top: 20%;font-size: 10px;}
+.screen1 .tip15 {display: block; width: 37%; height: 0.9%; top: 59%;right: 0%;}
+.screen1 .ptip15 {display: block; left: 7%; top: 23%;font-size: 10px;}
+.screen1 .tip16 {display: block; width: 27%; height: 0.9%; top: 70.5%;left: 0%;}
+.screen1 .ptip16 {display: block; left: 8%; top: 22.5%;font-size: 10px;}
+.screen1 .tip17 {display: block; width: 24%; height: 0.9%; top: 79%;right: 0%;}
+.screen1 .ptip17 {display: block; left: 12%; top: 20%;font-size: 10px;}
+.screen1 .tip18 {display: block; width: 27%; height: 0.9%; top: 88.5%;left: 0%;}
+.screen1 .ptip18 {display: block; left: 8%; top: 20%;font-size: 10px;}
+.screen1 .fin {top: 96%;width: 24%; border: solid black 2.8px; height: 01.4%;left:36%;}
+.screen1 .pfin {left: 27%;top: 23.5%; font-size: 13px;}
+}
+@media all and (min-width: 380px) and (max-width: 399px){
+div .ratio {padding-bottom: 575.106383%;}
+.screen1 .green1 {width: 40%; height: 9.6559378%;}
+.screen1 .purple {width: 60%; height: 9.6559378%;}
+.screen1 .green2 {width: 44.0425532%; height: 9.9149094%; background: #FF57B3}
+
+.screen1 .orange {width:55.9574468%; height: 9.9149094%;margin-top: 0%;}
+.screen1 .white {width: 55.9574468%; height: 9.3599704%;margin-top: 0%;}
+.screen1 .pink {width: 44.0425532%; height: 9.3599704%;margin-top: 0%;}
+.screen1 .panel {height:1.96078431% }
+.screen1 .eye1 {display: none;}
+.screen1 .eye2 {width: 60%; left: 19%;}
+.screen1 .zrachok1 {top: 21.5%; width: 8%; left: 40%; animation: zr1 3s linear infinite}
+@keyframes zr1 {
+  0% {left:40%;}
+  50% {left: 50%;}
+  100% {left:40%;}
+}
+.screen1 .nose1 {top: 46%;left: 40%;width: 20%;}
+.screen1 .mouth1 {top: 70%;left: 17%;width: 64%;}
+.screen1 .hands1 {top: -25%;left: 8.2%;width: 24.4167963%; animation: hh1 3s linear infinite}
+@keyframes hh1 {
+  0% {top: -25%;}
+  50% {top: -10%;}
+  100% {top: -25%;}
+}
+.screen1 .hands2 {top: 66%; animation: hh2 3s linear infinite}
+@keyframes hh2 {
+  0% {top: 66%;}
+  50% {top: 50%;}
+  100% {top: 66%;}
+}
+.screen1 .hands3 {top: -30%;left: 67.8%;width: 24.4167963%; animation: hh3 3s linear infinite}
+@keyframes hh3 {
+  0% {top: -30%;}
+  50% {top: -10%;}
+  100% {top: -30%;}
+}
+.screen1 .arrow {top: -2%;width: 13%;}
+.screen1 .zrachok2 {top: 19.3%;}
+.screen1 .mouth2 {width: 60%;left: 20%; top: 60%;}
+.screen1 .tooth1 {margin-top: 78.5%;width: 7%;}
+.screen1 .tooth2 {margin-top: 9%;width: 7%;}
+.screen1 .nosik {opacity: 100;width: 14%;height: 16.5%; top: 32%}
+.screen1 .eye5{top: 32%;width: 33%;left: 1.5%;}
+.screen1 .eye6{left: 62%;top: 14%;width: 35%;}
+.screen1 .nose3{left: 36%;}
+.screen1 .mouth3{width: 43%;top: 61%;}
+.screen1 .p1 {font-size: 19px;top: 68%;}
+.screen1 .wcircle1 {top: 7%;}
+.screen1 .gcircle1 {top: 7%;}
+.screen1 .wcircle2 {top: 7%;}
+.screen1 .gcircle2 {top: 7%;}
+.screen1 .wcircle3 {top: 7%;}
+.screen1 .gcircle3 {top: 35%;}
+.screen1 .wcircle4 {top: 35%;}
+.screen1 .gcircle4 {top: 35%;}
+.screen1 .wcircle5 {top: 35%;}
+.screen1 .gcircle5 {top: 35%;}
+.screen1 .hair {top: 33%; width: 84.0425532%; height: 12.615612%; left: 8%;}
+.screen1 .odin {top: 36%;width: 66.3829787%; height: 10.9877913%;left: 16.7%;}
+.screen1 .dva {top: 34.5%; width: 74%;height: 13%;left: 13%;}
+.screen1 .tri {top: 35.1%; width: 70%;height: 12%;left: 15%;}
+.screen1 .bubble1 {display: none;}
+.screen1 .cross {display:none;}
+.screen1 .brow {top: 37.2%;left: 13%;height: 0.8%; width: 18%;}
+.screen1 .uno {top: 38.5%; width: 27%; left: 12.5%;}
+.screen1 .dos {top: 37.6%;width: 23%; left: 13%;}
+.screen1 .tres {top: 38%;width: 27%;left: 11%;}
+.screen1 .a {top: 39.4%;}
+.screen1 .b {top: 39.4%;}
+.screen1 .c {top: 39.4%;}
+.screen1 .aa {top: 36.1%; width: 28%; left: 60%;}
+.screen1 .bb {top: 37%; width: 25%;}
+.screen1 .cc {top: 36.1%; width: 24%;left: 62%;}
+.screen1 .mouth4 {top: 43.5%; left: 48.5%;}
+.screen1 .neck {top: 46.9%;}
+.screen1 .body {top: 45.2%; width: 100%;height: 17.3880873%;left: 0%;top: 48.76%;}
+.screen1 .d {background-image: url('../images/bodyiph.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;}
+.screen1 .e {background-image: url('../images/bodyiph2.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;}
+.screen1 .f {background-image: url('../images/bodyiph3.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;}
+.screen1 .g {top: 54.9%;}
+.screen1 .h {top: 54.57%;}
+.screen1 .i {top: 55.1%;}
+.screen1 .j {top:54.9%;}
+.screen1 .k {top:54.57%;}
+.screen1 .l {top: 55.1%;}
+.screen1 .z {background-image: url('../images/pantsiph1.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto; width: 74.0425532%;height: 12.0606733%;top: 66.09%;left: 13.25937%;}
+.screen1 .r {background-image: url('../images/pantsiph2.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto; width: 74.0425532%;height: 12.0606733%;top: 66.09%;left: 13.25937%;}
+.screen1 .v {background-image: url('../images/pantsiph3.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto; width: 74.0425532%;height: 12.0606733%;top: 66.09%;left: 13.25937%;}
+.screen1 .button1 {top: 37%; width: 15%;margin-left: 20%;margin-right: -12.8%; top: 36.5%;}
+.screen1 .button2 {top: 40%;width: 15%;margin-left: 29%;margin-right: -18%;}
+.screen1 .sq {top: 76%;background-image: url('../images/legiph1.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;left: 9%;}
+.screen1 .circ {top: 74.35%;;background-image: url('../images/legiph2.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;left: 9%;}
+.screen1 .kv {top: 76%;background-image: url('../images/legiph3.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto; left: 59%;}
+.screen1 .kr {top: 74.35%;;background-image: url('../images/legiph4.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;left: 59%;}
+.screen1 .nail {height: 0.7%;width: 6%;top: 90.5%;left: 14%;}
+.screen1 .naill {height: 0.7%;width: 6%;top: 92%;left: 14%;}
+.screen1 .nailll {display: none;}
+.screen1 .rnail {height: 0.7%;width: 6%;top: 90.5%;left: 80.2%;}
+.screen1 .rnaill {height: 0.7%;width: 6%;top: 92%;left: 80.2%;}
+.screen1 .rnailll {display: none;}
+.screen1 .tip1 {display: none;}
+.screen1 .ptip1 {display: none;}
+.screen1 .tip2 {display: none;}
+.screen1 .ptip2 {display: none;}
+.screen1 .tip3 {display: none;}
+.screen1 .ptip3 {display: none;}
+.screen1 .tip4 {display: none;}
+.screen1 .ptip4 {display: none;}
+.screen1 .tip5 {display: none;}
+.screen1 .ptip5 {display: none;}
+.screen1 .tip6 {display: none;}
+.screen1 .ptip6 {display: none;}
+.screen1 .tip7 {display: none;}
+.screen1 .ptip7 {display: none;}
+.screen1 .tip8 {display: none;}
+.screen1 .ptip8 {display: none;}
+.screen1 .tip9 {display: none;}
+.screen1 .ptip9 {display: none;}
+.screen1 .tip10 {display: none;}
+.screen1 .ptip10 {display: none;}
+.screen1 .tip11 {display: block; width: 25%; height: 1.5%; top: 33.8%;left: 0%;}
+.screen1 .ptip11 {display: block; left: 9.9%; top: 15%; font-size: 9.5px;}
+.screen1 .tip12 {display: block; width: 29%; height: 2%; top: 43%;left: 0%;}
+.screen1 .ptip12 {display: block; left: 9%; top: 13.5%;font-size: 9.5px;}
+.screen1 .tip13 {display: block; width: 32%; height: 0.9%; top: 49.5%;right: 0%;}
+.screen1 .ptip13 {display: block; left: 7%; top: 20%;font-size: 9.5px;}
+.screen1 .tip14 {display: block; width: 24%; height: 0.9%; top: 53%;left: 0%;}
+.screen1 .ptip14 {display: block; left: 11%; top: 20%;font-size: 9.5px;}
+.screen1 .tip15 {display: block; width: 39%; height: 0.9%; top: 59%;right: 0%;}
+.screen1 .ptip15 {display: block; left: 7%; top: 23%;font-size: 9.5px;}
+.screen1 .tip16 {display: block; width: 29%; height: 0.9%; top: 70.5%;left: 0%;}
+.screen1 .ptip16 {display: block; left: 8%; top: 22.5%;font-size: 9.5px;}
+.screen1 .tip17 {display: block; width: 26%; height: 0.9%; top: 79%;right: 0%;}
+.screen1 .ptip17 {display: block; left: 12%; top: 20%;font-size: 9.5px;}
+.screen1 .tip18 {display: block; width: 29%; height: 0.9%; top: 88.5%;left: 0%;}
+.screen1 .ptip18 {display: block; left: 8%; top: 20%;font-size: 9.5px;}
+.screen1 .fin {top: 96%;width: 24%; border: solid black 2.8px; height: 01.4%;left:36%;}
+.screen1 .pfin {left: 27%;top: 23.5%; font-size: 12px;}
+}
+@media all and (min-width: 360px) and (max-width: 379px){
+div .ratio {padding-bottom: 575.106383%;}
+.screen1 .green1 {width: 40%; height: 9.6559378%;}
+.screen1 .purple {width: 60%; height: 9.6559378%;}
+.screen1 .green2 {width: 44.0425532%; height: 9.9149094%; background: #FF57B3}
+
+.screen1 .orange {width:55.9574468%; height: 9.9149094%;margin-top: 0%;}
+.screen1 .white {width: 55.9574468%; height: 9.3599704%;margin-top: 0%;}
+.screen1 .pink {width: 44.0425532%; height: 9.3599704%;margin-top: 0%;}
+.screen1 .panel {height:1.96078431% }
+.screen1 .eye1 {display: none;}
+.screen1 .eye2 {width: 60%; left: 19%;}
+.screen1 .zrachok1 {top: 21.5%; width: 8%; left: 40%; animation: zr1 3s linear infinite}
+@keyframes zr1 {
+  0% {left:40%;}
+  50% {left: 50%;}
+  100% {left:40%;}
+}
+.screen1 .nose1 {top: 46%;left: 40%;width: 20%;}
+.screen1 .mouth1 {top: 70%;left: 17%;width: 64%;}
+.screen1 .hands1 {top: -25%;left: 8.2%;width: 24.4167963%; animation: hh1 3s linear infinite}
+@keyframes hh1 {
+  0% {top: -25%;}
+  50% {top: -10%;}
+  100% {top: -25%;}
+}
+.screen1 .hands2 {top: 66%; animation: hh2 3s linear infinite}
+@keyframes hh2 {
+  0% {top: 66%;}
+  50% {top: 50%;}
+  100% {top: 66%;}
+}
+.screen1 .hands3 {top: -30%;left: 67.8%;width: 24.4167963%; animation: hh3 3s linear infinite}
+@keyframes hh3 {
+  0% {top: -30%;}
+  50% {top: -10%;}
+  100% {top: -30%;}
+}
+.screen1 .arrow {top: -2%;width: 13%;}
+.screen1 .zrachok2 {top: 19.3%;}
+.screen1 .mouth2 {width: 60%;left: 20%; top: 60%;}
+.screen1 .tooth1 {margin-top: 78.5%;width: 7%;}
+.screen1 .tooth2 {margin-top: 9%;width: 7%;}
+.screen1 .nosik {opacity: 100;width: 14%;height: 16.5%; top: 32%}
+.screen1 .eye5{top: 32%;width: 33%;left: 1.5%;}
+.screen1 .eye6{left: 62%;top: 14%;width: 35%;}
+.screen1 .nose3{left: 36%;}
+.screen1 .mouth3{width: 43%;top: 61%;}
+.screen1 .p1 {font-size: 19px;top: 68%;}
+.screen1 .wcircle1 {top: 7%;}
+.screen1 .gcircle1 {top: 7%;}
+.screen1 .wcircle2 {top: 7%;}
+.screen1 .gcircle2 {top: 7%;}
+.screen1 .wcircle3 {top: 7%;}
+.screen1 .gcircle3 {top: 35%;}
+.screen1 .wcircle4 {top: 35%;}
+.screen1 .gcircle4 {top: 35%;}
+.screen1 .wcircle5 {top: 35%;}
+.screen1 .gcircle5 {top: 35%;}
+.screen1 .hair {top: 33%; width: 84.0425532%; height: 12.615612%; left: 8%;}
+.screen1 .odin {top: 36%;width: 66.3829787%; height: 10.9877913%;left: 16.7%;}
+.screen1 .dva {top: 34.5%; width: 74%;height: 13%;left: 13%;}
+.screen1 .tri {top: 35.1%; width: 70%;height: 12%;left: 15%;}
+.screen1 .bubble1 {display: none;}
+.screen1 .cross {display:none;}
+.screen1 .brow {top: 37.2%;left: 13%;height: 0.8%; width: 18%;}
+.screen1 .uno {top: 38.5%; width: 27%; left: 12.5%;}
+.screen1 .dos {top: 37.6%;width: 23%; left: 13%;}
+.screen1 .tres {top: 38%;width: 27%;left: 11%;}
+.screen1 .a {top: 39.4%;}
+.screen1 .b {top: 39.4%;}
+.screen1 .c {top: 39.4%;}
+.screen1 .aa {top: 36.1%; width: 28%; left: 60%;}
+.screen1 .bb {top: 37%; width: 25%;}
+.screen1 .cc {top: 36.1%; width: 24%;left: 62%;}
+.screen1 .mouth4 {top: 43.5%; left: 48.5%;}
+.screen1 .neck {top: 46.9%;}
+.screen1 .body {top: 45.2%; width: 100%;height: 17.3880873%;left: 0%;top: 48.76%;}
+.screen1 .d {background-image: url('../images/bodyiph.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;}
+.screen1 .e {background-image: url('../images/bodyiph2.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;}
+.screen1 .f {background-image: url('../images/bodyiph3.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;}
+.screen1 .g {top: 54.9%;}
+.screen1 .h {top: 54.57%;}
+.screen1 .i {top: 55.1%;}
+.screen1 .j {top:54.9%;}
+.screen1 .k {top:54.57%;}
+.screen1 .l {top: 55.1%;}
+.screen1 .z {background-image: url('../images/pantsiph1.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto; width: 74.0425532%;height: 12.0606733%;top: 66.09%;left: 13.25937%;}
+.screen1 .r {background-image: url('../images/pantsiph2.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto; width: 74.0425532%;height: 12.0606733%;top: 66.09%;left: 13.25937%;}
+.screen1 .v {background-image: url('../images/pantsiph3.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto; width: 74.0425532%;height: 12.0606733%;top: 66.09%;left: 13.25937%;}
+.screen1 .button1 {top: 37%; width: 15%;margin-left: 20%;margin-right: -12.8%; top: 36.5%;}
+.screen1 .button2 {top: 40%;width: 15%;margin-left: 29%;margin-right: -18%;}
+.screen1 .sq {top: 76%;background-image: url('../images/legiph1.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;left: 9%;}
+.screen1 .circ {top: 74.35%;;background-image: url('../images/legiph2.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;left: 9%;}
+.screen1 .kv {top: 76%;background-image: url('../images/legiph3.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto; left: 59%;}
+.screen1 .kr {top: 74.35%;;background-image: url('../images/legiph4.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;left: 59%;}
+.screen1 .nail {height: 0.7%;width: 6%;top: 90.5%;left: 14%;}
+.screen1 .naill {height: 0.7%;width: 6%;top: 92%;left: 14%;}
+.screen1 .nailll {display: none;}
+.screen1 .rnail {height: 0.7%;width: 6%;top: 90.5%;left: 80.2%;}
+.screen1 .rnaill {height: 0.7%;width: 6%;top: 92%;left: 80.2%;}
+.screen1 .rnailll {display: none;}
+.screen1 .tip1 {display: none;}
+.screen1 .ptip1 {display: none;}
+.screen1 .tip2 {display: none;}
+.screen1 .ptip2 {display: none;}
+.screen1 .tip3 {display: none;}
+.screen1 .ptip3 {display: none;}
+.screen1 .tip4 {display: none;}
+.screen1 .ptip4 {display: none;}
+.screen1 .tip5 {display: none;}
+.screen1 .ptip5 {display: none;}
+.screen1 .tip6 {display: none;}
+.screen1 .ptip6 {display: none;}
+.screen1 .tip7 {display: none;}
+.screen1 .ptip7 {display: none;}
+.screen1 .tip8 {display: none;}
+.screen1 .ptip8 {display: none;}
+.screen1 .tip9 {display: none;}
+.screen1 .ptip9 {display: none;}
+.screen1 .tip10 {display: none;}
+.screen1 .ptip10 {display: none;}
+.screen1 .tip11 {display: block; width: 25%; height: 1.5%; top: 33.8%;left: 0%;}
+.screen1 .ptip11 {display: block; left: 9.9%; top: 15%; font-size: 9.5px;}
+.screen1 .tip12 {display: block; width: 29%; height: 2%; top: 43%;left: 0%;}
+.screen1 .ptip12 {display: block; left: 9%; top: 13.5%;font-size: 9.5px;}
+.screen1 .tip13 {display: block; width: 32%; height: 0.9%; top: 49.5%;right: 0%;}
+.screen1 .ptip13 {display: block; left: 7%; top: 20%;font-size: 9.5px;}
+.screen1 .tip14 {display: block; width: 24%; height: 0.9%; top: 53%;left: 0%;}
+.screen1 .ptip14 {display: block; left: 11%; top: 20%;font-size: 9.5px;}
+.screen1 .tip15 {display: block; width: 39%; height: 0.9%; top: 59%;right: 0%;}
+.screen1 .ptip15 {display: block; left: 7%; top: 23%;font-size: 9.5px;}
+.screen1 .tip16 {display: block; width: 29%; height: 0.9%; top: 70.5%;left: 0%;}
+.screen1 .ptip16 {display: block; left: 8%; top: 22.5%;font-size: 9.5px;}
+.screen1 .tip17 {display: block; width: 26%; height: 0.9%; top: 79%;right: 0%;}
+.screen1 .ptip17 {display: block; left: 12%; top: 20%;font-size: 9.5px;}
+.screen1 .tip18 {display: block; width: 29%; height: 0.9%; top: 88.5%;left: 0%;}
+.screen1 .ptip18 {display: block; left: 8%; top: 20%;font-size: 9.5px;}
+.screen1 .fin {top: 96%;width: 24%; border: solid black 2.8px; height: 01.4%;left:38%;}
+.screen1 .pfin {left: 23%;top: 23.5%; font-size: 13px;}
+}
+@media all and (min-width: 339px) and (max-width: 359px){
+div .ratio {padding-bottom: 575.106383%;}
+.screen1 .green1 {width: 40%; height: 9.6559378%;}
+.screen1 .purple {width: 60%; height: 9.6559378%;}
+.screen1 .green2 {width: 44.0425532%; height: 9.9149094%; background: #FF57B3}
+
+.screen1 .orange {width:55.9574468%; height: 9.9149094%;margin-top: 0%;}
+.screen1 .white {width: 55.9574468%; height: 9.3599704%;margin-top: 0%;}
+.screen1 .pink {width: 44.0425532%; height: 9.3599704%;margin-top: 0%;}
+.screen1 .panel {height:1.96078431% }
+.screen1 .eye1 {display: none;}
+.screen1 .eye2 {width: 60%; left: 19%;}
+.screen1 .zrachok1 {top: 21.5%; width: 8%; left: 40%; animation: zr1 3s linear infinite}
+@keyframes zr1 {
+  0% {left:40%;}
+  50% {left: 50%;}
+  100% {left:40%;}
+}
+.screen1 .nose1 {top: 46%;left: 40%;width: 20%;}
+.screen1 .mouth1 {top: 70%;left: 17%;width: 64%;}
+.screen1 .hands1 {top: -25%;left: 8.2%;width: 24.4167963%; animation: hh1 3s linear infinite}
+@keyframes hh1 {
+  0% {top: -25%;}
+  50% {top: -10%;}
+  100% {top: -25%;}
+}
+.screen1 .hands2 {top: 66%; animation: hh2 3s linear infinite}
+@keyframes hh2 {
+  0% {top: 66%;}
+  50% {top: 50%;}
+  100% {top: 66%;}
+}
+.screen1 .hands3 {top: -30%;left: 67.8%;width: 24.4167963%; animation: hh3 3s linear infinite}
+@keyframes hh3 {
+  0% {top: -30%;}
+  50% {top: -10%;}
+  100% {top: -30%;}
+}
+.screen1 .arrow {top: -2%;width: 13%;}
+.screen1 .zrachok2 {top: 19.3%;}
+.screen1 .mouth2 {width: 60%;left: 20%; top: 60%;}
+.screen1 .tooth1 {margin-top: 78.5%;width: 7%;}
+.screen1 .tooth2 {margin-top: 9%;width: 7%;}
+.screen1 .nosik {opacity: 100;width: 14%;height: 16.5%; top: 32%}
+.screen1 .eye5{top: 32%;width: 33%;left: 1.5%;}
+.screen1 .eye6{left: 62%;top: 14%;width: 35%;}
+.screen1 .nose3{left: 36%;}
+.screen1 .mouth3{width: 43%;top: 61%;}
+.screen1 .p1 {font-size: 18px;top: 68%;}
+.screen1 .wcircle1 {top: 7%;}
+.screen1 .gcircle1 {top: 7%;}
+.screen1 .wcircle2 {top: 7%;}
+.screen1 .gcircle2 {top: 7%;}
+.screen1 .wcircle3 {top: 7%;}
+.screen1 .gcircle3 {top: 35%;}
+.screen1 .wcircle4 {top: 35%;}
+.screen1 .gcircle4 {top: 35%;}
+.screen1 .wcircle5 {top: 35%;}
+.screen1 .gcircle5 {top: 35%;}
+.screen1 .hair {top: 33%; width: 84.0425532%; height: 12.615612%; left: 8%;}
+.screen1 .odin {top: 36%;width: 66.3829787%; height: 10.9877913%;left: 16.7%;}
+.screen1 .dva {top: 34.5%; width: 74%;height: 13%;left: 13%;}
+.screen1 .tri {top: 35.1%; width: 70%;height: 12%;left: 15%;}
+.screen1 .bubble1 {display: none;}
+.screen1 .cross {display:none;}
+.screen1 .brow {top: 37.2%;left: 13%;height: 0.8%; width: 18%;}
+.screen1 .uno {top: 38.5%; width: 27%; left: 12.5%;}
+.screen1 .dos {top: 37.6%;width: 23%; left: 13%;}
+.screen1 .tres {top: 38%;width: 27%;left: 11%;}
+.screen1 .a {top: 39.4%;}
+.screen1 .b {top: 39.4%;}
+.screen1 .c {top: 39.4%;}
+.screen1 .aa {top: 36.1%; width: 28%; left: 60%;}
+.screen1 .bb {top: 37%; width: 25%;}
+.screen1 .cc {top: 36.1%; width: 24%;left: 62%;}
+.screen1 .mouth4 {top: 43.5%; left: 48.5%;}
+.screen1 .neck {top: 46.9%;}
+.screen1 .body {top: 45.2%; width: 100%;height: 17.3880873%;left: 0%;top: 48.76%;}
+.screen1 .d {background-image: url('../images/bodyiph.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;}
+.screen1 .e {background-image: url('../images/bodyiph2.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;}
+.screen1 .f {background-image: url('../images/bodyiph3.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;}
+.screen1 .g {top: 54.9%;}
+.screen1 .h {top: 54.57%;}
+.screen1 .i {top: 55.1%;}
+.screen1 .j {top:54.9%;}
+.screen1 .k {top:54.57%;}
+.screen1 .l {top: 55.1%;}
+.screen1 .z {background-image: url('../images/pantsiph1.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto; width: 74.0425532%;height: 12.0606733%;top: 66.09%;left: 13.25937%;}
+.screen1 .r {background-image: url('../images/pantsiph2.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto; width: 74.0425532%;height: 12.0606733%;top: 66.09%;left: 13.25937%;}
+.screen1 .v {background-image: url('../images/pantsiph3.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto; width: 74.0425532%;height: 12.0606733%;top: 66.09%;left: 13.25937%;}
+.screen1 .button1 {top: 37%; width: 15%;margin-left: 20%;margin-right: -12.8%; top: 36.5%;}
+.screen1 .button2 {top: 40%;width: 15%;margin-left: 29%;margin-right: -18%;}
+.screen1 .sq {top: 76%;background-image: url('../images/legiph1.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;left: 9%;}
+.screen1 .circ {top: 74.35%;;background-image: url('../images/legiph2.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;left: 9%;}
+.screen1 .kv {top: 76%;background-image: url('../images/legiph3.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto; left: 59%;}
+.screen1 .kr {top: 74.35%;;background-image: url('../images/legiph4.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;left: 59%;}
+.screen1 .nail {height: 0.7%;width: 6%;top: 90.5%;left: 14%;}
+.screen1 .naill {height: 0.7%;width: 6%;top: 92%;left: 14%;}
+.screen1 .nailll {display: none;}
+.screen1 .rnail {height: 0.7%;width: 6%;top: 90.5%;left: 80.2%;}
+.screen1 .rnaill {height: 0.7%;width: 6%;top: 92%;left: 80.2%;}
+.screen1 .rnailll {display: none;}
+.screen1 .tip1 {display: none;}
+.screen1 .ptip1 {display: none;}
+.screen1 .tip2 {display: none;}
+.screen1 .ptip2 {display: none;}
+.screen1 .tip3 {display: none;}
+.screen1 .ptip3 {display: none;}
+.screen1 .tip4 {display: none;}
+.screen1 .ptip4 {display: none;}
+.screen1 .tip5 {display: none;}
+.screen1 .ptip5 {display: none;}
+.screen1 .tip6 {display: none;}
+.screen1 .ptip6 {display: none;}
+.screen1 .tip7 {display: none;}
+.screen1 .ptip7 {display: none;}
+.screen1 .tip8 {display: none;}
+.screen1 .ptip8 {display: none;}
+.screen1 .tip9 {display: none;}
+.screen1 .ptip9 {display: none;}
+.screen1 .tip10 {display: none;}
+.screen1 .ptip10 {display: none;}
+.screen1 .tip11 {display: block; width: 26%; height: 1.6%; top: 33.8%;left: 0%;}
+.screen1 .ptip11 {display: block; left: 9.9%; top: 15%; font-size: 9.5px;}
+.screen1 .tip12 {display: block; width: 30%; height: 2.2%; top: 43%;left: 0%;}
+.screen1 .ptip12 {display: block; left: 9%; top: 13.5%;font-size: 9.5px;}
+.screen1 .tip13 {display: block; width: 33%; height: 0.9%; top: 49.5%;right: 0%;}
+.screen1 .ptip13 {display: block; left: 7%; top: 20%;font-size: 9.5px;}
+.screen1 .tip14 {display: block; width: 25%; height: 1%; top: 53%;left: 0%;}
+.screen1 .ptip14 {display: block; left: 11%; top: 20%;font-size: 9.5px;}
+.screen1 .tip15 {display: block; width: 28%; height: 1.7%; top: 59%;right: 0%;}
+.screen1 .ptip15 {display: block; left: 7%; top: 19%;font-size: 9.5px;}
+.screen1 .tip16 {display: block; width: 30%; height: 0.9%; top: 70.5%;left: 0%;}
+.screen1 .ptip16 {display: block; left: 8%; top: 22.5%;font-size: 9.5px;}
+.screen1 .tip17 {display: block; width: 26%; height: 0.9%; top: 79%;right: 0%;}
+.screen1 .ptip17 {display: block; left: 12%; top: 20%;font-size: 9.5px;}
+.screen1 .tip18 {display: block; width: 31%; height: 0.9%; top: 88.5%;left: 0%;}
+.screen1 .ptip18 {display: block; left: 8%; top: 20%;font-size: 9.5px;}
+.screen1 .fin {top: 96%;width: 24%; border: solid black 2.8px; height: 01.4%;left:38%;}
+.screen1 .pfin {left: 23%;top: 23.5%; font-size: 12px;}
+}
+@media all and (min-width: 324px) and (max-width: 338px){
+div .ratio {padding-bottom: 575.106383%;}
+.screen1 .green1 {width: 40%; height: 9.6559378%;}
+.screen1 .purple {width: 60%; height: 9.6559378%;}
+.screen1 .green2 {width: 44.0425532%; height: 9.9149094%; background: #FF57B3}
+
+.screen1 .orange {width:55.9574468%; height: 9.9149094%;margin-top: 0%;}
+.screen1 .white {width: 55.9574468%; height: 9.3599704%;margin-top: 0%;}
+.screen1 .pink {width: 44.0425532%; height: 9.3599704%;margin-top: 0%;}
+.screen1 .panel {height:1.96078431% }
+.screen1 .eye1 {display: none;}
+.screen1 .eye2 {width: 60%; left: 19%;}
+.screen1 .zrachok1 {top: 21.5%; width: 8%; left: 40%; animation: zr1 3s linear infinite}
+@keyframes zr1 {
+  0% {left:40%;}
+  50% {left: 50%;}
+  100% {left:40%;}
+}
+.screen1 .nose1 {top: 46%;left: 40%;width: 20%;}
+.screen1 .mouth1 {top: 70%;left: 17%;width: 64%;}
+.screen1 .hands1 {top: -25%;left: 8.2%;width: 24.4167963%; animation: hh1 3s linear infinite}
+@keyframes hh1 {
+  0% {top: -25%;}
+  50% {top: -10%;}
+  100% {top: -25%;}
+}
+.screen1 .hands2 {top: 66%; animation: hh2 3s linear infinite}
+@keyframes hh2 {
+  0% {top: 66%;}
+  50% {top: 50%;}
+  100% {top: 66%;}
+}
+.screen1 .hands3 {top: -30%;left: 67.8%;width: 24.4167963%; animation: hh3 3s linear infinite}
+@keyframes hh3 {
+  0% {top: -30%;}
+  50% {top: -10%;}
+  100% {top: -30%;}
+}
+.screen1 .arrow {top: -2%;width: 13%;}
+.screen1 .zrachok2 {top: 19.3%;}
+.screen1 .mouth2 {width: 60%;left: 20%; top: 60%;}
+.screen1 .tooth1 {margin-top: 78.5%;width: 7%;}
+.screen1 .tooth2 {margin-top: 9%;width: 7%;}
+.screen1 .nosik {opacity: 100;width: 14%;height: 16.5%; top: 32%}
+.screen1 .eye5{top: 32%;width: 33%;left: 1.5%;}
+.screen1 .eye6{left: 62%;top: 14%;width: 35%;}
+.screen1 .nose3{left: 36%;}
+.screen1 .mouth3{width: 43%;top: 61%;}
+.screen1 .p1 {font-size: 16px;top: 68%;}
+.screen1 .wcircle1 {top: 7%;}
+.screen1 .gcircle1 {top: 7%;}
+.screen1 .wcircle2 {top: 7%;}
+.screen1 .gcircle2 {top: 7%;}
+.screen1 .wcircle3 {top: 7%;}
+.screen1 .gcircle3 {top: 35%;}
+.screen1 .wcircle4 {top: 35%;}
+.screen1 .gcircle4 {top: 35%;}
+.screen1 .wcircle5 {top: 35%;}
+.screen1 .gcircle5 {top: 35%;}
+.screen1 .hair {top: 33%; width: 84.0425532%; height: 12.615612%; left: 8%;}
+.screen1 .odin {top: 36%;width: 66.3829787%; height: 10.9877913%;left: 16.7%;}
+.screen1 .dva {top: 34.5%; width: 74%;height: 13%;left: 13%;}
+.screen1 .tri {top: 35.1%; width: 70%;height: 12%;left: 15%;}
+.screen1 .bubble1 {display: none;}
+.screen1 .cross {display:none;}
+.screen1 .brow {top: 37.2%;left: 13%;height: 0.8%; width: 18%;}
+.screen1 .uno {top: 38.5%; width: 27%; left: 12.5%;}
+.screen1 .dos {top: 37.6%;width: 23%; left: 13%;}
+.screen1 .tres {top: 38%;width: 27%;left: 11%;}
+.screen1 .a {top: 39.4%;}
+.screen1 .b {top: 39.4%;}
+.screen1 .c {top: 39.4%;}
+.screen1 .aa {top: 36.1%; width: 28%; left: 60%;}
+.screen1 .bb {top: 37%; width: 25%;}
+.screen1 .cc {top: 36.1%; width: 24%;left: 62%;}
+.screen1 .mouth4 {top: 43.5%; left: 48.5%;}
+.screen1 .neck {top: 46.9%;}
+.screen1 .body {top: 45.2%; width: 100%;height: 17.3880873%;left: 0%;top: 48.76%;}
+.screen1 .d {background-image: url('../images/bodyiph.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;}
+.screen1 .e {background-image: url('../images/bodyiph2.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;}
+.screen1 .f {background-image: url('../images/bodyiph3.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;}
+.screen1 .g {top: 54.9%;}
+.screen1 .h {top: 54.57%;}
+.screen1 .i {top: 55.1%;}
+.screen1 .j {top:54.9%;}
+.screen1 .k {top:54.57%;}
+.screen1 .l {top: 55.1%;}
+.screen1 .z {background-image: url('../images/pantsiph1.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto; width: 74.0425532%;height: 12.0606733%;top: 66.09%;left: 13.25937%;}
+.screen1 .r {background-image: url('../images/pantsiph2.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto; width: 74.0425532%;height: 12.0606733%;top: 66.09%;left: 13.25937%;}
+.screen1 .v {background-image: url('../images/pantsiph3.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto; width: 74.0425532%;height: 12.0606733%;top: 66.09%;left: 13.25937%;}
+.screen1 .button1 {top: 37%; width: 15%;margin-left: 20%;margin-right: -12.8%; top: 36.5%;}
+.screen1 .button2 {top: 40%;width: 15%;margin-left: 29%;margin-right: -18%;}
+.screen1 .sq {top: 76%;background-image: url('../images/legiph1.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;left: 9%;}
+.screen1 .circ {top: 74.35%;;background-image: url('../images/legiph2.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;left: 9%;}
+.screen1 .kv {top: 76%;background-image: url('../images/legiph3.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto; left: 59%;}
+.screen1 .kr {top: 74.35%;;background-image: url('../images/legiph4.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;left: 59%;}
+.screen1 .nail {height: 0.7%;width: 6%;top: 90.5%;left: 14%;}
+.screen1 .naill {height: 0.7%;width: 6%;top: 92%;left: 14%;}
+.screen1 .nailll {display: none;}
+.screen1 .rnail {height: 0.7%;width: 6%;top: 90.5%;left: 80.2%;}
+.screen1 .rnaill {height: 0.7%;width: 6%;top: 92%;left: 80.2%;}
+.screen1 .rnailll {display: none;}
+.screen1 .tip1 {display: none;}
+.screen1 .ptip1 {display: none;}
+.screen1 .tip2 {display: none;}
+.screen1 .ptip2 {display: none;}
+.screen1 .tip3 {display: none;}
+.screen1 .ptip3 {display: none;}
+.screen1 .tip4 {display: none;}
+.screen1 .ptip4 {display: none;}
+.screen1 .tip5 {display: none;}
+.screen1 .ptip5 {display: none;}
+.screen1 .tip6 {display: none;}
+.screen1 .ptip6 {display: none;}
+.screen1 .tip7 {display: none;}
+.screen1 .ptip7 {display: none;}
+.screen1 .tip8 {display: none;}
+.screen1 .ptip8 {display: none;}
+.screen1 .tip9 {display: none;}
+.screen1 .ptip9 {display: none;}
+.screen1 .tip10 {display: none;}
+.screen1 .ptip10 {display: none;}
+.screen1 .tip11 {display: block; width: 26%; height: 1.6%; top: 33.8%;left: 0%;}
+.screen1 .ptip11 {display: block; left: 9.9%; top: 15%; font-size: 9px;}
+.screen1 .tip12 {display: block; width: 30%; height: 2.2%; top: 43%;left: 0%;}
+.screen1 .ptip12 {display: block; left: 9%; top: 13.5%;font-size: 9px;}
+.screen1 .tip13 {display: block; width: 33%; height: 0.9%; top: 49.5%;right: 0%;}
+.screen1 .ptip13 {display: block; left: 7%; top: 20%;font-size: 9px;}
+.screen1 .tip14 {display: block; width: 25%; height: 1%; top: 53%;left: 0%;}
+.screen1 .ptip14 {display: block; left: 11%; top: 20%;font-size: 9px;}
+.screen1 .tip15 {display: block; width: 28%; height: 1.7%; top: 59%;right: 0%;}
+.screen1 .ptip15 {display: block; left: 7%; top: 19%;font-size: 9px;}
+.screen1 .tip16 {display: block; width: 30%; height: 0.9%; top: 70.5%;left: 0%;}
+.screen1 .ptip16 {display: block; left: 8%; top: 22.5%;font-size: 9px;}
+.screen1 .tip17 {display: block; width: 26%; height: 0.9%; top: 79%;right: 0%;}
+.screen1 .ptip17 {display: block; left: 12%; top: 20%;font-size: 9px;}
+.screen1 .tip18 {display: block; width: 31%; height: 0.9%; top: 88.5%;left: 0%;}
+.screen1 .ptip18 {display: block; left: 8%; top: 20%;font-size: 9px;}
+.screen1 .fin {top: 96%;width: 24%; border: solid black 2.8px; height: 01.4%;left:38%;}
+.screen1 .pfin {left: 23%;top: 23.5%; font-size: 12px;}
+}
+@media all and (min-width: 320px) and (max-width: 323px){
+div .ratio {padding-bottom: 575.106383%;}
+.screen1 .green1 {width: 40%; height: 9.6559378%;}
+.screen1 .purple {width: 60%; height: 9.6559378%;}
+.screen1 .green2 {width: 44.0425532%; height: 9.9149094%; background: #FF57B3}
+
+.screen1 .orange {width:55.9574468%; height: 9.9149094%;margin-top: 0%;}
+.screen1 .white {width: 55.9574468%; height: 9.3599704%;margin-top: 0%;}
+.screen1 .pink {width: 44.0425532%; height: 9.3599704%;margin-top: 0%;}
+.screen1 .panel {height:1.96078431% }
+.screen1 .eye1 {display: none;}
+.screen1 .eye2 {width: 60%; left: 19%;}
+.screen1 .zrachok1 {top: 21.5%; width: 8%; left: 40%; animation: zr1 3s linear infinite}
+@keyframes zr1 {
+  0% {left:40%;}
+  50% {left: 50%;}
+  100% {left:40%;}
+}
+.screen1 .nose1 {top: 46%;left: 40%;width: 20%;}
+.screen1 .mouth1 {top: 70%;left: 17%;width: 64%;}
+.screen1 .hands1 {top: -25%;left: 8.2%;width: 24.4167963%; animation: hh1 3s linear infinite}
+@keyframes hh1 {
+  0% {top: -25%;}
+  50% {top: -10%;}
+  100% {top: -25%;}
+}
+.screen1 .hands2 {top: 66%; animation: hh2 3s linear infinite}
+@keyframes hh2 {
+  0% {top: 66%;}
+  50% {top: 50%;}
+  100% {top: 66%;}
+}
+.screen1 .hands3 {top: -30%;left: 67.8%;width: 24.4167963%; animation: hh3 3s linear infinite}
+@keyframes hh3 {
+  0% {top: -30%;}
+  50% {top: -10%;}
+  100% {top: -30%;}
+}
+.screen1 .arrow {top: -2%;width: 13%;}
+.screen1 .zrachok2 {top: 19.3%;}
+.screen1 .mouth2 {width: 60%;left: 20%; top: 60%;}
+.screen1 .tooth1 {margin-top: 78.5%;width: 7%;}
+.screen1 .tooth2 {margin-top: 9%;width: 7%;}
+.screen1 .nosik {opacity: 100;width: 14%;height: 16.5%; top: 32%}
+.screen1 .eye5{top: 32%;width: 33%;left: 1.5%;}
+.screen1 .eye6{left: 62%;top: 14%;width: 35%;}
+.screen1 .nose3{left: 36%;}
+.screen1 .mouth3{width: 43%;top: 61%;}
+.screen1 .p1 {font-size: 16px;top: 68%;}
+.screen1 .wcircle1 {top: 7%;}
+.screen1 .gcircle1 {top: 7%;}
+.screen1 .wcircle2 {top: 7%;}
+.screen1 .gcircle2 {top: 7%;}
+.screen1 .wcircle3 {top: 7%;}
+.screen1 .gcircle3 {top: 35%;}
+.screen1 .wcircle4 {top: 35%;}
+.screen1 .gcircle4 {top: 35%;}
+.screen1 .wcircle5 {top: 35%;}
+.screen1 .gcircle5 {top: 35%;}
+.screen1 .hair {top: 33%; width: 84.0425532%; height: 12.615612%; left: 8%;}
+.screen1 .odin {top: 36%;width: 66.3829787%; height: 10.9877913%;left: 16.7%;}
+.screen1 .dva {top: 34.5%; width: 74%;height: 13%;left: 13%;}
+.screen1 .tri {top: 35.1%; width: 70%;height: 12%;left: 15%;}
+.screen1 .bubble1 {display: none;}
+.screen1 .cross {display:none;}
+.screen1 .brow {top: 37.2%;left: 13%;height: 0.8%; width: 18%;}
+.screen1 .uno {top: 38.5%; width: 27%; left: 12.5%;}
+.screen1 .dos {top: 37.6%;width: 23%; left: 13%;}
+.screen1 .tres {top: 38%;width: 27%;left: 11%;}
+.screen1 .a {top: 39.4%;}
+.screen1 .b {top: 39.4%;}
+.screen1 .c {top: 39.4%;}
+.screen1 .aa {top: 36.1%; width: 28%; left: 60%;}
+.screen1 .bb {top: 37%; width: 25%;}
+.screen1 .cc {top: 36.1%; width: 24%;left: 62%;}
+.screen1 .mouth4 {top: 43.5%; left: 48.5%;}
+.screen1 .neck {top: 46.9%;}
+.screen1 .body {top: 45.2%; width: 100%;height: 17.3880873%;left: 0%;top: 48.76%;}
+.screen1 .d {background-image: url('../images/bodyiph.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;}
+.screen1 .e {background-image: url('../images/bodyiph2.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;}
+.screen1 .f {background-image: url('../images/bodyiph3.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;}
+.screen1 .g {top: 54.9%;}
+.screen1 .h {top: 54.57%;}
+.screen1 .i {top: 55.1%;}
+.screen1 .j {top:54.9%;}
+.screen1 .k {top:54.57%;}
+.screen1 .l {top: 55.1%;}
+.screen1 .z {background-image: url('../images/pantsiph1.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto; width: 74.0425532%;height: 12.0606733%;top: 66.09%;left: 13.25937%;}
+.screen1 .r {background-image: url('../images/pantsiph2.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto; width: 74.0425532%;height: 12.0606733%;top: 66.09%;left: 13.25937%;}
+.screen1 .v {background-image: url('../images/pantsiph3.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto; width: 74.0425532%;height: 12.0606733%;top: 66.09%;left: 13.25937%;}
+.screen1 .button1 {top: 37%; width: 15%;margin-left: 20%;margin-right: -12.8%; top: 36.5%;}
+.screen1 .button2 {top: 40%;width: 15%;margin-left: 29%;margin-right: -18%;}
+.screen1 .sq {top: 76%;background-image: url('../images/legiph1.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;left: 9%;}
+.screen1 .circ {top: 74.35%;;background-image: url('../images/legiph2.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;left: 9%;}
+.screen1 .kv {top: 76%;background-image: url('../images/legiph3.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto; left: 59%;}
+.screen1 .kr {top: 74.35%;;background-image: url('../images/legiph4.svg');background-size: cover;background-position: center;background-repeat: no-repeat;background-size: 100% auto;left: 59%;}
+.screen1 .nail {height: 0.7%;width: 6%;top: 90.5%;left: 14%;}
+.screen1 .naill {height: 0.7%;width: 6%;top: 92%;left: 14%;}
+.screen1 .nailll {display: none;}
+.screen1 .rnail {height: 0.7%;width: 6%;top: 90.5%;left: 80.2%;}
+.screen1 .rnaill {height: 0.7%;width: 6%;top: 92%;left: 80.2%;}
+.screen1 .rnailll {display: none;}
+.screen1 .tip1 {display: none;}
+.screen1 .ptip1 {display: none;}
+.screen1 .tip2 {display: none;}
+.screen1 .ptip2 {display: none;}
+.screen1 .tip3 {display: none;}
+.screen1 .ptip3 {display: none;}
+.screen1 .tip4 {display: none;}
+.screen1 .ptip4 {display: none;}
+.screen1 .tip5 {display: none;}
+.screen1 .ptip5 {display: none;}
+.screen1 .tip6 {display: none;}
+.screen1 .ptip6 {display: none;}
+.screen1 .tip7 {display: none;}
+.screen1 .ptip7 {display: none;}
+.screen1 .tip8 {display: none;}
+.screen1 .ptip8 {display: none;}
+.screen1 .tip9 {display: none;}
+.screen1 .ptip9 {display: none;}
+.screen1 .tip10 {display: none;}
+.screen1 .ptip10 {display: none;}
+.screen1 .tip11 {display: block; width: 27%; height: 1.6%; top: 33.8%;left: 0%;}
+.screen1 .ptip11 {display: block; left: 9%; top: 15%; font-size: 9px;}
+.screen1 .tip12 {display: block; width: 31%; height: 2.2%; top: 43%;left: 0%;}
+.screen1 .ptip12 {display: block; left: 9%; top: 13.5%;font-size: 9px;}
+.screen1 .tip13 {display: block; width: 34%; height: 0.9%; top: 49.5%;right: 0%;}
+.screen1 .ptip13 {display: block; left: 7%; top: 20%;font-size: 9px;}
+.screen1 .tip14 {display: block; width: 25%; height: 1%; top: 53%;left: 0%;}
+.screen1 .ptip14 {display: block; left: 11%; top: 20%;font-size: 9px;}
+.screen1 .tip15 {display: block; width: 29%; height: 1.7%; top: 59%;right: 0%;}
+.screen1 .ptip15 {display: block; left: 7%; top: 19%;font-size: 9px;}
+.screen1 .tip16 {display: block; width: 30%; height: 0.9%; top: 70.5%;left: 0%;}
+.screen1 .ptip16 {display: block; left: 8%; top: 22.5%;font-size: 9px;}
+.screen1 .tip17 {display: block; width: 27%; height: 0.9%; top: 79%;right: 0%;}
+.screen1 .ptip17 {display: block; left: 12%; top: 20%;font-size: 9px;}
+.screen1 .tip18 {display: block; width: 32%; height: 0.9%; top: 88.5%;left: 0%;}
+.screen1 .ptip18 {display: block; left: 8%; top: 20%;font-size: 9px;}
+.screen1 .fin {top: 96%;width: 24%; border: solid black 2.8px; height: 01.4%;left:38%;}
+.screen1 .pfin {left: 23%;top: 23.5%; font-size: 12px;}
 }
