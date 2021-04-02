@@ -31,7 +31,7 @@ div .pfin {font-size: 38px; left: 28%;top: 27%;}
 div.orange {height:9.02%;}
 div.body {top:41.17%;}
 div.pink {height:5.73%;}
-.screen2 .chelovek{top: 17%;}
+.screen2 .chelovek{top: 15%;}
 }
 @media all and (min-width: 1441px) and (max-width: 1499px){
 div .p1 {font-size: 46px;}
@@ -49,7 +49,7 @@ div .pfin {left: 28%;top: 27%;}
 div.orange {height:9.03%;}
 div.body {top:41.17%;}
 div.pink {height:5.74%;}
-.screen2 .chelovek{top: 17%; padding-bottom: 33%;width: 81.4%; left: 9.7%;}
+.screen2 .chelovek{top: 15%; padding-bottom: 33%;width: 81.4%; left: 9.7%;}
 }
 @media all and (min-width: 1434px) and (max-width: 1439px){
 div.orange {height:9.03%;}
@@ -599,7 +599,7 @@ div .pfin {left: 25%;top: 23%; font-size: 30px;}
 .screen1 .ptip10 {font-size: 12px;top: 84.9%;right: 3.4%;}
 .screen1 .fin {top: 95.5%;width: 20.7%;}
 .screen1 .pfin {left: 25%;top: 23%; font-size: 28px;}
-.screen2 .chelovek{top: 14%; padding-bottom: 35%;width: 86%; left: 7.3%;}
+.screen2 .chelovek{top: 12%; padding-bottom: 35%;width: 86%; left: 7.3%;}
 .screen2  .avtor {font-size: 12px;}
 .screen2  .proekt {font-size: 12px;left: 47%;}
 .screen2  .hse {font-size: 12px; left: 91%;}

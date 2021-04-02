@@ -1688,6 +1688,89 @@ src: url('../fonts/Century GothicB.ttf') format('truetype');
   background-repeat: no-repeat;
   background-size: 100% auto;
 }
+.goroh1{
+  position: absolute;
+  padding-bottom: 11.5%;
+  width: 11%;
+  top: 46%;
+  left: 34%;
+  border-radius: 100%;
+  background: white;
+  animation: goroh1 4s linear infinite;
+  cursor: url("../images/cursor4.svg"), auto;
+
+}
+ @keyframes goroh1 {
+  0%{top: 46%;left: 34%;}
+  25%{top: 48%; left: 33%;}
+  50%{top: 45%; left: 30%;}
+  100%{top: 46%; left: 34%;}
+}
+.goroh1:hover{
+  animation-play-state: paused;
+}
+.goroh2{
+  position: absolute;
+  padding-bottom: 7%;
+  width: 7%;
+  top: 48%;
+  left: 49%;
+  border-radius: 100%;
+  background: white;
+  animation: goroh2 6s linear infinite;
+  cursor: url("../images/cursor4.svg"), auto;
+}
+@keyframes goroh2 {
+ 0%{top: 48%;left: 49%;}
+ 25%{top: 50%; left: 47%;}
+ 50%{top: 46%; left: 44%;}
+ 100%{top: 48%; left: 49%;}
+}
+.goroh2:hover{
+  animation-play-state: paused;
+}
+.goroh3{
+  position: absolute;
+  padding-bottom: 9%;
+  width: 9%;
+  top: 73%;
+  left: 46%;
+  border-radius: 100%;
+  background: white;
+  cursor: url("../images/cursor4.svg"), auto;
+  animation: goroh3 4s linear infinite;
+  animation-delay: 1s;
+}
+@keyframes goroh3 {
+ 0%{top: 73%;left: 46%;}
+ 25%{top: 75%; left: 48%;}
+ 50%{top: 65%; left: 47%;}
+ 100%{top: 73%; left: 46%;}
+}
+.goroh3:hover{
+  animation-play-state: paused;
+}
+.goroh4{
+  position: absolute;
+  padding-bottom: 7%;
+  width: 7%;
+  top: 73%;
+  left: 25%;
+  border-radius: 100%;
+  background: white;
+  cursor: url("../images/cursor4.svg"), auto;
+  animation: goroh4 6s linear infinite;
+
+}
+.goroh4:hover{
+  animation-play-state: paused;
+}
+@keyframes goroh4 {
+ 0%{top: 73%;left: 25%;}
+ 25%{top: 75%; left: 30%;}
+ 50%{top: 77%; left: 28%;}
+ 100%{top: 73%; left: 25%;}
+}
 
 .valruka{
   position: absolute;
@@ -1732,7 +1815,7 @@ src: url('../fonts/Century GothicB.ttf') format('truetype');
   top: 44%;
   left: 58%;
   padding-bottom: 22.14%;
-  width: 20%;
+  width: 15%;
   background-image: url('../images/valpants1.svg');
   background-size: cover;
   background-position: center;
@@ -1761,6 +1844,92 @@ src: url('../fonts/Century GothicB.ttf') format('truetype');
   background-repeat: no-repeat;
   background-size: 100% auto;
 }
+.valbutton1{
+  position: absolute;
+  top: 49%;
+  left: 60%;
+  padding-bottom: 4.5%;
+  width: 4%;
+  background-image: url('../images/valbutton.svg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  animation: valbutton1 6s linear infinite;
+}
+@keyframes valbutton1 {
+  0%{transform: rotate(0deg);}
+  100%{transform: rotate(360deg);}
+}
+.valbutton2{
+  position: absolute;
+  top: 66%;
+  left: 60%;
+  padding-bottom: 4.5%;
+  width: 4%;
+  background-image: url('../images/valbutton.svg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  animation: valbutton2 6s linear infinite;
+  }
+  @keyframes valbutton2 {
+  0%{transform: rotate(0deg);}
+  100%{transform: rotate(360deg);}
+  }
+.valbutton3{
+  position: absolute;
+  top: 83%;
+  left: 60%;
+  padding-bottom: 4.5%;
+  width: 4%;
+  background-image: url('../images/valbutton.svg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  animation: valbutton3 6s linear infinite;
+  }
+  @keyframes valbutton3 {
+  0%{transform: rotate(0deg);}
+  100%{transform: rotate(360deg);}
+  }
+  .valbutton4{
+    position: absolute;
+    top: 56%;
+    left: 66%;
+    padding-bottom: 4.5%;
+    width: 4%;
+    background-image: url('../images/valbutton.svg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    animation: valbutton4 6s linear infinite;
+  }
+  @keyframes valbutton4 {
+    0%{transform: rotate(0deg);}
+    100%{transform: rotate(-360deg);}
+  }
+
+  .valbutton6{
+    position: absolute;
+    top: 77%;
+    left: 66%;
+    padding-bottom: 4.5%;
+    width: 4%;
+    background-image: url('../images/valbutton.svg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    animation: valbutton6 6s linear infinite;
+    }
+    @keyframes valbutton6 {
+    0%{transform: rotate(0deg);}
+    100%{transform: rotate(-360deg);}
+    }
 .valleg{
   position: absolute;
 }
@@ -1916,7 +2085,7 @@ src: url('../fonts/Century GothicB.ttf') format('truetype');
   font-weight: bold;
   line-height: 120%;
   top: 68%;
-  left: 19%;
+  left: 18%;
   padding-bottom: 9.5323741%;
   width: 68%;
 }
@@ -1958,23 +2127,4 @@ src: url('../fonts/Century GothicB.ttf') format('truetype');
   width: 100%;
   height: 5.7106599%;
   background: #8000D4;
-}
-
-.okoshko{
-  position: fixed;
-  width: 80%;
-  padding-bottom: 60%;
-  left: 8%;
-  top:16%;
-  background: red;
-  border:5px;
-  border-width: black;
-}
-.golova{
-  position: absolute;
-  width: 10%;
-  height: 13%;
-  left: 5%;
-  top: 5%;
-  background: white;
 }
