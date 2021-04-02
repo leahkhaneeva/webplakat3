@@ -112,11 +112,11 @@
           $(".hairv").addClass("green");
           setTimeout(function(){
             $(".hair").removeClass("two");
-            $(".hairv").removeClass("pink");
+            $(".hairv").removeClass("pinkk");
         }, 100);
         } else if ( $(".hair").hasClass("one")){
           $(".hair").addClass("two");
-          $(".hairv").addClass("pink");
+          $(".hairv").addClass("pinkk");
           setTimeout(function(){
             $(".hair").removeClass("one");
           $(".hairv").removeClass("pur");
@@ -129,43 +129,99 @@
 
 
 
+    // $(document).ready(function(){
+    //   $(".face").click(function(){
+    //     if ($(this).hasClass("tri")){
+    //       $(this).addClass("odin");
+    //       setTimeout(function(){
+    //         $(".face").removeClass("tri");
+    //       }, 100);
+    //     } else if ( $(this).hasClass("dva")){
+    //       $(this).addClass("tri");
+    //       setTimeout(function(){
+    //         $(".face").removeClass("dva");
+    //       }, 100);
+    //     } else if ( $(this).hasClass("odin")){
+    //       $(this).addClass("dva");
+    //       setTimeout(function(){
+    //         $(".face").removeClass("odin");
+    //       }, 100);
+    //     };
+    //   });
+    // });
+
     $(document).ready(function(){
       $(".face").click(function(){
-        if ($(this).hasClass("tri")){
-          $(this).addClass("odin");
+        if ($(".face").hasClass("tri")){
+          $(".face").addClass("odin");
+          $(".faceval").addClass("kvadrat");
           setTimeout(function(){
             $(".face").removeClass("tri");
+            $(".faceval").removeClass("krkvadrat");
           }, 100);
-        } else if ( $(this).hasClass("dva")){
-          $(this).addClass("tri");
+        } else if ( $(".face").hasClass("dva")){
+          $(".face").addClass("tri");
+          $(".faceval").addClass("krkvadrat");
           setTimeout(function(){
             $(".face").removeClass("dva");
+            $(".faceval").removeClass("kruzhok");
           }, 100);
-        } else if ( $(this).hasClass("odin")){
-          $(this).addClass("dva");
+        } else if ( $(".face").hasClass("odin")){
+          $(".face").addClass("dva");
+          $(".faceval").addClass("kruzhok");
           setTimeout(function(){
             $(".face").removeClass("odin");
+            $(".face").removeClass("kvadrat");
           }, 100);
         };
       });
     });
 
+    // $(document).ready(function(){
+    //   $(".leye").click(function(){
+    //     if ($(this).hasClass("tres")){
+    //       $(this).addClass("uno");
+    //       setTimeout(function(){
+    //         $(".leye").removeClass("tres");
+    //       }, 100);
+    //     } else if ( $(this).hasClass("dos")){
+    //       $(this).addClass("tres");
+    //       setTimeout(function(){
+    //         $(".leye").removeClass("dos");
+    //       }, 100);
+    //     } else if ( $(this).hasClass("uno")){
+    //       $(this).addClass("dos");
+    //       setTimeout(function(){
+    //         $(".leye").removeClass("uno");
+    //       }, 100);
+    //       $(".cross").css('display', 'none');
+    //       $(".bubble1").css('display', 'none');
+    //     };
+    //   });
+    // });
+
     $(document).ready(function(){
       $(".leye").click(function(){
-        if ($(this).hasClass("tres")){
-          $(this).addClass("uno");
+        if ($(".leye").hasClass("tres")){
+          $(".leye").addClass("uno");
+          $(".valleye").addClass("perv");
           setTimeout(function(){
             $(".leye").removeClass("tres");
+            $(".valleye").removeClass("tret");
           }, 100);
-        } else if ( $(this).hasClass("dos")){
-          $(this).addClass("tres");
+        } else if ( $(".leye").hasClass("dos")){
+          $(".leye").addClass("tres");
+          $(".valleye").addClass("tret");
           setTimeout(function(){
             $(".leye").removeClass("dos");
+            $(".valleye").removeClass("vtor");
           }, 100);
-        } else if ( $(this).hasClass("uno")){
-          $(this).addClass("dos");
+        } else if ( $(".leye").hasClass("uno")){
+          $(".leye").addClass("dos");
+          $(".valleye").addClass("vtor");
           setTimeout(function(){
             $(".leye").removeClass("uno");
+            $(".valleye").removeClass("perv");
           }, 100);
           $(".cross").css('display', 'none');
           $(".bubble1").css('display', 'none');
@@ -173,93 +229,195 @@
       });
     });
 
+    // $(document).ready(function(){
+    //   $(".nose").click(function(){
+    //     if ($(this).hasClass("c")){
+    //       $(this).addClass("a");
+    //       setTimeout(function(){
+    //         $(".nose").removeClass("c");
+    //       }, 100);
+    //     } else if ( $(this).hasClass("b")){
+    //       $(this).addClass("c");
+    //       setTimeout(function(){
+    //         $(".nose").removeClass("b");
+    //       }, 100);
+    //     } else if ( $(this).hasClass("a")){
+    //       $(this).addClass("b");
+    //       setTimeout(function(){
+    //         $(".nose").removeClass("a");
+    //       }, 100);
+    //     };
+    //   });
+    // });
 
     $(document).ready(function(){
       $(".nose").click(function(){
-        if ($(this).hasClass("c")){
-          $(this).addClass("a");
+        if ($(".nose").hasClass("c")){
+          $(".nose").addClass("a");
+          $(".valnos").addClass("noz");
           setTimeout(function(){
             $(".nose").removeClass("c");
+            $(".valnos").removeClass("nozzz");
           }, 100);
-        } else if ( $(this).hasClass("b")){
-          $(this).addClass("c");
+        } else if ( $(".nose").hasClass("b")){
+          $(".nose").addClass("c");
+          $(".valnos").addClass("nozzz");
           setTimeout(function(){
             $(".nose").removeClass("b");
+            $(".valnos").removeClass("nozz");
           }, 100);
-        } else if ( $(this).hasClass("a")){
-          $(this).addClass("b");
+        } else if ( $(".nose").hasClass("a")){
+          $(".nose").addClass("b");
+          $(".valnos").addClass("nozz");
           setTimeout(function(){
             $(".nose").removeClass("a");
+            $(".valnos").removeClass("noz");
+          }, 100);
+        };
+      });
+    });
+    // $(document).ready(function(){
+    //   $(".reye").click(function(){
+    //     if ($(this).hasClass("cc")){
+    //       $(this).addClass("aa");
+    //       setTimeout(function(){
+    //         $(".reye").removeClass("cc");
+    //       }, 100);
+    //     } else if ( $(this).hasClass("bb")){
+    //       $(this).addClass("cc");
+    //       setTimeout(function(){
+    //         $(".reye").removeClass("bb");
+    //       }, 100);
+    //     } else if ( $(this).hasClass("aa")){
+    //       $(this).addClass("bb");
+    //       setTimeout(function(){
+    //         $(".reye").removeClass("aa");
+    //       }, 100);
+    //     };
+    //   });
+    // });
+    $(document).ready(function(){
+      $(".reye").click(function(){
+        if ($(".reye").hasClass("cc")){
+          $(".reye").addClass("aa");
+          $(".valreye").addClass("gl");
+          setTimeout(function(){
+            $(".reye").removeClass("cc");
+            $(".valreye").removeClass("glaz");
+          }, 100);
+        } else if ( $(".reye").hasClass("bb")){
+          $(".reye").addClass("cc");
+          $(".valreye").addClass("glaz");
+          setTimeout(function(){
+            $(".reye").removeClass("bb");
+            $(".valreye").removeClass("gla");
+          }, 100);
+        } else if ( $(".reye").hasClass("aa")){
+          $(".reye").addClass("bb");
+          $(".valreye").addClass("gla");
+          setTimeout(function(){
+            $(".reye").removeClass("aa");
+            $(".valreye").removeClass("gl");
           }, 100);
         };
       });
     });
 
-    $(document).ready(function(){
-      $(".reye").click(function(){
-        if ($(this).hasClass("cc")){
-          $(this).addClass("aa");
-          setTimeout(function(){
-            $(".reye").removeClass("cc");
-          }, 100);
-        } else if ( $(this).hasClass("bb")){
-          $(this).addClass("cc");
-          setTimeout(function(){
-            $(".reye").removeClass("bb");
-          }, 100);
-        } else if ( $(this).hasClass("aa")){
-          $(this).addClass("bb");
-          setTimeout(function(){
-            $(".reye").removeClass("aa");
-          }, 100);
-        };
-      });
-    });
+    // $(document).ready(function(){
+    //   $(".body").click(function(){
+    //     if ($(this).hasClass("f")){
+    //       $(this).addClass("d");
+    //       setTimeout(function(){
+    //         $(".body").removeClass("f");
+    //       }, 100);
+    //     } else if ( $(this).hasClass("e")){
+    //       $(this).addClass("f");
+    //       setTimeout(function(){
+    //         $(".body").removeClass("e");
+    //       }, 100);
+    //     } else if ( $(this).hasClass("d")){
+    //       $(this).addClass("e");
+    //       setTimeout(function(){
+    //         $(".body").removeClass("d");
+    //       }, 100);
+    //     };
+    //   });
+    // });
 
     $(document).ready(function(){
       $(".body").click(function(){
-        if ($(this).hasClass("f")){
-          $(this).addClass("d");
+        if ($(".body").hasClass("f")){
+          $(".body").addClass("d");
+          $(".valshirt").addClass("rose");
           setTimeout(function(){
             $(".body").removeClass("f");
+            $(".valshirt").removeClass("fiol");
           }, 100);
-        } else if ( $(this).hasClass("e")){
-          $(this).addClass("f");
+        } else if ( $(".body").hasClass("e")){
+          $(".body").addClass("f");
+          $(".valshirt").addClass("fiol");
           setTimeout(function(){
             $(".body").removeClass("e");
+            $(".valshirt").removeClass("zel");
           }, 100);
-        } else if ( $(this).hasClass("d")){
-          $(this).addClass("e");
+        } else if ( $(".body").hasClass("d")){
+          $(".body").addClass("e");
+          $(".valshirt").addClass("zel");
           setTimeout(function(){
             $(".body").removeClass("d");
+            $(".valshirt").removeClass("rose");
           }, 100);
         };
       });
     });
 
-
+    // $(document).ready(function(){
+    //   $(".lhand").click(function(){
+    //     if ($(this).hasClass("i")){
+    //       $(this).addClass("g");
+    //       setTimeout(function(){
+    //         $(".lhand").removeClass("i");
+    //       }, 100);
+    //     } else if ( $(this).hasClass("h")){
+    //       $(this).addClass("i");
+    //       setTimeout(function(){
+    //         $(".lhand").removeClass("h");
+    //       }, 100);
+    //     } else if ( $(this).hasClass("g")){
+    //       $(this).addClass("h");
+    //       setTimeout(function(){
+    //         $(".lhand").removeClass("g");
+    //       }, 100);
+    //     };
+    //   });
+    // });
 
     $(document).ready(function(){
       $(".lhand").click(function(){
-        if ($(this).hasClass("i")){
-          $(this).addClass("g");
+        if ($(".lhand").hasClass("i")){
+          $(".lhand").addClass("g");
+          $(".valruka").addClass("pra");
           setTimeout(function(){
             $(".lhand").removeClass("i");
+            $(".valruka").removeClass("pravaya");
           }, 100);
-        } else if ( $(this).hasClass("h")){
-          $(this).addClass("i");
+        } else if ( $(".lhand").hasClass("h")){
+          $(".lhand").addClass("i");
+          $(".valruka").addClass("pravaya");
           setTimeout(function(){
             $(".lhand").removeClass("h");
+            $(".valruka").removeClass("prava");
           }, 100);
-        } else if ( $(this).hasClass("g")){
-          $(this).addClass("h");
+        } else if ( $(".lhand").hasClass("g")){
+          $(".lhand").addClass("h");
+          $(".valruka").addClass("prava");
           setTimeout(function(){
             $(".lhand").removeClass("g");
+            $(".valruka").removeClass("pra");
           }, 100);
         };
       });
     });
-
     $(document).ready(function(){
       $(".rhand").click(function(){
         if ($(this).hasClass("l")){
@@ -281,54 +439,121 @@
       });
     });
 
+    // $(document).ready(function(){
+    //   $(".pants").click(function(){
+    //     if ($(this).hasClass("v")){
+    //       $(this).addClass("z");
+    //       setTimeout(function(){
+    //         $(".pants").removeClass("v");
+    //       }, 100);
+    //     } else if ( $(this).hasClass("r")){
+    //       $(this).addClass("v");
+    //       setTimeout(function(){
+    //         $(".pants").removeClass("r");
+    //       }, 100);
+    //     } else if ( $(this).hasClass("z")){
+    //       $(this).addClass("r");
+    //       setTimeout(function(){
+    //         $(".pants").removeClass("z");
+    //       }, 100);
+    //     };
+    //   });
+    // });
+
     $(document).ready(function(){
       $(".pants").click(function(){
-        if ($(this).hasClass("v")){
-          $(this).addClass("z");
+        if ($(".pants").hasClass("v")){
+          $(".pants").addClass("z");
+          $(".valpants").addClass("tr");
           setTimeout(function(){
             $(".pants").removeClass("v");
+            $(".valpants").removeClass("trusi");
           }, 100);
-        } else if ( $(this).hasClass("r")){
-          $(this).addClass("v");
+        } else if ( $(".pants").hasClass("r")){
+          $(".pants").addClass("v");
+          $(".valpants").addClass("trusi");
           setTimeout(function(){
             $(".pants").removeClass("r");
+            $(".valpants").removeClass("tru");
           }, 100);
-        } else if ( $(this).hasClass("z")){
-          $(this).addClass("r");
+        } else if ( $(".pants").hasClass("z")){
+          $(".pants").addClass("r");
+          $(".valpants").addClass("tru");
           setTimeout(function(){
             $(".pants").removeClass("z");
+            $(".valpants").removeClass("tr");
           }, 100);
         };
       });
     });
+
+    // $(document).ready(function(){
+    //   $(".lleg").click(function(){
+    //     if ($(this).hasClass("circ")){
+    //       $(this).addClass("sq");
+    //       setTimeout(function(){
+    //         $(".lleg").removeClass("circ");
+    //       }, 100);
+    //     } else if ( $(this).hasClass("sq")){
+    //       $(this).addClass("circ");
+    //       setTimeout(function(){
+    //         $(".lleg").removeClass("sq");
+    //       }, 100);
+    //     };
+    //   });
+    // });
 
     $(document).ready(function(){
       $(".lleg").click(function(){
-        if ($(this).hasClass("circ")){
-          $(this).addClass("sq");
+        if ($(".lleg").hasClass("circ")){
+          $(".lleg").addClass("sq");
+          $(".vallleg").addClass("ugl");
           setTimeout(function(){
             $(".lleg").removeClass("circ");
+            $(".valleg").removeClass("skru");
           }, 100);
-        } else if ( $(this).hasClass("sq")){
-          $(this).addClass("circ");
+        } else if ( $(".lleg").hasClass("sq")){
+          $(".lleg").addClass("circ");
+          $(".valleg").addClass("skru");
           setTimeout(function(){
             $(".lleg").removeClass("sq");
+            $(".valleg").removeClass("ugl");
           }, 100);
         };
       });
     });
+
+    // $(document).ready(function(){
+    //   $(".rleg").click(function(){
+    //     if ($(this).hasClass("kr")){
+    //       $(this).addClass("kv");
+    //       setTimeout(function(){
+    //         $(".rleg").removeClass("kr");
+    //       }, 100);
+    //     } else if ( $(this).hasClass("kv")){
+    //       $(this).addClass("kr");
+    //       setTimeout(function(){
+    //         $(".rleg").removeClass("kv");
+    //       }, 100);
+    //     };
+    //   });
+    // });
 
     $(document).ready(function(){
       $(".rleg").click(function(){
-        if ($(this).hasClass("kr")){
-          $(this).addClass("kv");
+        if ($(".rleg").hasClass("kr")){
+          $(".rleg").addClass("kv");
+          $(".vallegg").addClass("uglo");
           setTimeout(function(){
             $(".rleg").removeClass("kr");
+            $(".vallegg").removeClass("skrug");
           }, 100);
-        } else if ( $(this).hasClass("kv")){
-          $(this).addClass("kr");
+        } else if ( $(".rleg").hasClass("kv")){
+          $(".rleg").addClass("kr");
+          $(".vallegg").addClass("skrug");
           setTimeout(function(){
             $(".rleg").removeClass("kv");
+            $(".vallegg").removeClass("uglo");
           }, 100);
         };
       });
@@ -336,128 +561,288 @@
 
 
 
+
+    // $(document).ready(function(){
+    //   $(".nail").click(function(){
+    //     if ($(this).hasClass("trii")){
+    //       $(this).addClass("razz");
+    //       setTimeout(function(){
+    //         $(".nail").removeClass("trii");
+    //       }, 100);
+    //     } else if ( $(this).hasClass("dvaa")){
+    //       $(this).addClass("trii");
+    //       setTimeout(function(){
+    //         $(".nail").removeClass("dvaa");
+    //       }, 100);
+    //     } else if ( $(this).hasClass("razz")){
+    //       $(this).addClass("dvaa");
+    //       setTimeout(function(){
+    //         $(".nail").removeClass("razz");
+    //       }, 100);
+    //     };
+    //   });
+    // });
 
     $(document).ready(function(){
       $(".nail").click(function(){
-        if ($(this).hasClass("trii")){
-          $(this).addClass("razz");
+        if ($(".nail").hasClass("trii")){
+          $(".nail").addClass("razz");
+          $(".valnail").addClass("ta");
           setTimeout(function(){
             $(".nail").removeClass("trii");
+            $(".valnail").removeClass("koi");
           }, 100);
-        } else if ( $(this).hasClass("dvaa")){
-          $(this).addClass("trii");
+        } else if ( $(".nail").hasClass("dvaa")){
+          $(".nail").addClass("trii");
+          $(".valnail").addClass("koi");
           setTimeout(function(){
             $(".nail").removeClass("dvaa");
+            $(".valnail").removeClass("ko");
           }, 100);
-        } else if ( $(this).hasClass("razz")){
-          $(this).addClass("dvaa");
+        } else if ( $(".nail").hasClass("razz")){
+          $(".nail").addClass("dvaa");
+          $(".valnail").addClass("ko");
           setTimeout(function(){
             $(".nail").removeClass("razz");
+            $(".valnail").removeClass("ta");
           }, 100);
         };
       });
     });
+
+    // $(document).ready(function(){
+    //   $(".naill").click(function(){
+    //     if ($(this).hasClass("trois")){
+    //       $(this).addClass("un");
+    //       setTimeout(function(){
+    //         $(".naill").removeClass("trois");
+    //       }, 100);
+    //     } else if ( $(this).hasClass("deux")){
+    //       $(this).addClass("trois");
+    //       setTimeout(function(){
+    //         $(".naill").removeClass("deux");
+    //       }, 100);
+    //     } else if ( $(this).hasClass("un")){
+    //       $(this).addClass("deux");
+    //       setTimeout(function(){
+    //         $(".naill").removeClass("un");
+    //       }, 100);
+    //     };
+    //   });
+    // });
 
     $(document).ready(function(){
       $(".naill").click(function(){
-        if ($(this).hasClass("trois")){
-          $(this).addClass("un");
+        if ($(".naill").hasClass("trois")){
+          $(".naill").addClass("un");
+          $(".valnaill").addClass("la");
           setTimeout(function(){
             $(".naill").removeClass("trois");
+            $(".valnaill").removeClass("lu");
           }, 100);
-        } else if ( $(this).hasClass("deux")){
-          $(this).addClass("trois");
+        } else if ( $(".naill").hasClass("deux")){
+          $(".naill").addClass("trois");
+          $(".valnaill").addClass("lu");
           setTimeout(function(){
             $(".naill").removeClass("deux");
+            $(".valnaill").removeClass("lo");
           }, 100);
-        } else if ( $(this).hasClass("un")){
-          $(this).addClass("deux");
+        } else if ( $(".naill").hasClass("un")){
+          $(".naill").addClass("deux");
+          $(".valnaill").addClass("lo");
           setTimeout(function(){
             $(".naill").removeClass("un");
+            $(".valnaill").removeClass("la");
           }, 100);
         };
       });
     });
 
+    // $(document).ready(function(){
+    //   $(".nailll").click(function(){
+    //     if ($(this).hasClass("tr")){
+    //       $(this).addClass("ra");
+    //       setTimeout(function(){
+    //         $(".nailll").removeClass("tr");
+    //       }, 100);
+    //     } else if ( $(this).hasClass("dv")){
+    //       $(this).addClass("tr");
+    //       setTimeout(function(){
+    //         $(".nailll").removeClass("dv");
+    //       }, 100);
+    //     } else if ( $(this).hasClass("ra")){
+    //       $(this).addClass("dv");
+    //       setTimeout(function(){
+    //         $(".nailll").removeClass("ra");
+    //       }, 100);
+    //     };
+    //   });
+    // });
     $(document).ready(function(){
       $(".nailll").click(function(){
-        if ($(this).hasClass("tr")){
-          $(this).addClass("ra");
+        if ($(".nailll").hasClass("tr")){
+          $(".nailll").addClass("ra");
+          (".valnailll").addClass("li");
           setTimeout(function(){
             $(".nailll").removeClass("tr");
+            $(".valnailll").removeClass("loo");
           }, 100);
-        } else if ( $(this).hasClass("dv")){
-          $(this).addClass("tr");
+        } else if ( $(".nailll").hasClass("dv")){
+          $(".nailll").addClass("tr");
+          $(".nvalailll").addClass("loo");
           setTimeout(function(){
             $(".nailll").removeClass("dv");
+            $(".valnailll").removeClass("le");
           }, 100);
-        } else if ( $(this).hasClass("ra")){
-          $(this).addClass("dv");
+        } else if ( $(".nailll").hasClass("ra")){
+          $(".nailll").addClass("dv");
+          $(".valnailll").addClass("le");
           setTimeout(function(){
             $(".nailll").removeClass("ra");
+            $(".valnailll").removeClass("li");
           }, 100);
         };
       });
     });
+
+    // $(document).ready(function(){
+    //   $(".rnail").click(function(){
+    //     if ($(this).hasClass("triii")){
+    //       $(this).addClass("razzz");
+    //       setTimeout(function(){
+    //         $(".rnail").removeClass("triii");
+    //       }, 100);
+    //     } else if ( $(this).hasClass("dvaaa")){
+    //       $(this).addClass("triii");
+    //       setTimeout(function(){
+    //         $(".rnail").removeClass("dvaaa");
+    //       }, 100);
+    //     } else if ( $(this).hasClass("razzz")){
+    //       $(this).addClass("dvaaa");
+    //       setTimeout(function(){
+    //         $(".rnail").removeClass("razzz");
+    //       }, 100);
+    //     };
+    //   });
+    // });
 
     $(document).ready(function(){
       $(".rnail").click(function(){
-        if ($(this).hasClass("triii")){
-          $(this).addClass("razzz");
+        if ($(".rnail").hasClass("triii")){
+          $(".rnail").addClass("razzz");
+          $(".valnail").addClass("ba");
           setTimeout(function(){
             $(".rnail").removeClass("triii");
+            $(".lvalnail").removeClass("bi");
           }, 100);
-        } else if ( $(this).hasClass("dvaaa")){
-          $(this).addClass("triii");
+        } else if ( $(".rnail").hasClass("dvaaa")){
+          $(".rnail").addClass("triii");
+          $(".lvalnail").addClass("bi");
           setTimeout(function(){
             $(".rnail").removeClass("dvaaa");
+            $(".lvalnail").removeClass("bo");
           }, 100);
-        } else if ( $(this).hasClass("razzz")){
-          $(this).addClass("dvaaa");
+        } else if ( $(".rnail").hasClass("razzz")){
+          $(".rnail").addClass("dvaaa");
+          $(".lvalnail").addClass("bo");
           setTimeout(function(){
             $(".rnail").removeClass("razzz");
+            $(".lvalnail").removeClass("ba");
           }, 100);
         };
       });
     });
+
+    // $(document).ready(function(){
+    //   $(".rnaill").click(function(){
+    //     if ($(this).hasClass("troiss")){
+    //       $(this).addClass("unn");
+    //       setTimeout(function(){
+    //         $(".rnaill").removeClass("troiss");
+    //       }, 100);
+    //     } else if ( $(this).hasClass("deuxx")){
+    //       $(this).addClass("troiss");
+    //       setTimeout(function(){
+    //         $(".rnaill").removeClass("deuxx");
+    //       }, 100);
+    //     } else if ( $(this).hasClass("unn")){
+    //       $(this).addClass("deuxx");
+    //       setTimeout(function(){
+    //         $(".rnaill").removeClass("unn");
+    //       }, 100);
+    //     };
+    //   });
+    // });
 
     $(document).ready(function(){
       $(".rnaill").click(function(){
-        if ($(this).hasClass("troiss")){
-          $(this).addClass("unn");
+        if ($(".rnaill").hasClass("troiss")){
+          $(".rnaill").addClass("unn");
+          $(".llvalnail").addClass("ha");
           setTimeout(function(){
             $(".rnaill").removeClass("troiss");
+            $(".llvalnail").removeClass("hi");
           }, 100);
-        } else if ( $(this).hasClass("deuxx")){
-          $(this).addClass("troiss");
+        } else if ( $(".rnaill").hasClass("deuxx")){
+          $(".rnaill").addClass("troiss");
+          $(".llvalnail").addClass("hi");
           setTimeout(function(){
             $(".rnaill").removeClass("deuxx");
+            $(".llvalnail").removeClass("ho");
           }, 100);
-        } else if ( $(this).hasClass("unn")){
-          $(this).addClass("deuxx");
+        } else if ( $(".rnaill").hasClass("unn")){
+          $(".rnaill").addClass("deuxx");
+          $(".llvalnail").addClass("ho");
           setTimeout(function(){
             $(".rnaill").removeClass("unn");
+            $(".llnail").removeClass("ha");
           }, 100);
         };
       });
     });
+    // $(document).ready(function(){
+    //   $(".rnailll").click(function(){
+    //     if ($(this).hasClass("trr")){
+    //       $(this).addClass("raa");
+    //       setTimeout(function(){
+    //         $(".rnailll").removeClass("trr");
+    //       }, 100);
+    //     } else if ( $(this).hasClass("dvv")){
+    //       $(this).addClass("trr");
+    //       setTimeout(function(){
+    //         $(".rnailll").removeClass("dvv");
+    //       }, 100);
+    //     } else if ( $(this).hasClass("raa")){
+    //       $(this).addClass("dvv");
+    //       setTimeout(function(){
+    //         $(".rnailll").removeClass("raa");
+    //       }, 100);
+    //     };
+    //   });
+    // });
 
     $(document).ready(function(){
       $(".rnailll").click(function(){
-        if ($(this).hasClass("trr")){
-          $(this).addClass("raa");
+        if ($(".rnailll").hasClass("trr")){
+          $(".rnailll").addClass("raa");
+          $(".lllvalnail").addClass("ka");
           setTimeout(function(){
             $(".rnailll").removeClass("trr");
+            $(".lllvalnail").removeClass("ki");
           }, 100);
-        } else if ( $(this).hasClass("dvv")){
-          $(this).addClass("trr");
+        } else if ( $(".rnailll").hasClass("dvv")){
+          $(".rnailll").addClass("trr");
+          $(".lllvalnail").addClass("ki");
           setTimeout(function(){
             $(".rnailll").removeClass("dvv");
+            $(".lllvalnail").removeClass("ko");
           }, 100);
-        } else if ( $(this).hasClass("raa")){
-          $(this).addClass("dvv");
+        } else if ( $(".rnailll").hasClass("raa")){
+          $(".rnailll").addClass("dvv");
+          $(".lllvalnail").addClass("ko");
           setTimeout(function(){
             $(".rnailll").removeClass("raa");
+            $(".lllvalnail").removeClass("ka");
           }, 100);
         };
       });
@@ -726,22 +1111,66 @@ $(".fin, .pfin").click(function(){
   </div>
   <div class="screen2">
     <div class="chelovek">
+      <div class="valruka pra">
 
+      </div>
 
+      <div class="valshirt rose">
+      </div>
     <div class="hairv pur">
     </div>
     <div class="stripesval">
     </div>
-    <div class="faceval krkvadrat">
+
+    <div class="faceval kvadrat">
     </div>
+
     <div class="valbrow">
     </div>
     <div class="valleye perv">
+    </div>
+
+    <div class="valnos noz">
+    </div>
+    <div class="valreye gl">
+    </div>
+    <div class="valrot">
+    </div>
+    <div class="valleg ugl">
 
     </div>
+    <div class="vallegg uglo">
     </div>
+    <div class="valpants tr">
+    </div>
+    <div class="valnail ta">
+    </div>
+    <div class="valnaill la">
+    </div>
+    <div class="valnailll li">
+    </div>
+    <div class="lvalnail ba">
+    </div>
+    <div class="llvalnail ba">
+    </div>
+    <div class="lllvalnail ka">
+    </div>
+    </div>
+    <div class="zdorovo">
+      <p class="zdorovo">Здорово! Ты можешь забрать меня в центре <br>
+  по оживлению воображаемых друзей Соберись!</p>
+
+
+    </div>
+
+
+
+
 
     <div class="footer">
+      <p class="avtor">Ханеева Лия</p>
+      <p class="proekt">Соберись</p>
+      <p class="hse">HSE ADC</p>
 
     </div>
 

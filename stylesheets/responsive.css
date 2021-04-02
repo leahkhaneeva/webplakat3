@@ -12,6 +12,7 @@ div .ptip9 {font-size: 16px;top: 74.48%;left: 3.3%;}
 div .ptip10 {font-size: 16px;top: 83.45%;right: 3.705%;}
 div .pfin {font-size: 38px;}
 div.orange {height:9.01%;}
+.screen2 .chelovek{top: 17%;}
 }
 
 @media all and (min-width: 1500px) and (max-width: 1606px){
@@ -30,6 +31,7 @@ div .pfin {font-size: 38px; left: 28%;top: 27%;}
 div.orange {height:9.02%;}
 div.body {top:41.17%;}
 div.pink {height:5.73%;}
+.screen2 .chelovek{top: 17%;}
 }
 @media all and (min-width: 1441px) and (max-width: 1499px){
 div .p1 {font-size: 46px;}
@@ -47,6 +49,7 @@ div .pfin {left: 28%;top: 27%;}
 div.orange {height:9.03%;}
 div.body {top:41.17%;}
 div.pink {height:5.74%;}
+.screen2 .chelovek{top: 17%; padding-bottom: 33%;width: 81.4%; left: 9.7%;}
 }
 @media all and (min-width: 1434px) and (max-width: 1439px){
 div.orange {height:9.03%;}
@@ -75,6 +78,7 @@ div.orange {height:9.04%;}
 div.body {top:41.18%;}
 div.pink {height:5.75%;}
 div .pfin {left: 28%;top: 25%; font-size: 36px;}
+.screen2 .chelovek{top: 17%; padding-bottom: 33%;width: 81.4%; left: 9.7%;}
 }
 @media all and (min-width: 1356px) and (max-width: 1366px){
 div .p1 {font-size: 38px;}
@@ -103,6 +107,7 @@ div.orange {height:9.04%;}
 div.body {top:41.18%;}
 div.pink {height:5.75%;}
 div .pfin {left: 28%;top: 25%; font-size: 36px;}
+.screen2 .chelovek{top: 15%; padding-bottom: 33%;width: 81.4%; left: 9.7%;}
 }
 @media all and (min-width: 1306px) and (max-width: 1355px){
   div .p1 {font-size: 38px;}
@@ -131,6 +136,7 @@ div .pfin {left: 28%;top: 25%; font-size: 36px;}
   div.body {top:41.18%;}
   div.pink {height:5.75%;}
   div .pfin {left: 27%;top: 25%; font-size: 36px;}
+  .screen2 .chelovek{top: 17%; padding-bottom: 33%;width: 81.4%; left: 9.7%;}
 }
 @media all and (min-width: 1283px) and (max-width: 1305px){
 div .p1 {font-size: 38px;}
@@ -148,6 +154,7 @@ div.orange {height:9.05%;}
 div.body {top:41.18%;}
 div.pink {height:5.75%;}
 div .pfin {left: 27%;top: 26%; font-size: 34px;}
+.screen2 .chelovek{top: 15%; padding-bottom: 33%;width: 81.4%; left: 9.7%;}
 }
 @media all and (min-width: 1281px) and (max-width: 1282px){
 div .p1 {font-size: 38px;}
@@ -165,6 +172,7 @@ div.orange {height:9.05%;}
 div.body {top:41.18%;}
 div.pink {height:5.76%;}
 div .pfin {left: 27%;top: 26%; font-size: 34px;}
+.screen2 .chelovek{top: 17%; padding-bottom: 33%;width: 81.4%; left: 9.7%;}
 }
 @media all and (min-width: 1221px) and (max-width: 1280px){
 div .p1 {font-size: 38px;}
@@ -195,7 +203,10 @@ div.orange {height:9.05%;}
 div.body {top:41.18%;}
 div.pink {height:5.76%;}
 div .pfin {left: 27%;top: 26%; font-size: 34px;}
-div .chelovek {top:20%}
+.screen2 .chelovek{top: 14%; padding-bottom: 35%;width: 86%; left: 7.3%;}
+.screen2  .avtor {font-size: 12px;}
+.screen2  .proekt {font-size: 12px;left: 47%;}
+.screen2  .hse {font-size: 12px; left: 92%;}
 }
 @media all and (min-width: 1191px) and (max-width: 1220px){
 div .p1 {font-size: 38px;}
@@ -213,6 +224,10 @@ div.orange {height:9.05%;}
 div.body {top:41.18%;}
 div.pink {height:5.76%;}
 div .pfin {left: 26%;top: 25%; font-size: 34px;}
+.screen2 .chelovek{top: 14%; padding-bottom: 35%;width: 86%; left: 7.3%;}
+.screen2  .avtor {font-size: 12px;}
+.screen2  .proekt {font-size: 12px;left: 47%;}
+.screen2  .hse {font-size: 12px; left: 92%;}
 }
 @media all and (min-width: 1171px) and (max-width: 1190px){
 div .p1 {font-size: 34px;}
@@ -230,6 +245,10 @@ div.orange {height:9.05%;}
 div.body {top:41.18%;}
 div.pink {height:5.76%;}
 div .pfin {left: 26%;top: 25%; font-size: 34px;}
+.screen2 .chelovek{top: 14%; padding-bottom: 35%;width: 86%; left: 7.3%;}
+.screen2  .avtor {font-size: 12px;}
+.screen2  .proekt {font-size: 12px;left: 47%;}
+.screen2  .hse {font-size: 12px; left: 92%;}
 }
 @media all and (min-width: 1151px) and (max-width: 1170px){
 div .p1 {font-size: 34px;}
@@ -258,36 +277,13 @@ div.orange {height:9.05%;}
 div.body {top:41.18%;}
 div.pink {height:5.76%;}
 div .pfin {left: 27%;top: 26%; font-size: 32px;}
+.screen2 .chelovek{top: 14%; padding-bottom: 35%;width: 86%; left: 7.3%;}
+.screen2  .avtor {font-size: 12px;}
+.screen2  .proekt {font-size: 12px;left: 47%;}
+.screen2  .hse {font-size: 12px; left: 92%;}
+.screen2  .zdorovo {left: 17%;}
 }
 
-/* @media all and (min-width: 1116px) and (max-width: 1150px){
-div .p1 {font-size: 34px;}
-div .tip1{width: 17%;}
-div .tip2{width: 19.05%;}
-div .tip3{width: 18.7%;}
-div .tip4{width: 15.7%;}
-div .tip5{width: 16.3%;}
-div .tip6{width: 20.99%;}
-div .tip7{width: 15.1%;}
-div .tip8{width: 12%;}
-div .tip9{width: 18.6%;}
-div .tip10{width: 18.9%;}
-
-div .ptip1 {font-size: 12px; top: 20.98%;left: 3.47%;}
-div .ptip2 {font-size: 12px;top: 32.46%;right: 3.55%;}
-div .ptip3 {font-size: 12px;top: 35%;left: 3.15%;}
-div .ptip4 {font-size: 12px;top: 42.46%;left: 3.18%;}
-div .ptip5 {font-size: 12px;top: 45.45%;right: 3.83%;}
-div .ptip6 {font-size: 12px;top: 57.16%;right: 3.35%;}
-div .ptip7 {font-size: 12px;top: 61.76%;left: 3.2%;}
-div .ptip8 {font-size: 12px;top: 69.47%;right: 3.64%;}
-div .ptip9 {font-size: 12px;top: 74.46%;left: 3.18%;}
-div .ptip10 {font-size: 12px;top: 83.47%;right: 3.4%;}
-div.orange {height:9.06%;}
-div.body {top:41.19%;}
-div.pink {height:5.77%;}
-div .pfin {left: 27%;top: 26%; font-size: 32px;}
-} */
 @media all and (min-width: 1116px) and (max-width: 1150px){
 div .p1 {font-size: 34px;}
 div .tip1{width: 17%;}
@@ -315,6 +311,11 @@ div.orange {height:9.06%;}
 div.body {top:41.192%;}
 div.pink {height:5.77%;}
 div .pfin {left: 27%;top: 26%; font-size: 32px;}
+.screen2 .chelovek{top: 14%; padding-bottom: 35%;width: 86%; left: 7.3%;}
+.screen2  .avtor {font-size: 12px;}
+.screen2  .proekt {font-size: 12px;left: 47%;}
+.screen2  .hse {font-size: 12px; left: 92%;}
+.screen2  .zdorovo {left: 16%;}
 }
 
 @media all and (min-width: 1101px) and (max-width: 1115px){
@@ -344,6 +345,11 @@ div.orange {height:9.06%;}
 div.body {top:41.192%;}
 div.pink {height:5.77%;}
 div .pfin {left: 25%;top: 23%; font-size: 32px;}
+.screen2 .chelovek{top: 14%; padding-bottom: 35%;width: 86%; left: 7.3%;}
+.screen2  .avtor {font-size: 12px;}
+.screen2  .proekt {font-size: 12px;left: 47%;}
+.screen2  .hse {font-size: 12px; left: 91%;}
+.screen2  .zdorovo {left: 16%;}
 }
 
 @media all and (min-width: 1081px) and (max-width: 1100px){
@@ -373,6 +379,13 @@ div.orange {height:9.06%;}
 div.body {top:41.192%;}
 div.pink {height:5.77%;}
 div .pfin {left: 25%;top: 23%; font-size: 30px;}
+.screen2 .chelovek{top: 14%; padding-bottom: 35%;width: 86%; left: 7.3%;}
+.screen2  .avtor {font-size: 12px;}
+.screen2  .proekt {font-size: 12px;left: 47%;}
+.screen2  .hse {font-size: 12px; left: 91%;}
+.screen2  .zdorovo {left: 17%;width: 68%;font-size: 18px;}
+
+
 }
 @media all and (min-width: 1060px) and (max-width: 1080px){
   div .p1 {font-size: 34px;}
@@ -401,6 +414,11 @@ div .pfin {left: 25%;top: 23%; font-size: 30px;}
   div.body {top:41.192%;}
   div.pink {height:5.77%;}
   div .pfin {left: 26%;top: 23%; font-size: 30px;}
+  .screen2 .chelovek{top: 14%; padding-bottom: 35%;width: 86%; left: 7.3%;}
+  .screen2  .avtor {font-size: 12px;}
+  .screen2  .proekt {font-size: 12px;left: 47%;}
+  .screen2  .hse {font-size: 12px; left: 91%;}
+  .screen2  .zdorovo {left: 17%;width: 68%;font-size: 18px;}
 }
 @media all and (min-width: 1040px) and (max-width: 1059px){
   .screen1 .p1 {font-size: 34px;}
@@ -429,6 +447,11 @@ div .pfin {left: 25%;top: 23%; font-size: 30px;}
   .screen1.body {top:41.192%;}
   .screen1.pink {height:5.77%;}
   .screen1 .pfin {left: 25%;top: 23%; font-size: 30px;}
+  .screen2 .chelovek{top: 14%; padding-bottom: 35%;width: 86%; left: 7.3%;}
+  .screen2  .avtor {font-size: 12px;}
+  .screen2  .proekt {font-size: 12px;left: 47%;}
+  .screen2  .hse {font-size: 12px; left: 91%;}
+  .screen2  .zdorovo {left: 17%;width: 68%;font-size: 18px;}
 }
 @media all and (min-width: 1025px) and (max-width: 1039px){
   .screen1 .p1 {font-size: 30px;}
@@ -457,6 +480,12 @@ div .pfin {left: 25%;top: 23%; font-size: 30px;}
   .screen1.body {top:41.193%;}
   .screen1.pink {height:5.77%;}
   .screen1 .pfin {left: 26%;top: 23%; font-size: 28px;}
+  .screen2 .chelovek{top: 14%; padding-bottom: 35%;width: 86%; left: 7.3%;}
+  .screen2  .avtor {font-size: 12px;}
+  .screen2  .proekt {font-size: 12px;left: 47%;}
+  .screen2  .hse {font-size: 12px; left: 91%;}
+  .screen2  .zdorovo {left: 17%;width: 68%;font-size: 18px;}
+
 }
 @media all and (min-width: 1000px) and (max-width: 1024px){
 .screen1 .ratio {padding-bottom: 317.1875%;}
@@ -570,6 +599,11 @@ div .pfin {left: 25%;top: 23%; font-size: 30px;}
 .screen1 .ptip10 {font-size: 12px;top: 84.9%;right: 3.4%;}
 .screen1 .fin {top: 95.5%;width: 20.7%;}
 .screen1 .pfin {left: 25%;top: 23%; font-size: 28px;}
+.screen2 .chelovek{top: 14%; padding-bottom: 35%;width: 86%; left: 7.3%;}
+.screen2  .avtor {font-size: 12px;}
+.screen2  .proekt {font-size: 12px;left: 47%;}
+.screen2  .hse {font-size: 12px; left: 91%;}
+.screen2  .zdorovo {left: 17%;width: 68%;font-size: 18px;}
 }
 
 @media all and (min-width: 986px) and (max-width: 999px){
@@ -684,6 +718,11 @@ div .pfin {left: 25%;top: 23%; font-size: 30px;}
 .screen1 .ptip10 {font-size: 12px;top: 84.9%;right: 3.4%;}
 .screen1 .fin {top: 95.5%;width: 20.7%;}
 .screen1 .pfin {left: 25%;top: 23%; font-size: 28px;}
+.screen2 .chelovek{top: 14%; padding-bottom: 35%;width: 86%; left: 7.3%;}
+.screen2  .avtor {font-size: 12px;}
+.screen2  .proekt {font-size: 12px;left: 47%;}
+.screen2  .hse {font-size: 12px; left: 91%;}
+.screen2  .zdorovo {left: 17%;width: 68%;font-size: 18px;}
 }
 
 @media all and (min-width: 966px) and (max-width: 985px){
@@ -798,6 +837,11 @@ div .pfin {left: 25%;top: 23%; font-size: 30px;}
 .screen1 .ptip10 {font-size: 12px;top: 84.9%;right: 3.4%;}
 .screen1 .fin {top: 95.5%;width: 20.7%;}
 .screen1 .pfin {left: 25%;top: 23%; font-size: 28px;}
+.screen2 .chelovek{top: 15%; padding-bottom: 35%;width: 86%; left: 7.3%;}
+.screen2  .avtor {font-size: 11px;}
+.screen2  .proekt {font-size: 11px;left: 47%;}
+.screen2  .hse {font-size: 11px; left: 90%;}
+.screen2  .zdorovo {left: 16%;width: 69%;font-size: 18px;}
 }
 
 @media all and (min-width: 945px) and (max-width: 965px){
@@ -912,6 +956,11 @@ div .pfin {left: 25%;top: 23%; font-size: 30px;}
 .screen1 .ptip10 {font-size: 12px;top: 84.95%;right: 3.4%;}
 .screen1 .fin {top: 95.5%;width: 20.7%;}
 .screen1 .pfin {left: 25%;top: 23%; font-size: 28px;}
+.screen2 .chelovek{top: 15%; padding-bottom: 35%;width: 86%; left: 7.3%;}
+.screen2  .avtor {font-size: 11px;}
+.screen2  .proekt {font-size: 11px;left: 47%;}
+.screen2  .hse {font-size: 11px; left: 90%;}
+.screen2  .zdorovo {left: 16%;width: 70%;font-size: 18px;}
 }
 
 @media all and (min-width: 921px) and (max-width: 944px){
@@ -1026,6 +1075,11 @@ div .pfin {left: 25%;top: 23%; font-size: 30px;}
 .screen1 .ptip10 {font-size: 12px;top: 84.95%;right: 3.4%;}
 .screen1 .fin {top: 95.5%;width: 20.7%;}
 .screen1 .pfin {left: 25%;top: 23%; font-size: 26px;}
+.screen2 .chelovek{top: 17%; padding-bottom: 35%;width: 86%; left: 7.3%;}
+.screen2  .avtor {font-size: 11px;}
+.screen2  .proekt {font-size: 11px;left: 47%;}
+.screen2  .hse {font-size: 11px; left: 90%;}
+.screen2  .zdorovo {left: 16%;width: 72%;font-size: 18px;}
 }
 @media all and (min-width: 900px) and (max-width: 920px){
 .screen1 .ratio {padding-bottom: 317.1875%;}
@@ -1139,6 +1193,11 @@ div .pfin {left: 25%;top: 23%; font-size: 30px;}
 .screen1 .ptip10 {font-size: 12px;top: 84.95%;right: 3.45%;}
 .screen1 .fin {top: 95.5%;width: 20.7%;}
 .screen1 .pfin {left: 25%;top: 23%; font-size: 26px;}
+.screen2 .chelovek{top: 17%; padding-bottom: 35%;width: 86%; left: 7.3%;}
+.screen2  .avtor {font-size: 11px;}
+.screen2  .proekt {font-size: 11px;left: 47%;}
+.screen2  .hse {font-size: 11px; left: 90%;}
+.screen2  .zdorovo {left: 16%;width: 73%;font-size: 18px;}
 }
 
 @media all and (min-width: 880px) and (max-width: 899px){
@@ -1253,6 +1312,11 @@ div .pfin {left: 25%;top: 23%; font-size: 30px;}
 .screen1 .ptip10 {font-size: 12px;top: 84.97%;right: 3.6%;}
 .screen1 .fin {top: 95.5%;width: 20.7%;}
 .screen1 .pfin {left: 25%;top: 23%; font-size: 26px;}
+.screen2 .chelovek{top: 17%; padding-bottom: 35%;width: 86%; left: 7.3%;}
+.screen2  .avtor {font-size: 11px;}
+.screen2  .proekt {font-size: 11px;left: 47%;}
+.screen2  .hse {font-size: 11px; left: 90%;}
+.screen2  .zdorovo {left: 16%;width: 73%;font-size: 18px;}
 }
 
 @media all and (min-width: 865px) and (max-width: 879px){
@@ -1367,6 +1431,11 @@ div .pfin {left: 25%;top: 23%; font-size: 30px;}
 .screen1 .ptip10 {font-size: 12px;top: 84.97%;right: 3.6%;}
 .screen1 .fin {top: 95.5%;width: 20.7%;}
 .screen1 .pfin {left: 25%;top: 23%; font-size: 26px;}
+.screen2 .chelovek{top: 17%; padding-bottom: 35%;width: 86%; left: 7.3%;}
+.screen2  .avtor {font-size: 11px;}
+.screen2  .proekt {font-size: 11px;left: 47%;}
+.screen2  .hse {font-size: 11px; left: 90%;}
+.screen2  .zdorovo {left: 16%;width: 73%;font-size: 18px;}
 }
 
 @media all and (min-width: 850px) and (max-width: 864px){
@@ -1481,6 +1550,11 @@ div .pfin {left: 25%;top: 23%; font-size: 30px;}
 .screen1 .ptip10 {font-size: 12px;top: 84.97%;right: 3.6%;}
 .screen1 .fin {top: 95.5%;width: 20.7%;}
 .screen1 .pfin {left: 25%;top: 23%; font-size: 25px;}
+.screen2 .chelovek{top: 17%; padding-bottom: 35%;width: 86%; left: 7.3%;}
+.screen2  .avtor {font-size: 11px;}
+.screen2  .proekt {font-size: 11px;left: 47%;}
+.screen2  .hse {font-size: 11px; left: 90%;}
+.screen2  .zdorovo {left: 16%;width: 73%;font-size: 18px;}
 }
 
 @media all and (min-width: 835px) and (max-width: 849px){
@@ -1595,6 +1669,11 @@ div .pfin {left: 25%;top: 23%; font-size: 30px;}
 .screen1 .ptip10 {font-size: 12px;top: 84.98%;right: 3.6%;}
 .screen1 .fin {top: 95.5%;width: 20.7%;}
 .screen1 .pfin {left: 25%;top: 23%; font-size: 25px;}
+.screen2 .chelovek{top: 17%; padding-bottom: 35%;width: 86%; left: 7.3%;}
+.screen2  .avtor {font-size: 11px;}
+.screen2  .proekt {font-size: 11px;left: 47%;}
+.screen2  .hse {font-size: 11px; left: 90%;}
+.screen2  .zdorovo {left: 14%;width: 75%;font-size: 18px;}
 }
 @media all and (min-width: 820px) and (max-width: 849px){
 .screen1 .ratio {padding-bottom: 317.1875%;}
@@ -1708,6 +1787,11 @@ div .pfin {left: 25%;top: 23%; font-size: 30px;}
 .screen1 .ptip10 {font-size: 12px;top: 84.99%;right: 3.6%;}
 .screen1 .fin {top: 95.5%;width: 20.7%; border: solid black 3px;}
 .screen1 .pfin {left: 25%;top: 23%; font-size: 25px;}
+.screen2 .chelovek{top: 17%; padding-bottom: 35%;width: 86%; left: 7.3%;}
+.screen2  .avtor {font-size: 11px;}
+.screen2  .proekt {font-size: 11px;left: 47%;}
+.screen2  .hse {font-size: 11px; left: 90%;}
+.screen2  .zdorovo {left: 14%;width: 75%;font-size: 18px;}
 }
 @media all and (min-width: 790px) and (max-width: 819px){
 .screen1 .ratio {padding-bottom: 317.1875%;}
@@ -1821,6 +1905,11 @@ div .pfin {left: 25%;top: 23%; font-size: 30px;}
 .screen1 .ptip10 {font-size: 12px;top: 84.99%;right: 3.6%;}
 .screen1 .fin {top: 95.5%;width: 20.7%; border: solid black 3px;}
 .screen1 .pfin {left: 25%;top: 23%; font-size: 23px;}
+.screen2 .chelovek{top: 17%; padding-bottom: 35%;width: 86%; left: 7.3%;}
+.screen2  .avtor {font-size: 11px;}
+.screen2  .proekt {font-size: 11px;left: 47%;}
+.screen2  .hse {font-size: 11px; left: 90%;}
+.screen2  .zdorovo {left: 14%;width: 77%;font-size: 18px;}
 }
 @media all and (min-width: 769px) and (max-width: 789px){
 .screen1 .ratio {padding-bottom: 317.1875%;}
@@ -1934,6 +2023,12 @@ div .pfin {left: 25%;top: 23%; font-size: 30px;}
 .screen1 .ptip10 {font-size: 12px;top: 85%;right: 3.35%;}
 .screen1 .fin {top: 95.5%;width: 20.7%; border: solid black 3px;}
 .screen1 .pfin {left: 25%;top: 23%; font-size: 23px;}
+.screen2 .chelovek{top: 17%; padding-bottom: 35%;width: 86%; left: 7.3%;}
+.screen2  .avtor {font-size: 11px;}
+.screen2  .proekt {font-size: 11px;left: 47%;}
+.screen2  .hse {font-size: 11px; left: 90%;}
+.screen2  .zdorovo {left: 13%;width: 77%;font-size: 18px;}
+
 }
 @media all and (min-width: 755px) and (max-width: 768px){
 .screen1 .ratio {padding-bottom: 399.479167%;}
@@ -2051,6 +2146,11 @@ div .pfin {left: 25%;top: 23%; font-size: 30px;}
 .screen1 .ptip10 {font-size: 12px;top: 88.63%;right: 3.35%;}
 .screen1 .fin {top: 97.5%;width: 20.7%; border: solid black 3px;}
 .screen1 .pfin {left: 24%;top: 23%; font-size: 22px;}
+.screen2 .chelovek{top: 12%; padding-bottom: 55%;width: 135.35%; left: 7.3%;}
+.screen2  .avtor {font-size: 11px;}
+.screen2  .proekt {font-size: 11px;left: 47%;}
+.screen2  .hse {font-size: 11px; left: 90%;}
+.screen2  .zdorovo {left: 13%;width: 79%;font-size: 18px;top: 72%;}
 }
 @media all and (min-width: 730px) and (max-width: 754px){
 .screen1 .ratio {padding-bottom: 399.479167%;}
@@ -2168,6 +2268,11 @@ div .pfin {left: 25%;top: 23%; font-size: 30px;}
 .screen1 .ptip10 {font-size: 11.5px;top: 88.63%;right: 3.35%;}
 .screen1 .fin {top: 97.5%;width: 20.7%; border: solid black 3px;}
 .screen1 .pfin {left: 24%;top: 23%; font-size: 22px;}
+.screen2 .chelovek{top: 18%; padding-bottom: 55%;width: 135.35%; left: 7.3%;}
+.screen2  .avtor {font-size: 11px;}
+.screen2  .proekt {font-size: 11px;left: 47%;}
+.screen2  .hse {font-size: 11px; left: 90%;}
+.screen2  .zdorovo {left: 11.5%;width: 79%;font-size: 18px;top: 72%;}
 }
 
 @media all and (min-width: 716px) and (max-width: 754px){
@@ -2302,6 +2407,11 @@ div .pfin {left: 25%;top: 23%; font-size: 30px;}
 .screen1 .ptip18 {display: block; left: 6%; top: 27%;}
 .screen1 .fin {top: 97.5%;width: 20.7%; border: solid black 3px;}
 .screen1 .pfin {left: 24%;top: 23%; font-size: 21px;}
+.screen2 .chelovek{top: 10%; padding-bottom: 60%;width: 147%; left: 7.3%;}
+.screen2  .avtor {font-size: 11px;}
+.screen2  .proekt {font-size: 11px;left: 47%;}
+.screen2  .hse {font-size: 11px; left: 90%;}
+.screen2  .zdorovo {left: 10.5%;width: 82%;font-size: 18px;top: 72%;}
 }
 @media all and (min-width: 700px) and (max-width: 715px){
 .screen1 .ratio {padding-bottom: 399.479167%;}
@@ -2435,6 +2545,11 @@ div .pfin {left: 25%;top: 23%; font-size: 30px;}
 .screen1 .ptip18 {display: block; left: 6%; top: 27%;}
 .screen1 .fin {top: 97.5%;width: 20.7%; border: solid black 3px;}
 .screen1 .pfin {left: 24.5%;top: 23%; font-size: 20px;}
+.screen2 .chelovek{top: 14%; padding-bottom: 60%;width: 147%; left: 7.3%;}
+.screen2  .avtor {font-size: 11px;}
+.screen2  .proekt {font-size: 11px;left: 47%;}
+.screen2  .hse {font-size: 11px; left: 90%;}
+.screen2  .zdorovo {left: 10.5%;width: 82%;font-size: 18px;top: 72%;}
 }
 @media all and (min-width: 685px) and (max-width: 699px){
 .screen1 .ratio {padding-bottom: 399.479167%;}
@@ -2568,6 +2683,11 @@ div .pfin {left: 25%;top: 23%; font-size: 30px;}
 .screen1 .ptip18 {display: block; left: 6%; top: 27%;}
 .screen1 .fin {top: 97.5%;width: 20.7%; border: solid black 3px;}
 .screen1 .pfin {left: 24.5%;top: 23%; font-size: 20px;}
+.screen2 .chelovek{top: 14%; padding-bottom: 60%;width: 147%; left: 7.3%;}
+.screen2  .avtor {font-size: 11px;}
+.screen2  .proekt {font-size: 11px;left: 47%;}
+.screen2  .hse {font-size: 11px; left: 90%;}
+.screen2  .zdorovo {left: 10.5%;width: 82%;font-size: 18px;top: 72%;}
 }
 @media all and (min-width: 671px) and (max-width: 684px){
 .screen1 .ratio {padding-bottom: 399.479167%;}
@@ -2701,6 +2821,11 @@ div .pfin {left: 25%;top: 23%; font-size: 30px;}
 .screen1 .ptip18 {display: block; left: 6%; top: 27%;}
 .screen1 .fin {top: 97.5%;width: 20.7%; border: solid black 3px;}
 .screen1 .pfin {left: 24.5%;top: 23.5%; font-size: 19px;}
+.screen2 .chelovek{top: 18.5%; padding-bottom: 60%;width: 147%; left: 7.3%;}
+.screen2  .avtor {font-size: 11px;}
+.screen2  .proekt {font-size: 11px;left: 47%;}
+.screen2  .hse {font-size: 11px; left: 89%;}
+.screen2  .zdorovo {left: 10%;width: 83%;font-size: 18px;top: 72%;}
 }
 @media all and (min-width: 650px) and (max-width: 670px){
 .screen1 .ratio {padding-bottom: 399.479167%;}
@@ -2834,6 +2959,12 @@ div .pfin {left: 25%;top: 23%; font-size: 30px;}
 .screen1 .ptip18 {display: block; left: 6%; top: 27%;}
 .screen1 .fin {top: 97.5%;width: 20.7%; border: solid black 3px;}
 .screen1 .pfin {left: 24.5%;top: 23.5%; font-size: 19px;}
+.screen2 .chelovek{top: 15%; padding-bottom: 60%;width: 147%; left: 7.3%;}
+.screen2  .avtor {font-size: 11px;}
+.screen2  .proekt {font-size: 11px;left: 47%;}
+.screen2  .hse {font-size: 11px; left: 88%;}
+.screen2  .zdorovo {left: 9%;width: 85%;font-size: 18px;top: 72%;}
+
 }
 @media all and (min-width: 610px) and (max-width: 649px){
 .screen1 .ratio {padding-bottom: 399.479167%;}
@@ -2967,6 +3098,11 @@ div .pfin {left: 25%;top: 23%; font-size: 30px;}
 .screen1 .ptip18 {display: block; left: 6%; top: 27%;}
 .screen1 .fin {top: 97.5%;width: 20.7%; border: solid black 3px;}
 .screen1 .pfin {left: 24.5%;top: 23.5%; font-size: 18px;}
+.screen2 .chelovek{top: 14%; padding-bottom: 65%;width: 160%; left: 7.3%;}
+.screen2  .avtor {font-size: 11px;}
+.screen2  .proekt {font-size: 11px;left: 46%;}
+.screen2  .hse {font-size: 11px; left: 87%;}
+.screen2  .zdorovo {left: 8.5%;width: 87%;font-size: 18px;top: 72%;}
 }
 @media all and (min-width: 581px) and (max-width: 609px){
 .screen1 .ratio {padding-bottom: 399.479167%;}
@@ -3100,6 +3236,11 @@ div .pfin {left: 25%;top: 23%; font-size: 30px;}
 .screen1 .ptip18 {display: block; left: 6%; top: 27%;}
 .screen1 .fin {top: 97.5%;width: 20.7%; border: solid black 3px;}
 .screen1 .pfin {left: 24.5%;top: 23.5%; font-size: 18px;}
+.screen2 .chelovek{top: 14%; padding-bottom: 65%;width: 160%; left: 7.3%;}
+.screen2  .avtor {font-size: 11px;}
+.screen2  .proekt {font-size: 11px;left: 46%;}
+.screen2  .hse {font-size: 11px; left: 87%;}
+.screen2  .zdorovo {left: 7%;width: 88%;font-size: 18px;top: 72%;}
 }
 @media all and (min-width: 550px) and (max-width: 580px){
 .screen1 .ratio {padding-bottom: 399.479167%;}
@@ -3233,6 +3374,11 @@ div .pfin {left: 25%;top: 23%; font-size: 30px;}
 .screen1 .ptip18 {display: block; left: 9%; top: 22%;font-size: 11px;}
 .screen1 .fin {top: 97.5%;width: 20.7%; border: solid black 3px;}
 .screen1 .pfin {left: 24.5%;top: 23.5%; font-size: 16px;}
+.screen2 .chelovek{top: 15%; padding-bottom: 70%;width: 168%; left: 7.3%;}
+.screen2  .avtor {font-size: 11px;}
+.screen2  .proekt {font-size: 11px;left: 46%;}
+.screen2  .hse {font-size: 11px; left: 87%;}
+.screen2  .zdorovo {left: 8%;width: 90%;font-size: 16px;top: 73%;}
 }
 @media all and (min-width: 525px) and (max-width: 549px){
 .screen1 .ratio {padding-bottom: 399.479167%;}
@@ -3366,6 +3512,11 @@ div .pfin {left: 25%;top: 23%; font-size: 30px;}
 .screen1 .ptip18 {display: block; left: 8%; top: 20%;font-size: 11px;}
 .screen1 .fin {top: 97.5%;width: 20.7%; border: solid black 3px;}
 .screen1 .pfin {left: 24.5%;top: 23.5%; font-size: 16px;}
+.screen2 .chelovek{top: 10%; padding-bottom: 80%;width: 168%; left: 7.3%;}
+.screen2  .avtor {font-size: 11px;}
+.screen2  .proekt {font-size: 11px;left: 46%;}
+.screen2  .hse {font-size: 11px; left: 86%;}
+.screen2  .zdorovo {left: 8%;width: 90%;font-size: 16px;top: 73%;}
 }
 @media all and (min-width: 525px) and (max-width: 549px){
 .screen1 .ratio {padding-bottom: 399.479167%;}
@@ -3499,6 +3650,11 @@ div .pfin {left: 25%;top: 23%; font-size: 30px;}
 .screen1 .ptip18 {display: block; left: 8%; top: 20%;font-size: 10.5px;}
 .screen1 .fin {top: 97.5%;width: 20.7%; border: solid black 2.8px;}
 .screen1 .pfin {left: 24.5%;top: 23.5%; font-size: 15px;}
+.screen2 .chelovek{top: 10%; padding-bottom: 80%;width: 195%; left: 7%;}
+.screen2  .avtor {font-size: 11px;}
+.screen2  .proekt {font-size: 11px;left: 46%;}
+.screen2  .hse {font-size: 11px; left: 86%;}
+.screen2  .zdorovo {left: 7%;width: 90%;font-size: 16px;top: 73%;}
 }
 @media all and (min-width: 501px) and (max-width: 524px){
 .screen1 .ratio {padding-bottom: 399.479167%;}
@@ -3632,6 +3788,11 @@ div .pfin {left: 25%;top: 23%; font-size: 30px;}
 .screen1 .ptip18 {display: block; left: 8%; top: 20%;font-size: 10.5px;}
 .screen1 .fin {top: 97.5%;width: 20.7%; border: solid black 2.8px;}
 .screen1 .pfin {left: 24.5%;top: 23.5%; font-size: 14px;}
+.screen2 .chelovek{top: 10%; padding-bottom: 80%;width: 195%; left: 7.3%;}
+.screen2  .avtor {font-size: 11px;}
+.screen2  .proekt {font-size: 11px;left: 46%;}
+.screen2  .hse {font-size: 11px; left: 86%;}
+.screen2  .zdorovo {left: 7%;width: 90%;font-size: 16px;top: 73%;}
 }
 
 @media all and (min-width: 480px) and (max-width: 500px){
@@ -3774,6 +3935,11 @@ div .ratio {padding-bottom: 575.106383%;}
 .screen1 .ptip18 {display: block; left: 8%; top: 20%;font-size: 10px;}
 .screen1 .fin {top: 95.7%;width: 20.7%; border: solid black 2.8px; height: 01.5%}
 .screen1 .pfin {left: 24%;top: 23.5%; font-size: 15px;}
+.screen2 .chelovek{top: 10%; padding-bottom: 90%;width: 220%; left: 4%;}
+.screen2  .avtor {font-size: 11px;}
+.screen2  .proekt {font-size: 11px;left: 46%;}
+.screen2  .hse {font-size: 11px; left: 85%;}
+.screen2  .zdorovo {left: 6%;width: 91%;font-size: 15px;top: 73%;}
 }
 @media all and (min-width: 450px) and (max-width: 479px){
 div .ratio {padding-bottom: 575.106383%;}
@@ -3915,6 +4081,11 @@ div .ratio {padding-bottom: 575.106383%;}
 .screen1 .ptip18 {display: block; left: 8%; top: 20%;font-size: 10px;}
 .screen1 .fin {top: 95.7%;width: 20.7%; border: solid black 2.8px; height: 01.5%}
 .screen1 .pfin {left: 24%;top: 23.5%; font-size: 15px;}
+.screen2 .chelovek{top: 19%; padding-bottom: 101%;width: 250%; left: 4%;}
+.screen2  .avtor {font-size: 11px;}
+.screen2  .proekt {font-size: 11px;left: 46%;}
+.screen2  .hse {font-size: 11px; left: 85%;}
+.screen2  .zdorovo {left: 5.5%;width: 91%;font-size: 15px;top: 73%;}
 }
 @media all and (min-width: 430px) and (max-width: 449px){
 div .ratio {padding-bottom: 575.106383%;}
@@ -4197,6 +4368,11 @@ div .ratio {padding-bottom: 575.106383%;}
 .screen1 .ptip18 {display: block; left: 8%; top: 20%;font-size: 10px;}
 .screen1 .fin {top: 96%;width: 24%; border: solid black 2.8px; height: 01.4%;left:36%;}
 .screen1 .pfin {left: 26.3%;top: 23.7%; font-size: 14px;}
+.screen2 .chelovek{top: 19%; padding-bottom: 101%;width: 250%; left: 4%;}
+.screen2  .avtor {font-size: 11px;}
+.screen2  .proekt {font-size: 11px;left: 46%;}
+.screen2  .hse {font-size: 11px; left: 85%;}
+.screen2  .zdorovo {left: 5.3%;width: 91%;font-size: 14px;top: 73%;}
 }
 @media all and (min-width: 400px) and (max-width: 429px){
 div .ratio {padding-bottom: 575.106383%;}
@@ -4338,6 +4514,13 @@ div .ratio {padding-bottom: 575.106383%;}
 .screen1 .ptip18 {display: block; left: 8%; top: 20%;font-size: 10px;}
 .screen1 .fin {top: 96%;width: 24%; border: solid black 2.8px; height: 01.4%;left:36%;}
 .screen1 .pfin {left: 27%;top: 23.5%; font-size: 13px;}
+.screen2 .chelovek{top: 17%; padding-bottom: 130%;width: 320%; left:-20%;}
+.chelovek .valshirt{display: none;}
+.chelovek .valruka{display: none;}
+.screen2  .avtor {font-size: 10px;}
+.screen2  .proekt {font-size: 10px;left: 46%;}
+.screen2  .hse {font-size: 10px; left: 84%;}
+.screen2  .zdorovo {left: 7.5%;width: 91%;font-size: 12px;top: 73%;}
 }
 @media all and (min-width: 380px) and (max-width: 399px){
 div .ratio {padding-bottom: 575.106383%;}
@@ -4479,6 +4662,13 @@ div .ratio {padding-bottom: 575.106383%;}
 .screen1 .ptip18 {display: block; left: 8%; top: 20%;font-size: 9.5px;}
 .screen1 .fin {top: 96%;width: 24%; border: solid black 2.8px; height: 01.4%;left:36%;}
 .screen1 .pfin {left: 27%;top: 23.5%; font-size: 12px;}
+.screen2 .chelovek{top: 17%; padding-bottom: 130%;width: 320%; left:-20%;}
+.chelovek .valshirt{display: none;}
+.chelovek .valruka{display: none;}
+.screen2  .avtor {font-size: 10px;}
+.screen2  .proekt {font-size: 10px;left: 46%;}
+.screen2  .hse {font-size: 10px; left: 84%;}
+.screen2  .zdorovo {left: 7.5%;width: 91%;font-size: 11px;top: 73%;}
 }
 @media all and (min-width: 360px) and (max-width: 379px){
 div .ratio {padding-bottom: 575.106383%;}
@@ -4620,6 +4810,13 @@ div .ratio {padding-bottom: 575.106383%;}
 .screen1 .ptip18 {display: block; left: 8%; top: 20%;font-size: 9.5px;}
 .screen1 .fin {top: 96%;width: 24%; border: solid black 2.8px; height: 01.4%;left:38%;}
 .screen1 .pfin {left: 23%;top: 23.5%; font-size: 13px;}
+.screen2 .chelovek{top: 17%; padding-bottom: 130%;width: 320%; left:-20%;}
+.chelovek .valshirt{display: none;}
+.chelovek .valruka{display: none;}
+.screen2  .avtor {font-size: 10px;}
+.screen2  .proekt {font-size: 10px;left: 46%;}
+.screen2  .hse {font-size: 10px; left: 84%;}
+.screen2  .zdorovo {left: 6.5%;width: 91%;font-size: 11px;top: 73%;}
 }
 @media all and (min-width: 339px) and (max-width: 359px){
 div .ratio {padding-bottom: 575.106383%;}
@@ -4761,6 +4958,13 @@ div .ratio {padding-bottom: 575.106383%;}
 .screen1 .ptip18 {display: block; left: 8%; top: 20%;font-size: 9.5px;}
 .screen1 .fin {top: 96%;width: 24%; border: solid black 2.8px; height: 01.4%;left:38%;}
 .screen1 .pfin {left: 23%;top: 23.5%; font-size: 12px;}
+.screen2 .chelovek{top: 17%; padding-bottom: 130%;width: 320%; left:-20%;}
+.chelovek .valshirt{display: none;}
+.chelovek .valruka{display: none;}
+.screen2  .avtor {font-size: 10px;}
+.screen2  .proekt {font-size: 10px;left: 44%;}
+.screen2  .hse {font-size: 10px; left: 83%;}
+.screen2  .zdorovo {left: 6.5%;width: 91%;font-size: 10px;top: 73%;}
 }
 @media all and (min-width: 324px) and (max-width: 338px){
 div .ratio {padding-bottom: 575.106383%;}
@@ -5043,4 +5247,11 @@ div .ratio {padding-bottom: 575.106383%;}
 .screen1 .ptip18 {display: block; left: 8%; top: 20%;font-size: 9px;}
 .screen1 .fin {top: 96%;width: 24%; border: solid black 2.8px; height: 01.4%;left:38%;}
 .screen1 .pfin {left: 23%;top: 23.5%; font-size: 12px;}
+.screen2 .chelovek{top: 17%; padding-bottom: 130%;width: 320%; left:-20%;}
+.chelovek .valshirt{display: none;}
+.chelovek .valruka{display: none;}
+.screen2  .avtor {font-size: 10px;}
+.screen2  .proekt {font-size: 10px;left: 44%;}
+.screen2  .hse {font-size: 10px; left: 83%;}
+.screen2  .zdorovo {left: 6.5%;width: 91%;font-size: 10px;top: 73%;}
 }
